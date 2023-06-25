@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nＨＰを300ポイント回復する",
+        "description": "[Ally Single] Recovers 300 HP.",
         "effects": [
             {
                 "code": 11,
@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "回復薬",
+        "name": "Recovery Potion",
         "note": "",
         "occasion": 0,
         "price": 3,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nＨＰを800ポイント回復する",
+        "description": "[Ally Single] Recovers 800 HP.",
         "effects": [
             {
                 "code": 11,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "大回復薬",
+        "name": "Great Healing Potion",
         "note": "",
         "occasion": 0,
         "price": 6,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nＨＰを全回復する",
+        "description": "[Ally Single] Fully restores HP.",
         "effects": [
             {
                 "code": 11,
@@ -89,7 +89,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "最大回復薬",
+        "name": "Maximum Recovery Potion",
         "note": "",
         "occasion": 0,
         "price": 10,
@@ -110,7 +110,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "劇薬。取扱い注意",
+        "description": "Dangerous drug. Handle with caution.",
         "effects": [
             {
                 "code": 32,
@@ -152,7 +152,7 @@
         "hitType": 0,
         "iconIndex": 10,
         "itypeId": 1,
-        "name": "自害薬",
+        "name": "Suicide Drug",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -173,7 +173,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nMＰを100ポイント回復する",
+        "description": "[Ally Single] Recovers 100 MP points.",
         "effects": [
             {
                 "code": 12,
@@ -185,7 +185,7 @@
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 1,
-        "name": "精神薬",
+        "name": "Mental Medicine",
         "note": "",
         "occasion": 0,
         "price": 5,
@@ -206,7 +206,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nMＰを300ポイント回復する",
+        "description": "[Ally Single] Recovers 300 MP points.",
         "effects": [
             {
                 "code": 12,
@@ -218,7 +218,7 @@
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 1,
-        "name": "精神安定薬",
+        "name": "Mental Stability Medicine",
         "note": "",
         "occasion": 0,
         "price": 10,
@@ -239,7 +239,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nTPを40ポイント回復する",
+        "description": "[Ally Single] Recovers 40 TP points.",
         "effects": [
             {
                 "code": 13,
@@ -251,7 +251,7 @@
         "hitType": 0,
         "iconIndex": 275,
         "itypeId": 1,
-        "name": "気合一発ドリンク",
+        "name": "One Shot Energy Drink",
         "note": "",
         "occasion": 0,
         "price": 8,
@@ -272,7 +272,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【味方単体】\nTPを100ポイント回復する",
+        "description": "[Ally Single] Recovers 100 TP points.",
         "effects": [
             {
                 "code": 13,
@@ -284,7 +284,7 @@
         "hitType": 0,
         "iconIndex": 275,
         "itypeId": 1,
-        "name": "朝まで連発ドリンク",
+        "name": "All-Night Binge Drink",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -305,7 +305,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "スーツの損傷含めすべてを回復できるツール",
+        "description": "A tool that can repair all damages, including those to suits.",
         "effects": [
             {
                 "code": 11,
@@ -371,7 +371,7 @@
         "hitType": 0,
         "iconIndex": 72,
         "itypeId": 1,
-        "name": "修復ツール",
+        "name": "Repair Tool",
         "note": "",
         "occasion": 2,
         "price": 20,
@@ -392,7 +392,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "アーマーが一発で破損してしまう。取扱い注意",
+        "description": "Armor is easily damaged with just one hit. Handle with care.",
         "effects": [
             {
                 "code": 21,
@@ -404,7 +404,7 @@
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 1,
-        "name": "装甲破損剤",
+        "name": "Armor Damaging Agent",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -425,12 +425,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "鍵の掛かった扉、金庫を開ける\n使うと壊れてしまうため使い捨て。",
+        "description": "Unlock locked doors and safes Disposable because they break when used.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 1,
-        "name": "ピッキングツール",
+        "name": "Picking Tool",
         "note": "",
         "occasion": 3,
         "price": 10000,
@@ -451,7 +451,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "眩しい光で敵全体をスタンさせる",
+        "description": "Stun all enemies with a dazzling light.",
         "effects": [
             {
                 "code": 21,
@@ -463,7 +463,7 @@
         "hitType": 0,
         "iconIndex": 118,
         "itypeId": 1,
-        "name": "閃光弾",
+        "name": "Flash Bullet",
         "note": "",
         "occasion": 1,
         "price": 3000,
@@ -484,12 +484,12 @@
             "type": 1,
             "variance": 50
         },
-        "description": "放り投げるだけで簡単に敵を攻撃できる",
+        "description": "You can easily attack enemies just by throwing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 118,
         "itypeId": 1,
-        "name": "手榴弾",
+        "name": "Hand grenade",
         "note": "",
         "occasion": 1,
         "price": 4000,
@@ -510,7 +510,7 @@
             "type": 1,
             "variance": 50
         },
-        "description": "吹き付けると敵全体を毒に出来る",
+        "description": "When blown, it can poison the entire enemy team.",
         "effects": [
             {
                 "code": 21,
@@ -522,7 +522,7 @@
         "hitType": 0,
         "iconIndex": 118,
         "itypeId": 1,
-        "name": "防犯スプレー",
+        "name": "Crime prevention spray",
         "note": "",
         "occasion": 1,
         "price": 2500,
@@ -543,12 +543,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "おろしたてのキレイなパンツ",
+        "description": "Freshly laundered clean pants",
         "effects": [],
         "hitType": 0,
         "iconIndex": 90,
         "itypeId": 1,
-        "name": "新品パンツ",
+        "name": "New Pants",
         "note": "",
         "occasion": 3,
         "price": 300,
@@ -569,12 +569,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "数日履きっぱなしの汚いパンツ。\nできるだけ取り替えよう",
+        "description": "Dirty pants that have been worn for several days. Let's try to change them as soon as\npossible.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 90,
         "itypeId": 1,
-        "name": "汚れたパンツ",
+        "name": "Dirty Pants",
         "note": "",
         "occasion": 3,
         "price": 2000,
@@ -607,7 +607,7 @@
         "hitType": 0,
         "iconIndex": 23,
         "itypeId": 1,
-        "name": "興奮スプレー",
+        "name": "Excitement Spray",
         "note": "",
         "occasion": 0,
         "price": 1,
@@ -628,7 +628,7 @@
             "type": 2,
             "variance": 20
         },
-        "description": "ＭＰを犠牲にしてＨＰを全回復する",
+        "description": "Sacrifice MP to fully restore HP.",
         "effects": [
             {
                 "code": 11,
@@ -640,7 +640,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "崖っぷち薬",
+        "name": "Cliff Edge Medicine",
         "note": "",
         "occasion": 0,
         "price": 1,
@@ -694,12 +694,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "工事現場で使われる爆薬",
+        "description": "Explosives used at construction sites.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 243,
         "itypeId": 2,
-        "name": "ダイナマイト",
+        "name": "Dynamite",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -720,7 +720,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n最大MＰを50ポイント上げる",
+        "description": "[Growth] Increases maximum MP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -732,7 +732,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ＭＰアップ",
+        "name": "MP Up",
         "note": "",
         "occasion": 2,
         "price": 10,
@@ -753,7 +753,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n最大ＨＰを50ポイント上げる",
+        "description": "[Growth] Increases maximum HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -765,7 +765,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ＨＰアップ",
+        "name": "HP Up",
         "note": "",
         "occasion": 2,
         "price": 10,
@@ -786,7 +786,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n攻撃力を3ポイント上げる",
+        "description": "[Growth] Increase attack power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -798,7 +798,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 20,
@@ -819,7 +819,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n防御力を3ポイント上げる",
+        "description": "[Growth] Increase defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -831,7 +831,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 20,
@@ -852,7 +852,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n敏捷性を3ポイント上げる",
+        "description": "【Growth】 Increase agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -864,7 +864,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 20,
@@ -885,7 +885,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【成長】\n性耐性を3ポイント上げる",
+        "description": "[Growth] Increases sexual endurance by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -897,7 +897,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "メンタルアップ",
+        "name": "Mental Up",
         "note": "",
         "occasion": 2,
         "price": 15,
@@ -918,7 +918,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "劇薬。取扱い注意",
+        "description": "Dangerous drug. Handle with caution.",
         "effects": [
             {
                 "code": 32,
@@ -972,7 +972,7 @@
         "hitType": 0,
         "iconIndex": 26,
         "itypeId": 1,
-        "name": "アブナイ薬",
+        "name": "Dangerous Medicine",
         "note": "",
         "occasion": 0,
         "price": 0,

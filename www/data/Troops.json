@@ -702,8 +702,8 @@
                         "indent": 0,
                         "parameters": [
                             [
-                                "即エロアニメチェック",
-                                "いいえ",
+                                "Instant Erotic Anime Check",
+                                "No",
                                 "syokuysyu"
                             ],
                             1,
@@ -848,28 +848,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「固有スキルは強力だが精神力を消費する"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ＳＩＧＮＡＬスーツは頑丈だが仕様者の精神力が弱まると"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "脆くなるので注意したまえ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "敵もその弱点を狡猾についてくる」"
+                            "Unique skills are powerful but consume mental energy. The SIGNAL suit\nis sturdy, but if the user's mental strength weakens, it becomes\nfragile, so be careful. The enemy will also cunningly exploit that\nweakness."
                         ]
                     },
                     {
@@ -944,21 +923,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「おっと精神を揺さぶるセクハラ攻撃が来たぞ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "精神力が0を下回ると装甲が"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "脱げてしまうので気をつけ給え」"
+                            "Oops, a sexual harassment attack that shakes the mind has come. If\nyour mental strength falls below 0, your armor will come off, so be\ncareful."
                         ]
                     },
                     {
@@ -999,21 +964,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「装甲がない状態でセクハラ攻撃を食らうと"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "押し倒されて完全に抵抗できなくなってしまう"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "一人の状態では絶望的だな」"
+                            "It's hopeless to be completely defenseless and unable to resist when\nsubjected to sexual harassment attacks without armor."
                         ]
                     },
                     {
@@ -1030,21 +981,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「そのために我々はチームで戦うのだ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "仲間が押し倒されたら補助技能の「救助」"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "で助けなさい"
+                            "That's why we fight as a team. If a teammate is overwhelmed, use the\nsupport skill 'Rescue' to help them."
                         ]
                     },
                     {
@@ -1096,14 +1033,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ＴＰが満タンになったら一発逆転のチャンスだ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "強力なＴＰスキルで一気に敵を殲滅したまえ」"
+                            "When your TP gauge is full, it's your chance for a comeback. Use a\npowerful TP skill to quickly annihilate the enemy."
                         ]
                     },
                     {
@@ -1144,21 +1074,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「よし、訓練は終了だ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "おめでとう"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "晴れて正式隊員として君を迎え入れよう」"
+                            "Alright, the training is over. Congratulations, I will officially\nwelcome you as a full-fledged member."
                         ]
                     },
                     {
@@ -1209,12 +1125,12 @@
                         "indent": 0,
                         "parameters": [
                             [
-                                "半裸",
-                                "全裸",
-                                "拘束",
-                                "全裸取り",
-                                "半裸取り",
-                                "事後"
+                                "Half-naked",
+                                "Naked",
+                                "Restraint",
+                                "Naked Capture",
+                                "Half-Naked Takedown",
+                                "Aftermath"
                             ],
                             1,
                             0,
@@ -1404,8 +1320,8 @@
                         "indent": 0,
                         "parameters": [
                             [
-                                "かいぞう",
-                                "いいえ"
+                                "Kaizo",
+                                "No"
                             ],
                             1,
                             0,

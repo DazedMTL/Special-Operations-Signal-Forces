@@ -102,7 +102,7 @@
                 "skillId": 24
             }
         ],
-        "name": "ソルジャースーツ",
+        "name": "Soldier Suit",
         "note": "",
         "params": [
             [
@@ -1020,7 +1020,7 @@
                 "skillId": 28
             }
         ],
-        "name": "アサシンスーツ",
+        "name": "Assassin Suit",
         "note": "",
         "params": [
             [
@@ -1928,7 +1928,7 @@
                 "skillId": 34
             }
         ],
-        "name": "ファイタースーツ",
+        "name": "Fighter Suit",
         "note": "",
         "params": [
             [
@@ -2806,7 +2806,7 @@
                 "skillId": 8
             }
         ],
-        "name": "僧侶",
+        "name": "Cleric",
         "note": "",
         "params": [
             [

@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 13,
-        "description": "トンファーにパイルバンカーの機能を付けた\n暴徒鎮圧用重鈍器。爆薬で攻撃もできる",
+        "description": "A heavy blunt weapon for suppressing riots, equipped with the functions of a tonfa and a\npile bunker. It can also be used for explosive attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 113,
-        "name": "パイルトンファー",
+        "name": "Piletonfa",
         "note": "",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 9,
-        "description": "高周波と刀剣で同時に敵を切り裂く\n切れ味抜群の刀身武具",
+        "description": "Simultaneously cut through enemies with high-frequency waves and swords A sword with\nexcellent cutting power",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "ツインブレード",
+        "name": "Twin Blade",
         "note": "",
         "params": [
             0,
@@ -69,7 +69,7 @@
     {
         "id": 3,
         "animationId": 5,
-        "description": "電気ショックを付与させる超重量級鈍器",
+        "description": "A super heavyweight blunt weapon that inflicts electric shock.",
         "etypeId": 1,
         "traits": [
             {
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "ハンマーボルト",
+        "name": "Hammer Bolt",
         "note": "",
         "params": [
             0,

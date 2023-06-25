@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "盾",
+        "name": "Shield",
         "note": "",
         "params": [
             0,
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "帽子",
+        "name": "Hat",
         "note": "",
         "params": [
             0,
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "服",
+        "name": "Clothing",
         "note": "",
         "params": [
             0,
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "指輪",
+        "name": "Ring",
         "note": "",
         "params": [
             0,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "白狐の妖力が蓄えられた鈴。\n装着者は狐の抜け穴を利用できる",
+        "description": "A bell that has accumulated the supernatural power of the white fox. The wearer can\nutilize the fox's escape route.",
         "etypeId": 2,
         "traits": [
             {
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "白狐鈴",
+        "name": "White Fox Bell",
         "note": "",
         "params": [
             0,
@@ -165,7 +165,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "気力の回復がやや増える",
+        "description": "I slightly increase the recovery of my energy.",
         "etypeId": 3,
         "traits": [
             {
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "気力の指輪",
+        "name": "Ring of Energy",
         "note": "",
         "params": [
             0,
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "精神力の回復がやや増える",
+        "description": "The recovery of mental strength slightly increases.",
         "etypeId": 3,
         "traits": [
             {
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "精神力の指輪",
+        "name": "Ring of Mental Power",
         "note": "",
         "params": [
             0,
@@ -219,7 +219,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "体力の回復がやや増える",
+        "description": "The recovery of stamina slightly increases.",
         "etypeId": 3,
         "traits": [
             {
@@ -229,7 +229,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "体力の指輪",
+        "name": "Ring of Vitality",
         "note": "",
         "params": [
             0,
@@ -246,11 +246,11 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "攻撃力がやや増える",
+        "description": "Attack power slightly increases.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 145,
-        "name": "金剛の指輪",
+        "name": "Ring of the Diamond",
         "note": "",
         "params": [
             0,
@@ -267,11 +267,11 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "防御力がやや増える",
+        "description": "Defense power slightly increases.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 145,
-        "name": "銅の指輪",
+        "name": "Copper Ring",
         "note": "",
         "params": [
             0,
@@ -288,11 +288,11 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "防御力が増える",
+        "description": "Defense power increases.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 145,
-        "name": "銀の指輪",
+        "name": "Silver Ring",
         "note": "",
         "params": [
             0,
@@ -309,11 +309,11 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "防御力がかなり増える",
+        "description": "Defense power increases significantly.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 145,
-        "name": "金の指輪",
+        "name": "Gold Ring",
         "note": "",
         "params": [
             0,
@@ -330,11 +330,11 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "防御力がとても増える",
+        "description": "Defense power greatly increases.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 145,
-        "name": "白金の指輪",
+        "name": "Platinum Ring",
         "note": "",
         "params": [
             0,
@@ -621,7 +621,7 @@
     {
         "id": 25,
         "atypeId": 1,
-        "description": "気力の回復がやや増える",
+        "description": "I slightly increase the recovery of my energy.",
         "etypeId": 3,
         "traits": [
             {
@@ -631,7 +631,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "気力の首飾り",
+        "name": "Necklace of Energy",
         "note": "",
         "params": [
             0,
@@ -648,7 +648,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "精神力の回復がやや増える",
+        "description": "The recovery of mental strength slightly increases.",
         "etypeId": 3,
         "traits": [
             {
@@ -658,7 +658,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "精神力の首飾り",
+        "name": "Necklace of Spiritual Power",
         "note": "",
         "params": [
             0,
@@ -675,7 +675,7 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "体力の回復がやや増える",
+        "description": "The recovery of stamina slightly increases.",
         "etypeId": 3,
         "traits": [
             {
@@ -685,7 +685,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "体力の首飾り",
+        "name": "Vitality Necklace",
         "note": "",
         "params": [
             0,
@@ -702,11 +702,11 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "攻撃力がやや増える",
+        "description": "Attack power slightly increases.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 146,
-        "name": "金剛の首飾り",
+        "name": "Vajra Necklace",
         "note": "",
         "params": [
             0,
@@ -723,11 +723,11 @@
     {
         "id": 29,
         "atypeId": 1,
-        "description": "防御力がやや増える",
+        "description": "Defense power slightly increases.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 146,
-        "name": "銅の首飾り",
+        "name": "Copper necklace",
         "note": "",
         "params": [
             0,
@@ -744,11 +744,11 @@
     {
         "id": 30,
         "atypeId": 1,
-        "description": "防御力が増える",
+        "description": "Defense power increases.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 146,
-        "name": "銀の首飾り",
+        "name": "Silver necklace",
         "note": "",
         "params": [
             0,
@@ -765,11 +765,11 @@
     {
         "id": 31,
         "atypeId": 1,
-        "description": "防御力がかなり増える",
+        "description": "Defense power increases significantly.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 146,
-        "name": "金の首飾り",
+        "name": "Golden necklace",
         "note": "",
         "params": [
             0,
@@ -786,11 +786,11 @@
     {
         "id": 32,
         "atypeId": 1,
-        "description": "防御力がとても増える",
+        "description": "Defense power greatly increases.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 146,
-        "name": "白金の首飾り",
+        "name": "Platinum necklace",
         "note": "",
         "params": [
             0,

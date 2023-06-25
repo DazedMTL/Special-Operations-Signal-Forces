@@ -63,7 +63,7 @@
             }
         ],
         "gold": 0,
-        "name": "こうもり",
+        "name": "Bat",
         "note": "",
         "params": [
             200,
@@ -117,7 +117,7 @@
             }
         ],
         "gold": 0,
-        "name": "サンドバッグ",
+        "name": "Sandbag",
         "note": "",
         "params": [
             3000,
@@ -218,7 +218,7 @@
             }
         ],
         "gold": 1,
-        "name": "サンシター",
+        "name": "Sanshita",
         "note": "",
         "params": [
             180,
@@ -301,7 +301,7 @@
             }
         ],
         "gold": 2,
-        "name": "ヨンシター",
+        "name": "Yonshita",
         "note": "",
         "params": [
             350,
@@ -391,7 +391,7 @@
             }
         ],
         "gold": 3,
-        "name": "ロクシター",
+        "name": "Rokushita",
         "note": "",
         "params": [
             500,
@@ -448,7 +448,7 @@
             }
         ],
         "gold": 100,
-        "name": "ホテルガードマン",
+        "name": "Hotel Guard Man",
         "note": "",
         "params": [
             50,
@@ -517,7 +517,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドローン",
+        "name": "Drone",
         "note": "",
         "params": [
             100,
@@ -593,7 +593,7 @@
             }
         ],
         "gold": 0,
-        "name": "ハイドローン",
+        "name": "Hydron",
         "note": "",
         "params": [
             300,
@@ -669,7 +669,7 @@
             }
         ],
         "gold": 0,
-        "name": "メガドローン",
+        "name": "Megadrone",
         "note": "",
         "params": [
             500,
@@ -770,7 +770,7 @@
             }
         ],
         "gold": 5,
-        "name": "テングギャング",
+        "name": "Tengugang",
         "note": "",
         "params": [
             600,
@@ -878,7 +878,7 @@
             }
         ],
         "gold": 3,
-        "name": "ワームギャング",
+        "name": "Worm Gang",
         "note": "",
         "params": [
             350,
@@ -986,7 +986,7 @@
             }
         ],
         "gold": 0,
-        "name": "テンタクルギャング",
+        "name": "Tentacle Gang",
         "note": "",
         "params": [
             700,
@@ -1094,7 +1094,7 @@
             }
         ],
         "gold": 4,
-        "name": "ゼリーギャング",
+        "name": "Jelly Gang",
         "note": "",
         "params": [
             200,
@@ -1202,7 +1202,7 @@
             }
         ],
         "gold": 15,
-        "name": "ドギーギャング",
+        "name": "Doggy Gang",
         "note": "",
         "params": [
             300,
@@ -1317,7 +1317,7 @@
             }
         ],
         "gold": 20,
-        "name": "ワーウルフギャング",
+        "name": "Werewolf Gang",
         "note": "",
         "params": [
             800,
@@ -1425,7 +1425,7 @@
             }
         ],
         "gold": 25,
-        "name": "オークギャング",
+        "name": "Orc Gang",
         "note": "",
         "params": [
             900,
@@ -1616,7 +1616,7 @@
             }
         ],
         "gold": 12,
-        "name": "マシーンギャング",
+        "name": "Machine Gang",
         "note": "",
         "params": [
             1000,
@@ -1710,7 +1710,7 @@
             }
         ],
         "gold": 3,
-        "name": "ワスプギャング",
+        "name": "Wasp Gang",
         "note": "",
         "params": [
             600,
@@ -1818,7 +1818,7 @@
             }
         ],
         "gold": 20,
-        "name": "ガンナーギャングスタ",
+        "name": "Gunner Gangsta",
         "note": "",
         "params": [
             2100,
@@ -1948,7 +1948,7 @@
             }
         ],
         "gold": 20,
-        "name": "ワームギャングスタ",
+        "name": "Worm Gangster",
         "note": "",
         "params": [
             3500,
@@ -2056,7 +2056,7 @@
             }
         ],
         "gold": 25,
-        "name": "オークギャングスタ",
+        "name": "Orc Gangster",
         "note": "",
         "params": [
             4500,
@@ -2171,7 +2171,7 @@
             }
         ],
         "gold": 25,
-        "name": "ハックギャングスタ",
+        "name": "Hack Gangster",
         "note": "",
         "params": [
             8000,
@@ -2233,7 +2233,7 @@
             }
         ],
         "gold": 0,
-        "name": "脱獄犯",
+        "name": "Escaped Convict",
         "note": "",
         "params": [
             1,
@@ -2358,7 +2358,7 @@
             }
         ],
         "gold": 25,
-        "name": "ドクターギャングスタ",
+        "name": "Doctor Gangsta",
         "note": "",
         "params": [
             5000,
@@ -3615,7 +3615,7 @@
             }
         ],
         "gold": 100,
-        "name": "ウィル・オ・ウィスプ",
+        "name": "Will-o'-Wisp",
         "note": "",
         "params": [
             290,
@@ -3765,7 +3765,7 @@
             }
         ],
         "gold": 120,
-        "name": "インプ",
+        "name": "Imp",
         "note": "",
         "params": [
             325,
@@ -3896,7 +3896,7 @@
             }
         ],
         "gold": 140,
-        "name": "ゲイザー",
+        "name": "Gazer",
         "note": "",
         "params": [
             352,
@@ -4088,7 +4088,7 @@
             }
         ],
         "gold": 1210,
-        "name": "デーモン",
+        "name": "Daemon",
         "note": "",
         "params": [
             4960,
@@ -4308,7 +4308,7 @@
             }
         ],
         "gold": 200,
-        "name": "水の精霊",
+        "name": "Water Spirit",
         "note": "",
         "params": [
             481,
@@ -4446,7 +4446,7 @@
             }
         ],
         "gold": 225,
-        "name": "エレキクラゲ",
+        "name": "Electric Jellyfish",
         "note": "",
         "params": [
             544,

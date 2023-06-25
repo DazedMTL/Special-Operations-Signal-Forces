@@ -615,7 +615,7 @@
             "magicEvasion": "%1 nullified the magic!",
             "magicReflection": "%1 reflected the magic!",
             "meVolume": "ME volume",
-            "obtainExp": "Acquired %2 of %1!",
+            "obtainExp": "Acquired %1 %2!",
             "obtainGold": "Obtained %1 GP!",
             "obtainItem": "I got %1!",
             "obtainSkill": "I learned %1!",

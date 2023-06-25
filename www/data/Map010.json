@@ -2731,21 +2731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「赤城候補生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これより最終テストに入る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眼の前の標的を倒してみたまえ」"
+                                "Red Signal, from now on, we will begin the final test. Try to defeat\nthe target in front of you."
                             ]
                         },
                         {

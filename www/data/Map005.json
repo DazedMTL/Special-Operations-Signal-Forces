@@ -2293,14 +2293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「よーし新人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はお前に新しい任務を教えるぞ」"
+                                "\\tl<妙義山ミカ> Alright, rookie. Today I'm going to teach you a new\nmission."
                             ]
                         },
                         {
@@ -2317,21 +2310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一通り熟したと思いますが。」"
+                                "\\tr<赤城アカネ> Huh? What is it? I think I've become quite proficient in\neverything."
                             ]
                         },
                         {
@@ -2348,21 +2327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「甘ちゃんだな・・・・　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつはマニュアルには書いてない任務なんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして最重要任務でもある・・・・その名も・・・」"
+                                "\\tl<妙義山ミカ> You're being naive... This mission isn't written in the\nmanual, and it's also the most important mission... Its name is..."
                             ]
                         },
                         {
@@ -2379,14 +2344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴクリ」"
+                                "\\tr<赤城アカネ> *gulp*"
                             ]
                         },
                         {
@@ -2403,14 +2361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「3時のお茶当番だ!!」"
+                                "\\>\\tl<妙義山ミカ> It's time for tea duty at 3 o'clock!"
                             ]
                         },
                         {
@@ -2427,14 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「ズコーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そりゃ書いてないですって・・・」"
+                                "\\>\\tr<赤城アカネ> That's right... It's not written in there..."
                             ]
                         },
                         {
@@ -2451,28 +2395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「大変だぞー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんせ私はミルクティーしか飲まない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  で、アオイは緑茶"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リッカちゃんにはホットココアをよろしくな」"
+                                "\\>\\tl<妙義山ミカ> It's tough, you know. I only drink milk tea. And Aoi\nprefers green tea, and for Rikka-chan, please prepare hot cocoa."
                             ]
                         },
                         {
@@ -2489,14 +2412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「はいはい・・・白根指令には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何を出したら良いでしょう？」"
+                                "\\>\\tr<赤城アカネ> Alright, alright... What should I present to Commander\nShirane?"
                             ]
                         },
                         {
@@ -2513,21 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「指令はコーヒー派なんだけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注文が五月蝿いから自分で入れてくれと結論が出てる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "放っておいてよし!!」"
+                                "\\>\\tl<妙義山ミカ> The commander is a coffee person. They concluded that\nit's bothersome to keep ordering, so they decided to make it\nthemselves. Just leave them alone!"
                             ]
                         },
                         {
@@ -2544,14 +2446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「指令・・・・・・・・・・・・」"
+                                "\\>\\tr<赤城アカネ> Commander..."
                             ]
                         },
                         {
@@ -2568,7 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「さあ、お湯を沸かして早速ミッション開始だぜ。」"
+                                "\\>\\tl<妙義山ミカ> Alright, let's boil some water and start the mission\nright away."
                             ]
                         },
                         {
@@ -2585,21 +2480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「了解!了解!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・・・・・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ・・・・水道・・・水が出ませんよ？」"
+                                "\\>\\tr<赤城アカネ> Roger! Roger! ... Huh... The water... It's not coming\nout?"
                             ]
                         },
                         {
@@ -2616,14 +2497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んん？　何だよ？故障か？」"
+                                "\\>\\tl<妙義山ミカ> Huh? What's wrong? Is it broken?"
                             ]
                         },
                         {
@@ -2701,14 +2575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「緊急犯罪警報!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急犯罪警報!!」"
+                                "Emergency crime alert!! Emergency crime alert!!"
                             ]
                         },
                         {
@@ -2737,14 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令>「これは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンデッドの出現」"
+                                "\\tl<白根司令> This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -2761,7 +2621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「市民からの情報多発」"
+                                "Multiple reports from citizens"
                             ]
                         },
                         {
@@ -2778,21 +2638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「下水の逆流が市内の各地で発生している模様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上水道にも汚水が侵食しているため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大規模な断水が発生しています」"
+                                "It seems that sewage backflow is occurring in various parts of the\ncity, and dirty water is also infiltrating the water supply, causing a\nlarge-scale water outage."
                             ]
                         },
                         {
@@ -2809,14 +2655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「た、大変です!!」"
+                                "\\>\\tr<赤城アカネ> Oh no, something terrible has happened!!"
                             ]
                         },
                         {
@@ -2833,14 +2672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令>「どうやら下水道で何者かが活発な活動を行っているようだ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いなく奴らだろう」"
+                                "\\>\\tl<白根司令> It seems that someone is engaging in vigorous activity in\nthe sewer... It's definitely them."
                             ]
                         },
                         {
@@ -2857,14 +2689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「ふえええ〜〜〜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでよりによってそんな所に」"
+                                "\\>\\tr<赤城アカネ> Ughhhh, why of all places..."
                             ]
                         },
                         {
@@ -2881,14 +2706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「なんてこった、貴重なお昼休憩を奪いやがるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつは卑劣な犯罪だぜ」"
+                                "\\>\\tl<妙義山ミカ> What the hell, stealing our precious lunch break? This\nis a despicable crime."
                             ]
                         },
                         {
@@ -2905,14 +2723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「嫌らしい所で活動してくれるわね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "髪に匂いが付いちゃうわ・・・」"
+                                "\\>\\tl<榛名アオイ> They're operating in such a disgusting place. My hair\nwill end up smelling..."
                             ]
                         },
                         {
@@ -2929,14 +2740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「場所を特定したわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "市内の下水道に複数のギャンデッド反応を確認」"
+                                "\\>\\tl<榛名アオイ> We have identified the location. Multiple Gandead\nreactions have been confirmed in the city's sewer system."
                             ]
                         },
                         {
@@ -2953,21 +2757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シグナルフォース!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただちに出動だ」"
+                                "\\>\\tl<白根司令> Signal Force!! Deploy immediately"
                             ]
                         },
                         {
@@ -2984,14 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「場所は市街地中心部のマンホール・・・５分後に出動"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１０分で到着します」"
+                                "\\>\\tl<榛名アオイ> The location is the manhole in the center of the city...\nWe will deploy in 5 minutes and arrive in 10 minutes."
                             ]
                         },
                         {
@@ -3051,14 +2834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシター>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ワッセワッセ・・・・」"
+                                "\\>\\tl<サンシター> Wassewasse..."
                             ]
                         },
                         {
@@ -3080,21 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「いいわー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のベイビーちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドンドン増えてドンドン暴れてねー」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Good, my baby is growing and causing more and more\ntrouble."
                             ]
                         },
                         {
@@ -3111,14 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシタ>「幹部殿〜〜〜〜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "臭いっす〜〜キツイっす〜〜〜」"
+                                "\\>\\tl<サンシタ> Boss, it stinks... It's intense..."
                             ]
                         },
                         {
@@ -3135,21 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「このジメジメベトベトがベイビーちゃんの発育にちょうどいいの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面倒な連中にも見つからないしサボるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタも苗床にしてやるわよー」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> This damp and sticky environment is just perfect for\nthe baby's growth. If those troublesome guys don't find us, and if you\nslack off, I'll turn you into a breeding ground too!"
                             ]
                         },
                         {
@@ -3166,14 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシタ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「か、カンベンシテクダセー」"
+                                "\\>\\tl<サンシタ> P-Please, have mercy!"
                             ]
                         },
                         {
@@ -3204,7 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこまでだギャンデッド!!」"
+                                "That's enough, Gandead!!"
                             ]
                         },
                         {
@@ -3252,7 +2986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「平和を導く蒼き光!!」"
+                                "The blue light that leads to peace!"
                             ]
                         },
                         {
@@ -3278,7 +3012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ブルーシグナル>\\{\\{「ブルーシグナル、現場に到着!!」"
+                                "Blue Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -3314,7 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪を蹴散らす太陽の光!!」"
+                                "The sunlight that scatters evil!"
                             ]
                         },
                         {
@@ -3340,14 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{「イエローシグナル、現場に到着!!」"
+                                "\\tr<イエローシグナル> Yellow Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -3383,7 +3110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪の暴走急停止、灼熱の光!!」"
+                                "The rampage of evil comes to a sudden stop, with the scorching\nlight!!"
                             ]
                         },
                         {
@@ -3409,14 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{「レッドシグナル、現場に到着!!」"
+                                "Red Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -3433,14 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>「市民の生命線である水道を脅かすなど言語道断!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その不気味な生命体の繁殖をただちに中止しなさい!!」"
+                                "\\>\\tr<ブルーシグナル> Threatening the lifeline of the citizens, the water\nsupply, is absolutely unacceptable! Cease the reproduction of those\neerie lifeforms immediately!"
                             ]
                         },
                         {
@@ -3457,14 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>「ウチらの数少ない憩いの時間を奪いやがって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に許さんぞ!!」"
+                                "\\>\\tr<イエローシグナル> You dare to steal our precious moments of\nrelaxation?! I will never forgive you!!"
                             ]
                         },
                         {
@@ -3481,21 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「貴様は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水道毒物等混入罪及び水道汚染罪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "並びに特定外来生物被害防止法に抵触している恐れがある」"
+                                "\\>\\tr<レドシグナル> There is a possibility that you are in violation of\nthe crimes of contaminating the water supply with toxic substances and\npolluting the water supply, as well as the law on prevention of damage\ncaused by specified invasive species."
                             ]
                         },
                         {
@@ -3512,14 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大人しく処罰されなさい!!」"
+                                "\\>\\tr<レドシグナル> Submit to punishment quietly!!"
                             ]
                         },
                         {
@@ -3536,14 +3221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「生意気ねー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタたちも苗床にしてあげちゃうわー」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> How cheeky. I'll turn you all into breeding grounds."
                             ]
                         },
                         {
@@ -3630,14 +3308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「よう、赤城"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大分出動にも慣れてきたみたいだな。」"
+                                "\\>\\tl<妙義山ミカ> Hey, Akagi. Looks like you're getting used to going out\non missions."
                             ]
                         },
                         {
@@ -3654,14 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「はい、かなり鍛えられましたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもやっぱり出動の後は毎回ボロボロになっちゃいます。」"
+                                "Yes, I've been trained quite a bit. But after every mission, I still\nend up completely exhausted."
                             ]
                         },
                         {
@@ -3678,21 +3342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「次々色んな改造犯罪者が出てきて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんどん強くなってるような気がしますし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと楽に倒せないもんですかね？」"
+                                "\\>\\tr<赤城アカネ> One after another, various modified criminals keep\nappearing... It feels like they're getting stronger and stronger. Is\nthere no way to defeat them more easily?"
                             ]
                         },
                         {
@@ -3709,14 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「全くもう・・・怠惰な考えね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犯罪には常に全力で当たらないと駄目よ」"
+                                "\\>\\tl<榛名アオイ> Honestly... such lazy thinking. You must always confront\ncrime with full force."
                             ]
                         },
                         {
@@ -3733,14 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、・・それはそうですけど・・・」"
+                                "\\>\\tr<赤城アカネ> W-Well, that's true but..."
                             ]
                         },
                         {
@@ -3757,21 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「相手が強くなるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コッチももっと鍛えりゃいいんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は特に余分な脂肪が付きすぎてるからな」"
+                                "\\>\\tl<妙義山ミカ> If the enemy is getting stronger, then we should train\neven harder. Especially you, because you have too much excess fat."
                             ]
                         },
                         {
@@ -3788,28 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「そうねぇ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽がしたいなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっそ私が改造してあげようかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腕を倍に増やせば攻撃も倍になるかも？」"
+                                "\\>\\tl<白根リカ> Well, if you want an easier time, should I just modify\nyou instead? If I double your arms, your attacks might also double,\nyou know?"
                             ]
                         },
                         {
@@ -3826,14 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「ひいい〜〜〜〜〜〜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構です」"
+                                "\\>\\tr<赤城アカネ> Oh no~ I'm fine."
                             ]
                         },
                         {
@@ -3850,21 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「冗談よ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあせめて武器だけでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと強化したいんだけどさ。」"
+                                "\\>\\tl<白根リカ> Just kidding. Well, at least I want to enhance my\nweapons more."
                             ]
                         },
                         {
@@ -3881,14 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「私達は警察官だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "過剰な武装は難しいわ。」"
+                                "\\>\\tl<榛名アオイ> We are police officers, so excessive armament is\ndifficult."
                             ]
                         },
                         {
@@ -3905,14 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「火器の使用は制限されてるからなー」"
+                                "\\>\\tl<妙義山ミカ> The use of firearms is restricted, you know."
                             ]
                         },
                         {
@@ -3929,14 +3495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんですか。」"
+                                "\\>\\tr<赤城アカネ> Is that so?"
                             ]
                         },
                         {
@@ -3953,14 +3512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「シグナルの武器だってほとんど火薬を使用してないでしょ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作るの大変だったんだから」"
+                                "\\>\\tl<白根リカ> The weapons of the Signals hardly use gunpowder, right?\nIt was difficult to make them."
                             ]
                         },
                         {
@@ -3977,14 +3529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「しかしギャンデッドは一体どこで改造手術なんてしてるのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調べてみる必要はあるわね・・・・」"
+                                "\\>\\tl<榛名アオイ> But I wonder where Gandead is getting those modification\nsurgeries done? We need to investigate..."
                             ]
                         },
                         {
@@ -4001,14 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「ハハハ、案外連中も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汗水垂らしてトレーニングであの肉体を作ってたりしてな。」"
+                                "\\>\\tl<妙義山ミカ> Hahaha, surprisingly, they might have been working hard\nand sweating to build those bodies through training."
                             ]
                         },
                         {
@@ -4086,14 +3624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「緊急犯罪警報!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急犯罪警報!!」"
+                                "Emergency crime alert!! Emergency crime alert!!"
                             ]
                         },
                         {
@@ -4122,14 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令>「これは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンデッドの出現」"
+                                "\\tl<白根司令> This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -4146,7 +3670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「市民からの情報多発」"
+                                "Multiple reports from citizens"
                             ]
                         },
                         {
@@ -4163,14 +3687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「S県K市の山間部、採石場にてギャンデッドの集団が暴走中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作業員を人質にとって立て籠もっているとのこと。」"
+                                "In the mountainous area of K City, S Prefecture, a group of Gandead\nis rampaging at a quarry and has taken the workers hostage."
                             ]
                         },
                         {
@@ -4187,14 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「た、大変です!!」"
+                                "\\>\\tr<赤城アカネ> Oh no, it's terrible!!"
                             ]
                         },
                         {
@@ -4211,21 +3721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一般市民を巻き込むとは言語道断"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただちに出撃してくれ」"
+                                "\\>\\tl<白根司令> It's unforgivable to involve civilians. Please deploy\nimmediately."
                             ]
                         },
                         {
@@ -4242,21 +3738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「随分お約束な所に現れやがって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こいつは爆破し放題だぜ」"
+                                "\\>\\tl<妙義山ミカ> They appeared in a quite predictable place. They can\nfreely detonate this place."
                             ]
                         },
                         {
@@ -4273,21 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「人質が心配ね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急いで準備しましょう」"
+                                "\\>\\tl<榛名アオイ> I'm worried about the hostages. Let's hurry and\nprepare."
                             ]
                         },
                         {
@@ -4304,21 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シグナルフォース!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただちに出動だ」"
+                                "\\>\\tl<白根司令> Signal Force!! Deploy immediately."
                             ]
                         },
                         {
@@ -4378,21 +3832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「こりゃあいい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山は良いぜー、広いし空気はきれいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らがギャンデッドのトレーニングジムにするぞー」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> This is great! The mountains are great, they're\nspacious and the air is clean. Let's make it our Gandead training\ngym!"
                             ]
                         },
                         {
@@ -4414,28 +3854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシタ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウッシャー!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オッシャー!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ムッキムキー」"
+                                "\\>\\tl<サンシタ> Ussha! Ossha! Muki mukii!"
                             ]
                         },
                         {
@@ -4452,21 +3871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<現場作業員>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒイヒイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかあちゃ～～～ん」"
+                                "\\>\\tl<現場作業員> Hee hee, Mommy~"
                             ]
                         },
                         {
@@ -4483,14 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「さあ存分に鍛えるぞ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "筋肉は裏切らない!!」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Now let's train to our heart's content. Muscles never\nbetray us!!"
                             ]
                         },
                         {
@@ -4507,21 +3905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<現場作業員>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ワッショイワッショイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うう、家に帰してくれー」"
+                                "\\>\\tl<現場作業員> Wasshoi wasshoi, ugh, let me go home!"
                             ]
                         },
                         {
@@ -4538,14 +3922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「何だと、お前らはギャンデット基地建設のために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死ぬまで働くんだよ!!」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> What did you say? You guys will work until you die for\nthe construction of the Gandead base?!"
                             ]
                         },
                         {
@@ -4576,7 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこまでだギャンデッド!!」"
+                                "That's enough, Gandead!!"
                             ]
                         },
                         {
@@ -4624,7 +4001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「平和を導く蒼き光!!」"
+                                "The blue light that leads to peace!!"
                             ]
                         },
                         {
@@ -4650,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ブルーシグナル>\\{\\{「ブルーシグナル、現場に到着!!」"
+                                "Blue Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -4686,7 +4063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪を蹴散らす太陽の光!!」"
+                                "The sunlight that scatters evil!!"
                             ]
                         },
                         {
@@ -4712,14 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{「イエローシグナル、現場に到着!!」"
+                                "Yellow Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -4755,7 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪の暴走急停止、灼熱の光!!」"
+                                "The evil's reckless halt, the scorching light!!"
                             ]
                         },
                         {
@@ -4781,14 +4151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{「レッドシグナル、現場に到着!!」"
+                                "\\tr<レドシグナル> Red Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -4805,14 +4168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>「作業員を強制労働させて基地を作ろうとは卑劣の一言"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全国の土木関係者さんに変わって成敗してくれるわ」"
+                                "\\>\\tr<ブルーシグナル> Forcing workers into forced labor to build a base is\ndespicable. I will take revenge on behalf of all civil engineering\nprofessionals nationwide."
                             ]
                         },
                         {
@@ -4829,21 +4185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>「悪行で身についた筋肉なんぞ自滅を招くだけだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "因果応報。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結果にコミットさせてやる!」"
+                                "\\>\\tr<イエローシグナル> Muscles acquired through evil deeds will only lead to\nself-destruction. It's karma. I will make you face the consequences!"
                             ]
                         },
                         {
@@ -4860,21 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「貴様らは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不法占拠、及び拉致監禁、並びに労働法違反"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "に抵触している恐れがある」"
+                                "\\>\\tr<レドシグナル> There is a possibility that you are in violation of\nillegal occupation, abduction and confinement, as well as labor law\nviolations."
                             ]
                         },
                         {
@@ -4891,14 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大人しく処罰されなさい!!」"
+                                "\\>\\tr<レドシグナル> Submit to punishment quietly!!"
                             ]
                         },
                         {
@@ -4915,21 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「俺たちの貴重な筋トレタイムを奪うやつは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許さねー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　種付けストレッチでお仕置きだー」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Anyone who steals our precious workout time will not be\nforgiven. It's punishment time with the impregnation stretch!"
                             ]
                         },
                         {
@@ -5016,14 +4323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リッカ>「うーん、困ったなぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "修復が追いつかない・・・」"
+                                "\\tl<白根リカ> Hmm, this is troublesome... The repairs can't keep up..."
                             ]
                         },
                         {
@@ -5040,7 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「どうしたんですか？博士。」"
+                                "\\tr<赤城アカネ> What's wrong, Doctor?"
                             ]
                         },
                         {
@@ -5057,28 +4357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リッカ>「ここのところの連戦でスーツの侵食率が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "溜まりつつあるわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでは最悪戦闘中に操作系統を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乗っ取られてしまうなんてことも」"
+                                "\\tl<白根リカ> Lately, due to the consecutive battles, the erosion rate\nof the suits has been accumulating. If this continues, there's a\npossibility that the control system could be taken over during combat,\nwhich would be the worst-case scenario."
                             ]
                         },
                         {
@@ -5095,14 +4374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「え、でも・・・スーツを着ていても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動かしているのは私達ですよ」"
+                                "\\tr<赤城アカネ> But... even though we're wearing the suits, it's us who\nare controlling them, right?"
                             ]
                         },
                         {
@@ -5119,21 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リッカ>「身体強化・筋肉増強・動作サポート・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "超人的なパワーを生み出しているのはSIGNALスーツの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげだってことを忘れないで頂戴」"
+                                "\\tl<白根リカ> Please don't forget that it is thanks to the SIGNAL suits\nthat we are able to generate superhuman power through body\nenhancement, muscle strengthening, and movement support."
                             ]
                         },
                         {
@@ -5150,14 +4408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「重量だけでも結構なもんだしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動作サポートは結構馬鹿にできないぜ。」"
+                                "\\tl<妙義山ミカ> Even just the weight alone is quite something. The\nmovement support is not something to be underestimated."
                             ]
                         },
                         {
@@ -5174,21 +4425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リッカ>「イエローは特に重量武器だから他のスーツより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スーツによる強化の恩恵が大きいわね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに耐えうる肉体あってのものだけど」"
+                                "\\tl<白根リカ> Yellow Signal is particularly equipped with heavy weapons,\nso the benefits of suit enhancement are greater than other suits. But\nit also requires a body that can withstand it."
                             ]
                         },
                         {
@@ -5205,21 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<榛名アオイ>「スーツも改良しないといけない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体も鍛えないといけない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精鋭部隊は努力が欠かせないわ」"
+                                "\\tl<榛名アオイ> We need to improve the suits and train our bodies. A elite\nunit requires effort."
                             ]
                         },
                         {
@@ -5236,14 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「うう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうイッパイイッパイですぅ・・・」"
+                                "\\tr<赤城アカネ> Ugh... I'm completely exhausted..."
                             ]
                         },
                         {
@@ -5260,21 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リッカ>「本来であれば精鋭部隊だけでなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お兄ちゃん見たいな青瓢箪でも十分な力が発揮できるスーツを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作れれば良いんでしょうけれど」"
+                                "\\tl<白根リカ> Ideally, it would be great if we could create suits that\nnot only elite units but even someone like my brother, Aoi Haruna,\ncould fully utilize their power."
                             ]
                         },
                         {
@@ -5291,7 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「それまではウチらが体を張って頑張ってやんよ」"
+                                "\\tl<妙義山ミカ> Until then, we'll give it our all and put our bodies on\nthe line."
                             ]
                         },
                         {
@@ -5369,14 +4571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「緊急犯罪警報!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急犯罪警報!!」"
+                                "Emergency crime alert!! Emergency crime alert!!"
                             ]
                         },
                         {
@@ -5405,14 +4600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令>「これは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンデッドの出現」"
+                                "\\tl<白根司令> This is the appearance of a Gandead."
                             ]
                         },
                         {
@@ -5429,21 +4617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「匿名の情報提供者からの発信です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンデッドの改造手術施設を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特定できたとのこと」"
+                                "This is a transmission from an anonymous informant. They claim to\nhave identified the location of the Gandead modification surgery\nfacility."
                             ]
                         },
                         {
@@ -5460,14 +4634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「場所は倉庫地帯"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その一角が秘密基地のようです。」"
+                                "The location is in the warehouse district, and one corner seems to be\na secret base."
                             ]
                         },
                         {
@@ -5484,14 +4651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「ついに改造基地判明か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここを叩けば一気に戦力を落とせるぜ」"
+                                "\\>\\tl<妙義山ミカ> Finally, the modification base has been identified. If\nwe strike here, we can significantly reduce their fighting power."
                             ]
                         },
                         {
@@ -5508,21 +4668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令>「ここを叩けばこれ以上強力なギャンデッド怪人は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作れまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よし、一気に攻め込むぞ。」"
+                                "\\>\\tl<白根司令> If we strike here, we won't be able to create any more\npowerful Gandead monsters. Alright, let's attack all at once."
                             ]
                         },
                         {
@@ -5539,14 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「向こうも守りを固めているでしょう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万全の準備でいって頂戴」"
+                                "\\>\\tl<白根リカ> They will also be strengthening their defenses. Please\ngo with full preparation."
                             ]
                         },
                         {
@@ -5563,14 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令>「シグナルフォース!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただちに出動だ」"
+                                "\\>\\tl<白根司令> Signal Force!! Mobilize immediately."
                             ]
                         },
                         {
@@ -5630,21 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシター>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イテテテ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モットヤサシクナオシテクダセー」"
+                                "\\>\\tl<サンシター> Ouch... Please be more gentle..."
                             ]
                         },
                         {
@@ -5666,21 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「ふむ、最近サンシター共の負傷が激しいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここいらで新しい改造手法が必要なようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シグナル共の戦闘データが手に入れば参考になるのだが・・・」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmm, recently the injuries of the Signal Force have\nbeen severe. It seems that we need a new modification method around\nhere. If only we could obtain the combat data of the Signals, it would\nbe helpful..."
                             ]
                         },
                         {
@@ -5711,7 +4815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこまでだギャンデッド!!」"
+                                "That's enough, Gandead!!"
                             ]
                         },
                         {
@@ -5759,7 +4863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「平和を導く蒼き光!!」"
+                                "The blue light that leads to peace!"
                             ]
                         },
                         {
@@ -5785,7 +4889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ブルーシグナル>\\{\\{「ブルーシグナル、現場に到着!!」"
+                                "Blue Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -5821,7 +4925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪を蹴散らす太陽の光!!」"
+                                "The sunlight that scatters evil!"
                             ]
                         },
                         {
@@ -5847,14 +4951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{「イエローシグナル、現場に到着!!」"
+                                "\\tr<イエローシグナル> Yellow Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -5890,7 +4987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪の暴走急停止、灼熱の光!!」"
+                                "The rampage of evil stops abruptly, with the scorching light!!"
                             ]
                         },
                         {
@@ -5916,14 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{「レッドシグナル、現場に到着!!」"
+                                "\\tr<レドシグナル> Red Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -5940,14 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>「ついに悪の発信源を突き止めたわよ!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで犯罪の芽を根絶してあげるわ!」"
+                                "\\>\\tr<ブルーシグナル> Finally, we've located the source of evil! We'll\neradicate the seeds of crime right here!"
                             ]
                         },
                         {
@@ -5964,14 +5047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここらが潮時だぜ!!」"
+                                "\\>\\tr<イエローシグナル> This is the perfect time to strike!!"
                             ]
                         },
                         {
@@ -5988,21 +5064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「貴様は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違法建築及び医師法薬事法違反"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "並びに国家反逆罪に抵触している恐れがある」"
+                                "\\>\\tr<レドシグナル> There is a possibility that you have violated the laws\nregarding illegal construction, medical laws, pharmaceutical laws, and\ncommitted the crime of treason against the nation."
                             ]
                         },
                         {
@@ -6019,14 +5081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大人しく処罰されなさい!!」"
+                                "\\>\\tr<レドシグナル> Submit to punishment quietly!!"
                             ]
                         },
                         {
@@ -6043,14 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「面倒なネズミが入り込んだようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の実験のジャマをする奴は実験体にしてくれる」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> It seems a troublesome rat has snuck in. Anyone who\ninterferes with my experiment will become an experimental subject."
                             ]
                         },
                         {
@@ -6370,21 +5418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「厳しい審査を超えてよくきた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おめでとう今日から君もＳＩＧＮＡＬの隊員だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は司令官の白根という」"
+                                "You have passed the rigorous examination. Congratulations, from today\nyou are also a member of SIGNAL. I am Commander Shirane."
                             ]
                         },
                         {
@@ -6401,14 +5435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「機動隊候補生の赤城アカネです"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願いします。」"
+                                "\\tr<赤城アカネ> I am Akane Akachi, a candidate for the Mobile Unit. Nice\nto meet you."
                             ]
                         },
                         {
@@ -6425,14 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令>「もう候補生ではないだろう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ先輩方に挨拶してくれ」"
+                                "\\tl<白根司令> You're no longer a candidate, so please introduce yourself\nto the seniors."
                             ]
                         },
                         {
@@ -6532,28 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<榛名アオイ>「ブルーシグナル隊員の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "榛名アオイよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分からないことは何でも聞いてね」"
+                                "\\tl<榛名アオイ> I'm Aoi Haruna, a member of the Blue Signal team. Nice to\nmeet you. Feel free to ask me anything if you have any questions."
                             ]
                         },
                         {
@@ -6570,7 +5569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「（・・・わあ、綺麗な人）」"
+                                "\\tr<赤城アカネ> (...Wow, she's beautiful)"
                             ]
                         },
                         {
@@ -6587,21 +5586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「えっとじゃあ質問なんですけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シグナルのスーツ頑丈ですけどちょっとムレないですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汗が気になっちゃって・・・」"
+                                "\\>\\tr<赤城アカネ> Um, I have a question... Are the SIGNAL suits sturdy but\na little stuffy? I'm worried about sweating..."
                             ]
                         },
                         {
@@ -6618,21 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「う〜〜ん、どうかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のスーツはお腹と背中が空いているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまでムレないけれど」"
+                                "\\>\\tl<榛名アオイ> Hmm, I wonder? My suit has openings on the stomach and\nback, so it doesn't get too stuffy."
                             ]
                         },
                         {
@@ -6649,14 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええっスーツって人それぞれ違うんですか？」"
+                                "\\>\\tr<赤城アカネ> Are the suits different for each person?"
                             ]
                         },
                         {
@@ -6673,21 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「シグナルスーツは個々人の能力に合わせて毎回出撃後に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チューンナップされてるの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "赤城さんのスーツも徐々に最適化されていくと思うわ。」"
+                                "\\>\\tl<榛名アオイ> The SIGNAL suits are tuned up after each mission to\nmatch each individual's abilities. I think Akachi-san's suit will\ngradually be optimized as well."
                             ]
                         },
                         {
@@ -6704,14 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「スーツのことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "博士に聞くのが一番だけど生憎今日は不在なの。」"
+                                "\\>\\tl<榛名アオイ> As for the suits, it would be best to ask the doctor,\nbut unfortunately he is not here today."
                             ]
                         },
                         {
@@ -6728,14 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか、わかりました。」"
+                                "\\>\\tr<赤城アカネ> I see, understood."
                             ]
                         },
                         {
@@ -6863,21 +5799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「イエローシグナルの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妙義山ミカだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだあ、ずいぶんヒョロっちょい新人だね」"
+                                "\\tl<妙義山ミカ> I'm Mika Myogi, the Yellow Signal. Oh, you're quite a\npetite rookie, aren't you?"
                             ]
                         },
                         {
@@ -6894,14 +5816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「そ、そんな事ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私だってもう立派な隊員です。」"
+                                "\\>\\tr<赤城アカネ> N-No, that's not true. I'm already a full-fledged member\ntoo."
                             ]
                         },
                         {
@@ -6918,14 +5833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「そうだな、訓練生の中でここまで上がれるやつはそういない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数だけの一般隊員の男共よりお前の方が頼もしいぜ。」"
+                                "\\>\\tl<妙義山ミカ> That's right, there aren't many trainees who can rise up\nto this level. You're more reliable than those ordinary male members\nin terms of numbers."
                             ]
                         },
                         {
@@ -6942,14 +5850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「あ、ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妙義山先輩は相当強そうですね。」"
+                                "\\>\\tr<赤城アカネ> Th-Thank you very much. Myogi-senpai seems really\nstrong."
                             ]
                         },
                         {
@@ -6966,21 +5867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「女だてらにレンジャー上がりだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腕相撲じゃ男性隊員含め"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰にも負けたことはないぜ。」"
+                                "\\>\\tl<妙義山ミカ> As a woman, I became a Ranger. I've never lost an arm\nwrestling match, not even to male members."
                             ]
                         },
                         {
@@ -6997,14 +5884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひいい・・・凄い筋肉・・・」"
+                                "\\>\\tr<赤城アカネ> Wow... amazing muscles..."
                             ]
                         },
                         {
@@ -7021,14 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「スーツなしでもこのくらいなきゃアタシの武器は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "振り回せないのさ。」"
+                                "\\>\\tl<妙義山ミカ> Without a suit, I can't swing my weapon around like\nthis."
                             ]
                         },
                         {
@@ -7045,21 +5918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「あんまり赤城さんにはミカを参考にしてほしくないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも周囲の破壊が酷くて始末書が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつくあっても足りないんだもの」"
+                                "\\>\\tl<榛名アオイ> I don't want Akachi-san to take Mika as a reference too\nmuch. She always causes so much destruction around her that we never\nhave enough incident reports to cover it all."
                             ]
                         },
                         {
@@ -7076,14 +5935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは言わない約束だろ!!」"
+                                "\\>\\tl<妙義山ミカ> That was a promise not to say it!!"
                             ]
                         },
                         {
@@ -7114,7 +5966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令>「はっはっは、早速馴染んできたようだね」"
+                                "\\tl<白根司令> Hahaha, it seems like you've already settled in quickly."
                             ]
                         },
                         {
@@ -7185,14 +6037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「緊急犯罪警報!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急犯罪警報!!」"
+                                "Emergency crime alert!! Emergency crime alert!!"
                             ]
                         },
                         {
@@ -7221,14 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令>「これは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンデッドの出現」"
+                                "\\tl<白根司令> This is the appearance of a Gandead."
                             ]
                         },
                         {
@@ -7245,21 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令>「急で悪いがアカネくん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初出撃だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "装着準備を」"
+                                "\\tl<白根司令> Sorry for the suddenness, Akane-kun. It's your first\nmission, so get ready to put on your gear."
                             ]
                         },
                         {
@@ -7335,14 +6159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「りょ、了解です!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ええっと・・・スーツは・・・えっと・・・」"
+                                "\\tr<赤城アカネ> U-Understood!! Um... the suit... um..."
                             ]
                         },
                         {
@@ -7359,7 +6176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「おーい、置いてくぞ。新人」"
+                                "\\tl<妙義山ミカ> Hey, leave it behind, rookie."
                             ]
                         },
                         {
@@ -7402,21 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「ギャッハッハ〜〜〜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ壊セ壊セ〜〜〜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンデッドの恐ろしさを民衆に知らしめるのだ〜〜〜」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Gyahahaha~ Now, let's destroy, destroy~ Let the people\nknow the terror of the Gandead~"
                             ]
                         },
                         {
@@ -7433,14 +6236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<サンシタ>「シタッ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワカリヤシタッ!!」"
+                                "\\tl<サンシタ> Shit!! I understand!!"
                             ]
                         },
                         {
@@ -7464,7 +6260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこまでよ、」"
+                                "That's enough."
                             ]
                         },
                         {
@@ -7488,7 +6284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「なにっさては・・・」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> What is it..."
                             ]
                         },
                         {
@@ -7529,7 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「平和を導く蒼き光!!」"
+                                "The blue light that leads to peace!!"
                             ]
                         },
                         {
@@ -7555,7 +6351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ブルーシグナル>\\{\\{「ブルーシグナル、現場に到着!!」"
+                                "Blue Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -7584,7 +6380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪を蹴散らす太陽の光!!」"
+                                "The sunlight that scatters evil!"
                             ]
                         },
                         {
@@ -7610,14 +6406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{「イエローシグナル、現場に到着!!」"
+                                "\\tr<イエローシグナル> Yellow Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -7641,21 +6430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「おいでなすったな、シグナルの連中め"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おや・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人多いじゃあねえか。」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Welcome, Signal girls. Oh...? Aren't you one person too\nmany?"
                             ]
                         },
                         {
@@ -7672,14 +6447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あわ・・・わわ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっと、」"
+                                "Ah... um... well,"
                             ]
                         },
                         {
@@ -7708,7 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、悪の暴走急停止、灼熱の光!!」"
+                                "Ah, the rampaging evil comes to a scorching halt, with the blazing\nlight!!"
                             ]
                         },
                         {
@@ -7734,14 +6502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{「レッドシグナル、現場に到着!!」"
+                                "\\tr<レドシグナル> Red Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -7758,14 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「ふーん、新入りが増えたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずいぶん頼りなさそうな奴だな。」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmm, so we have a new member? They seem quite\nunreliable."
                             ]
                         },
                         {
@@ -7782,14 +6536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「残念だがお前の初陣が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シグナルの壊滅の日になるだろうぜ!!」"
+                                "I'm sorry, but your first battle will be the day of Signal's\ndestruction, you know!"
                             ]
                         },
                         {
@@ -7806,7 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ブルーシグナル>「減らず口を・・・」"
+                                "\\tr<ブルーシグナル> Keep your mouth shut..."
                             ]
                         },
                         {
@@ -7823,7 +6570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル>「壊滅すんのはお前らだっツーの」"
+                                "\\tr<イエローシグナル> You're the ones who will be destroyed, you know!"
                             ]
                         },
                         {
@@ -7840,28 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「そうかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのスーツの対策は済んでんだよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精神を消耗させれば破壊が容易になるってな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこでだ・・」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Is that so? The countermeasures for that suit have\nalready been taken care of. If we exhaust your mental strength, it\nwill be easier to destroy you... And so..."
                             ]
                         },
                         {
@@ -7878,21 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<サンシタ>「シタッ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コノ数週間、精神を削るHナセクハラ技を習得"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シヤシタ!!」"
+                                "\\tl<サンシタ> Shit!! I've learned some mentally exhausting sexual\nharassment techniques over the past few weeks!!"
                             ]
                         },
                         {
@@ -7909,7 +6621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<サンシタ>「イツデモセクハラデキヤスッ!!」"
+                                "\\tl<サンシタ> I can sexually harass you anytime!!"
                             ]
                         },
                         {
@@ -7926,21 +6638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「さあ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エロいことを沢山して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついでにひん剥いてやるぜー」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Now, let's do lots of naughty things and strip you\nwhile we're at it."
                             ]
                         },
                         {
@@ -8178,7 +6876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「初陣お疲れ様、頑張ったわね。」"
+                                "\\>\\tl<榛名アオイ> Good job on your first battle, you did well."
                             ]
                         },
                         {
@@ -8195,14 +6893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「先輩たちのサポートがあったからこそです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも、ギャンデッドって何なんでしょうね・・・」"
+                                "\\>\\tr<赤城アカネ> It's because of the support from my seniors. But, I\nwonder what a Gandead is..."
                             ]
                         },
                         {
@@ -8219,14 +6910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「そうね・・・正体不明の改造人間犯罪者集団・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "と言われているけれど。」"
+                                "\\>\\tl<榛名アオイ> Yes... They are said to be an unidentified group of\nmodified human criminals..."
                             ]
                         },
                         {
@@ -8243,7 +6927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「赤城さん県北で起きた例の事件は知っているかしら？」"
+                                "\\>\\tl<榛名アオイ> Do you know about the incident that happened in northern\nAkagi?"
                             ]
                         },
                         {
@@ -8260,21 +6944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「えっと・・・温泉を掘り当てようとして地下ガスが吹き出して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それを浴びた多くの人がクリーチャーになっちゃったっていう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれですか・・・」"
+                                "\\>\\tr<赤城アカネ> Um... Is that the one where they were trying to dig a\nhot spring and underground gas started spewing out, and many people\nwho were exposed to it turned into creatures...?"
                             ]
                         },
                         {
@@ -8291,14 +6961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「ええ、ギャンデッドの台頭はあのクサツ＝インパクト事件以後なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なにか関係があるのかもしれないわ。」"
+                                "\\>\\tl<榛名アオイ> Yes, the rise of the Gandead is after the Kusatsu-Impact\nincident. There might be some connection."
                             ]
                         },
                         {
@@ -8315,7 +6978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「もしかしたら彼らも事件の被害者なんでしょうか？」"
+                                "\\>\\tr<赤城アカネ> Could it be that they are also victims of the incident?"
                             ]
                         },
                         {
@@ -8332,14 +6995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「だとしても犯罪に手を染める者を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "許すわけにはいかないのだけれどね。」"
+                                "\\>\\tl<榛名アオイ> Even so, we can't just forgive those who engage in\ncrime."
                             ]
                         },
                         {
@@ -8377,14 +7033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「先輩この前のオヤツの時間いませんでしたよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どこに行ってたんですか？」"
+                                "\\tr<赤城アカネ> Senpai, we didn't have snack time earlier, right? Where\ndid you go?"
                             ]
                         },
                         {
@@ -8401,14 +7050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ>「ああ、各部署の定例集会に顔を出していたのよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "活動報告とか色々やっておくことがあったの」"
+                                "\\tl<榛名アオイ> Ah, I was attending the regular meeting of each\ndepartment. There were things I needed to do, like reporting on our\nactivities."
                             ]
                         },
                         {
@@ -8425,14 +7067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「さすがアオイ先輩"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大変そうな業務も熟していたんですね」"
+                                "\\tr<赤城アカネ> As expected of Senpai Aoi, you were skilled even in such\ndifficult tasks."
                             ]
                         },
                         {
@@ -8449,21 +7084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ>「まあねSIGNALはギャンデッド犯罪に対抗するために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "突貫工事で作られた部署だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだまだ活動の周知徹底が必要だわ」"
+                                "\\tl<榛名アオイ> Well, SIGNAL was created as a department for combating\nGandead crimes, so we still need to thoroughly promote awareness of\nour activities."
                             ]
                         },
                         {
@@ -8480,21 +7101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ>「未だに捜査権限を譲るよう要請してくる部署もいるしね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも私達の他に現状ギャンデッドに対する確実な制止力を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "持っている所なんて無いのよ頭の固い人たちの相手は大変だわ」"
+                                "\\tl<榛名アオイ> There are still departments that continue to request the\ntransfer of investigative authority. But there is no other department\nbesides us that has a reliable means of stopping the Gandead. Dealing\nwith stubborn people is tough."
                             ]
                         },
                         {
@@ -8511,14 +7118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「お、お疲れ様です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当にお疲れ様です」"
+                                "\\tr<赤城アカネ> Oh, oh, thank you for your hard work. You must be really\ntired."
                             ]
                         },
                         {
@@ -8556,7 +7156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「先輩、留置場の奥のアレって何なんですか？」"
+                                "\\tr<赤城アカネ> Senpai, what is that thing at the back of the detention\ncenter?"
                             ]
                         },
                         {
@@ -8573,21 +7173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ>「VIPルームのこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最重要容疑者が収監されている部屋でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アイツは初めて我々が捕まえたギャンデッド容疑者よ」"
+                                "\\tl<榛名アオイ> The VIP room? It's the room where the most important\nsuspect is being detained, right? That person is the first Gandead\nsuspect we ever caught."
                             ]
                         },
                         {
@@ -8604,21 +7190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ>「今後の様々な犯罪対策のため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無くてはならない容疑者として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "特別扱いで監視しているの」"
+                                "\\tl<榛名アオイ> We are monitoring them as a special treatment as\nindispensable suspects for various future crime countermeasures."
                             ]
                         },
                         {
@@ -8635,14 +7207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「なんだか不平等ですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アイツも先輩たちが捕まえたんですか？」"
+                                "\\tr<赤城アカネ> It seems unfair, but... Did you seniors also catch that\nperson?"
                             ]
                         },
                         {
@@ -8659,14 +7224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ>「いいえ、当時はスーツも未完成だったし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私達も訓練生で現場には出ていなかったわ。」"
+                                "No, at that time the suits were still incomplete and we trainees\ndidn't go out to the field either."
                             ]
                         },
                         {
@@ -8683,28 +7241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ>「まだほとんど組織が出来上がっていない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ころの犯罪者だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誰がどういった経緯で捕まえたのかは記録されてないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "謎の多いギャンデッドね。」"
+                                "\\tl<榛名アオイ> Since it was a criminal from the time when the\norganization was not yet fully established, there is no record of who\ncaught them or how. Gandead is full of mysteries, isn't it?"
                             ]
                         },
                         {
@@ -8809,14 +7346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「よう、新人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "初陣にしては上出来だったじゃん。」"
+                                "\\>\\tl<妙義山ミカ> Hey, rookie. You did pretty well for your first battle."
                             ]
                         },
                         {
@@ -8833,14 +7363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「もう大変でしたよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先輩はいつもあれと戦ってたのですか？」"
+                                "\\>\\tr<赤城アカネ> It was really tough. Have you always been fighting\nagainst that?"
                             ]
                         },
                         {
@@ -8857,21 +7380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「ああ、もう慣れっこさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一晩寝りゃあ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どんな傷もピンピン回復するってもんよ。」"
+                                "\\>\\tl<妙義山ミカ> Oh, I'm already used to it. After a good night's sleep,\nany wounds will heal in no time."
                             ]
                         },
                         {
@@ -8888,14 +7397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「ひいい〜〜〜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "超人じゃないですかぁ。」"
+                                "\\>\\tr<赤城アカネ> Wow~ You're amazing, aren't you?"
                             ]
                         },
                         {
@@ -8912,21 +7414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「まあ、基地内の自然治癒機能増幅シャワーの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お陰なんだけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大体の傷はアレで治るのさ。」"
+                                "\\>\\tl<妙義山ミカ> Well, it's thanks to the natural healing amplification\nshower in the base. Most wounds heal with that."
                             ]
                         },
                         {
@@ -8943,14 +7431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わあ、ズルイ！！」"
+                                "\\>\\tr<赤城アカネ> Wow, that's cheating!!"
                             ]
                         },
                         {
@@ -8967,14 +7448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「お前もしっかり浴びとけよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "股の間もケツの穴も開いて、奥までしっかり洗っとけ」"
+                                "\\>\\tl<妙義山ミカ> Make sure you thoroughly wash yourself too. Open up your\nlegs and your asshole, and wash deep inside."
                             ]
                         },
                         {
@@ -8991,14 +7465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そ、そこは遠慮しときます」"
+                                "\\>\\tr<赤城アカネ> I-I'll refrain from doing that."
                             ]
                         },
                         {
@@ -9036,14 +7503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「どうした？アカネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "随分元気無さそうだな」"
+                                "\\tl<妙義山ミカ> What's wrong? Akane, you seem quite down."
                             ]
                         },
                         {
@@ -9060,21 +7520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「だって、先輩"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ＳＩＧＮＡＬの仕事は激務ばかりなんですもん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もっと隊員増やしましょうよ〜」"
+                                "\\tr<赤城アカネ> But, senpai, the work of SIGNAL is always so demanding.\nLet's increase the number of members more~"
                             ]
                         },
                         {
@@ -9091,14 +7537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「そりゃ山々なんだがな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "候補者がいないことにはなー」"
+                                "\\tl<妙義山ミカ> Well, that's true, but without any candidates..."
                             ]
                         },
                         {
@@ -9115,21 +7554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「貧弱な下っ端共は増えてるんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "採用試験を突破できて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "正式隊員にまで上がってこれるやつはほとんどいなくてな。」"
+                                "\\tl<妙義山ミカ> There are more weak underlings, but hardly any of them can\npass the recruitment exam and become official members."
                             ]
                         },
                         {
@@ -9146,14 +7571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「えへへ〜〜そうだったんですか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっぱり私って優秀なんだなー」"
+                                "\\tr<赤城アカネ> Ehehe~ Is that so? I guess I really am excellent."
                             ]
                         },
                         {
@@ -9170,7 +7588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「いや、最終的にはスーツへの適合素質らしいんだけど」"
+                                "\\tl<妙義山ミカ> No, it seems that ultimately it depends on the suitability\nfor the suit."
                             ]
                         },
                         {
@@ -9208,21 +7626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「おっと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "留置場の見回り忘れてました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "行かないと。」"
+                                "\\tr<赤城アカネ> Oops, I forgot to patrol the holding cell. I have to go."
                             ]
                         },
                         {
@@ -9239,21 +7643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「たまにでいいぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "警備犬ロボットがいる以上ほとんどの奴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "脱獄なんて不可能だからな。」"
+                                "\\tl<妙義山ミカ> It's fine once in a while. With the security dog robots,\nit's almost impossible for anyone to escape."
                             ]
                         },
                         {
@@ -9270,14 +7660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「あれもリッカちゃんの発明品だぞ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アレでウチラの仕事も大分楽になったんだぜ」"
+                                "\\tl<妙義山ミカ> That is also one of Rikka-chan's inventions. With that,\nour work has become much easier."
                             ]
                         },
                         {
@@ -9294,7 +7677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「すごいですねー」"
+                                "\\tr<赤城アカネ> That's amazing!"
                             ]
                         },
                         {
@@ -9311,21 +7694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「ストレス発散で見回りついでに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "被疑者をぶん殴って回れなくなったのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "残念だけどな・・・」"
+                                "\\tl<妙義山ミカ> It's a shame that I can't go around hitting suspects while\nrelieving stress during patrols anymore..."
                             ]
                         },
                         {
@@ -9342,7 +7711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ>「それは・・・問題行動では？」"
+                                "\\tr<赤城アカネ> Is that... a problematic behavior?"
                             ]
                         },
                         {
@@ -9436,14 +7805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「ピースポイントを獲得したようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の発明品も存分に活用しなさい」"
+                                "\\>\\tl<白根リカ> It seems you have acquired peace points. Make sure to\nfully utilize my inventions."
                             ]
                         },
                         {
@@ -10165,21 +8527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よーし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日も頑張るぞー」"
+                                "Alright, let's do our best today!"
                             ]
                         },
                         {
@@ -10291,21 +8639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふ〜〜〜ん、こいつが例の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかにも凡庸な人相をしているわ。」"
+                                "\\>\\tl<白根リカ> Hmmm, this is the one... with a truly ordinary\nappearance."
                             ]
                         },
                         {
@@ -10322,21 +8656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「こらこら、お嬢ちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは重要施設だから入っちゃだめよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社会科見学ならアッチ」"
+                                "\\>\\tr<赤城アカネ> Hey hey, young lady, you can't enter here because this\nis an important facility. If you're on a social studies field trip,\nit's over there."
                             ]
                         },
                         {
@@ -10353,14 +8673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無礼者！！」"
+                                "\\>\\tl<白根リカ> You insolent person!!"
                             ]
                         },
                         {
@@ -10386,14 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アイッタ・・・」"
+                                "\\>\\tr<赤城アカネ> Ouch..."
                             ]
                         },
                         {
@@ -10410,14 +8716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ>「あら博士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いらしてたの？」"
+                                "\\>\\tl<榛名アオイ> Oh, Doctor. Were you here?"
                             ]
                         },
                         {
@@ -10434,14 +8733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？博士」"
+                                "\\>\\tr<赤城アカネ> Huh? Doctor"
                             ]
                         },
                         {
@@ -10458,21 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「いかにも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私こそシグナルスーツの開発者にしてIQ２８０の超天才現役女子高生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「白根　リッカ」様よ」"
+                                "\\>\\tl<白根リカ> Indeed, I am the developer of the Signal Suit and a\nsuper genius high school student with an IQ of 280, Miss Rikka\nShirane."
                             ]
                         },
                         {
@@ -10489,7 +8767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ>「あんまり新人虐めんなよ、リッカちゃん」"
+                                "\\>\\tl<妙義山ミカ> Don't bully the newbies too much, Rikka-chan."
                             ]
                         },
                         {
@@ -10506,21 +8784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えええ〜〜〜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが博士」"
+                                "\\>\\tr<赤城アカネ> Eeeeh~ This is the doctor?"
                             ]
                         },
                         {
@@ -10537,14 +8801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これがとは何じゃ〜〜〜〜〜〜！！」"
+                                "\\>\\tl<白根リカ> What is this?!!"
                             ]
                         },
                         {
@@ -10570,14 +8827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ギャフ～～～ン!!」"
+                                "\\>\\tr<赤城アカネ> Gyaahhhhh!!"
                             ]
                         },
                         {
@@ -10601,14 +8851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまんな、赤城くん、ウチの妹が」"
+                                "\\>\\tl<白根司令> Sorry, Akagi-kun, my sister..."
                             ]
                         },
                         {
@@ -10625,21 +8868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「え？あ・・・白根って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "司令の・・・妹さん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからスーツの制作を？」"
+                                "\\>\\tr<赤城アカネ> Huh? Ah... Shirane... The commander's... sister!! So\nyou're the one who made the suits?"
                             ]
                         },
                         {
@@ -10656,21 +8885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「勘違いしないでよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の天才的頭脳によってシグナルスーツが開発されたからこそ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この組織ができたのよ。」"
+                                "\\>\\tl<白根リカ> Don't misunderstand. It's because of my genius intellect\nthat the Signal Suits were developed and this organization was\ncreated."
                             ]
                         },
                         {
@@ -10687,14 +8902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「お兄ちゃんが司令にまで出世できたのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・オマケよ。」"
+                                "\\>\\tl<白根リカ> My brother's promotion to commander... it's just a\nbonus."
                             ]
                         },
                         {
@@ -10711,14 +8919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひょええ〜〜〜〜〜〜」"
+                                "\\>\\tr<赤城アカネ> Hyoe~"
                             ]
                         },
                         {
@@ -10742,14 +8943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令>「オホン・・・妹はたしかに天才なのだが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少々私も手を焼いているのだ。」"
+                                "\\>\\tl<白根司令> Ahem... My sister is indeed a genius, but she can be a\nhandful for me as well."
                             ]
                         },
                         {
@@ -10766,7 +8960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「ううう・・それはとても良くわかりました・・・」"
+                                "\\>\\tr<赤城アカネ> Uuu... I understand that very well..."
                             ]
                         },
                         {
@@ -10783,14 +8977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「とにかく我が子同然の私のスーツを着る以上"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたも頑張ってちょうだいよ。」"
+                                "\\>\\tl<白根リカ> Anyway, since you're wearing my suit like my own child,\ndo your best too."
                             ]
                         },
                         {
@@ -10807,14 +8994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>「あ、それじゃあ早速、スーツの通気性を良くしていただけませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ムレちゃってもう・・・」"
+                                "\\>\\tr<赤城アカネ> Ah, then could you please improve the breathability of\nthe suit right away? It's already getting stuffy..."
                             ]
                         },
                         {
@@ -10831,21 +9011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リッカ>「はあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの能力でスーツを今より装甲軽くしたら一発で即死よ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく無理ね」"
+                                "\\>\\tl<白根リカ> Huh? If I make the suit lighter in armor with your\nability, it would be an instant death. It's impossible for now."
                             ]
                         },
                         {
@@ -10862,14 +9028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「厳しい!!」"
+                                "\\>\\tr<赤城アカネ> Tough!!"
                             ]
                         },
                         {
@@ -11277,21 +9436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やれやれ大騒動があったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな無事で良かった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく基地内の復旧に取り組めるな。」"
+                                "I'm glad everyone is safe after all the commotion. We can finally\nstart working on restoring the base."
                             ]
                         },
                         {
@@ -11308,14 +9453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<榛名アオイ>「これからは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "留置場ももっと強固に改装しないとね。」"
+                                "\\tl<榛名アオイ> From now on, we need to reinforce the detention facility\neven more."
                             ]
                         },
                         {
@@ -11332,21 +9470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リッカ>「十分強固だったわよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それよりもギャンデッドの特殊能力を無効化"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来るような設備にするべきでしょうね。」"
+                                "\\tl<白根リカ> It was strong enough, but we should create facilities that\ncan neutralize Gandead's special abilities."
                             ]
                         },
                         {
@@ -11363,14 +9487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「スーツもジャンジャン修復してくれよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リッカちゃん」"
+                                "\\tl<妙義山ミカ> Please repair the suits quickly, Rikka-chan."
                             ]
                         },
                         {
@@ -11387,14 +9504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「ちょっとちょっと、博士も救出されたばかりなんですよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少し休ませてあげましょう。」"
+                                "\\tr<赤城アカネ> Wait a minute, the doctor was just rescued. Let's give him\na little more rest."
                             ]
                         },
                         {
@@ -11411,14 +9521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リッカ>「いいえ、休んでる暇はないわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やられた分はこれからやり返さないといけないんですからね」"
+                                "\\tl<白根リカ> No, there's no time to rest. We have to retaliate for what\nwe've been through."
                             ]
                         },
                         {
@@ -11435,14 +9538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「こ、怖い・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石博士」"
+                                "\\tr<赤城アカネ> S-Scary... As expected of the doctor."
                             ]
                         },
                         {
@@ -11520,14 +9616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「緊急犯罪警報!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急犯罪警報!!」"
+                                "Emergency crime alert!! Emergency crime alert!!"
                             ]
                         },
                         {
@@ -11556,14 +9645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令>「これは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンデッドの出現」"
+                                "\\tl<白根司令> This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -11580,7 +9662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ>「早速お出ましかい」"
+                                "\\tl<妙義山ミカ> Please come in right away."
                             ]
                         },
                         {
@@ -11597,7 +9679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<榛名アオイ>「一休みしてる暇もないわね」"
+                                "\\tl<榛名アオイ> There's no time to take a break."
                             ]
                         },
                         {
@@ -11614,7 +9696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ>「さあお仕事お仕事!!」"
+                                "\\tr<赤城アカネ> Now, let's get to work, let's get to work!"
                             ]
                         },
                         {
@@ -11699,7 +9781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日もシグナルフォースは出動する"
+                                "Today, the Signal Force will also be deployed."
                             ]
                         },
                         {
@@ -11739,14 +9821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街の治安を守り、真の平和が訪れる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その日まで"
+                                "Until the day true peace arrives and the safety of the city is\nprotected."
                             ]
                         },
                         {
@@ -11770,21 +9845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦え!!シグナルフォース!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "負けるな!!シグナルフォース!!"
+                                "Fight!! Signal Force!! Don't lose!! Signal Force!!"
                             ]
                         },
                         {
@@ -11808,7 +9869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　ＥＮＤ"
+                                "　　　ＥＮＤ"
                             ]
                         },
                         {
@@ -11848,462 +9909,7 @@
                             "code": 405,
                             "indent": 0,
                             "parameters": [
-                                "～　CG　～"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Marimo"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "～　プログラム　～"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Marimo"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "～　シナリオ　～"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "ツヅル"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Roire"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Marimo"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "～　BGM　～"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "DOVA-SYNDROME"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "MAKOOTO"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "～　デバッグ　～"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Marimo"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "深海"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "以下略"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "～　プラグイン　～"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "yanfly　　　　　　Dr.yami"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "フトコロ　　　　トリアコンタン"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "KURAGE　　　　　yana"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Rinne grid　　　赤月　智平"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "～　Ci-enユーザー　～"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "名無し4１\t路"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Vic\tShinji75"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "むらぽん\tマヨ・C・アンコール"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "名無しri\tお米"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "ryo\tAmylase"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "アムロ・レイ\tLithir"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "chin\tクロノス"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Link\tホイホイ"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "キナコ\tK"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "Mapolamian\tArkanor"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "デミグラスソース\tちんびん丸"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "neth\t左京"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "loldd\t名無しの極意"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "くろ\tkamiyann00"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "jc\tぼんくらぼん"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "plus 9\tマーチン"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "korn\tnovemon"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "ショウゴ\t桜花"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "lycoris007\tNo_good_56'er"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "もじゃ\tおねショタ"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "他、名無し"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "～　制作　～"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 0,
-                            "parameters": [
-                                "アンコクマリモカン"
+                                "～　CG ~ Marimo ~ Program ~ Marimo ~ Scenario ~ Tsuduru Roire Marimo ~ BGM\n~ DOVA-SYNDROME MAKOOTO ~ Debug ~ Marimo Deep Sea etc. ~ Plugin ~\nyanfly Dr. Yami Futokoro Triacontan KURAGE yana Rinne grid Akizuki\nTomohei ~ Ci-en Users ~ Anonymous41 Ro Vic Shinji75 Murapon Mayo C\nEncore Anonymousri Rice ryo Amylase Amuro Ray Lithir chin Chronos Link\nHoiihoi Kinako K Mapolamian Arkanor Demiglace Sauce Chinbinmaru neth\nSakyō loldd The Secret of the Nameless Kuro Kamiyann00 jc Bonkurabon\nplus 9 Martin Korn Novemon Shougo Sakuraka Lycoris007 No_good_56'er\nMoja Oneshota and others ~ Production ~ Ankoku Marimo Kan"
                             ]
                         },
                         {
@@ -12336,7 +9942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリアおめでとうございます。"
+                                "Congratulations on clearing it."
                             ]
                         },
                         {
@@ -12353,14 +9959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フリーバトルが開放されました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基地の留置場からいつでも遊べます"
+                                "Free Battle has been unlocked. You can play it anytime from the base's\ndetention center."
                             ]
                         },
                         {
@@ -12377,7 +9976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント全開放を行いますか？"
+                                "Do you want to unlock all events?"
                             ]
                         },
                         {
@@ -12385,8 +9984,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

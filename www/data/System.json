@@ -168,8 +168,8 @@
     },
     "skillTypes": [
         "",
-        "Combat skills",
-        "Subsidized skills"
+        "Combat Skills",
+        "Unique Skills"
     ],
     "sounds": [
         {
@@ -567,10 +567,10 @@
         "params": [
             "Max HP",
             "Max MP",
-            "Attack Power",
+            "Attack",
             "Defense",
-            "Magic Power",
-            "Sexual Resistance",
+            "Magic",
+            "Sexual RES",
             "Agility",
             "Luck",
             "Accuracy",
@@ -585,7 +585,7 @@
             "actorNoDamage": "%1 is not damaged!",
             "actorNoHit": "Miss! %1 has not taken any damage!",
             "actorRecovery": "%2 of %1 has recovered %3!",
-            "alwaysDash": "Constantly dashing",
+            "alwaysDash": "Always Dash",
             "bgmVolume": "BGM volume",
             "bgsVolume": "BGS volume",
             "buffAdd": "%2 has increased by %1!",

@@ -3,7 +3,7 @@
 2. Click Download ZIP
 3. Place Data and Js in www. Replace All.
 
-# How to contribute
+# How To Contribute
 TLDR 3 steps.
 
     Fork the repository.

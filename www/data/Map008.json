@@ -3124,14 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「博士、無事ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けに来ましたよ」"
+                                "\\>\\tr<Red Signal> Doctor, are you alright? I came to help."
                             ]
                         },
                         {
@@ -3148,14 +3141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>「留置場にこんなスペースがあったなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一体何のために・・・？」"
+                                "\\>\\tr<Blue Signal> I can't believe there's this much space in the\ndetention center... What could it possibly be for...?"
                             ]
                         },
                         {
@@ -3172,14 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「やあ、待っていたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "随分時間がかかったみたいだね。」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hey, I've been waiting. It seems like it took you quite\na while."
                             ]
                         },
                         {
@@ -3196,14 +3175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>「良くも基地を好き放題してくれやがったな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　覚悟しろよ!!」"
+                                "\\>\\tr<Yellow Signal> How dare you do as you please in our base! Be\nprepared!"
                             ]
                         },
                         {
@@ -3220,21 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>「これは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前一人の犯行・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "か？」"
+                                "\\>\\tr<Blue Signal> Is this... the work of just you...?"
                             ]
                         },
                         {
@@ -3251,21 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「ハハハ!!そうだとも。私の能力は催眠誘導。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間の溜まった鬱憤を後押しし、内部より崩壊させるため長期間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まって機会を伺っていたのだよ」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hahaha!! That's right. My ability is hypnotic\ninduction. I've been waiting for a long time, gathering the pent-up\nfrustrations of humans and causing internal collapse."
                             ]
                         },
                         {
@@ -3282,21 +3226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「この基地は実に素晴らしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからはギャンデットのための施設として有効に使わせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もらうとしよう。職員たちも頑張ってくれたまえ」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> This base is truly wonderful. From now on, let's make\neffective use of it as a facility for Gandead. Staff members, please\ncontinue to work hard."
                             ]
                         },
                         {
@@ -3313,21 +3243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「ふざけないでっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンデッドの言いなりになって働く者なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この基地には一人もいないわ。」"
+                                "\\>\\tr<Red Signal> Don't joke around!! There isn't a single person in\nthis base who would obediently work for Gandead."
                             ]
                         },
                         {
@@ -3344,21 +3260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「そうかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がここまで動けた背景に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内部の協力者がいなかったとでも？」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Is that so? Do you think I was able to move this far\nwithout any collaborators on the inside?"
                             ]
                         },
                         {
@@ -3375,14 +3277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な・・・まさか・・・!!」"
+                                "\\>\\tr<Blue Signal> No... could it be...?!"
                             ]
                         },
                         {
@@ -3399,21 +3294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「おっともう君達には関係ないことだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆らう職員は強めの洗脳で働いてもらうとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新生組織再編のため礎になってくれたまえ」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Well, it's already something that doesn't concern you\nanymore. The staff who resist will be made to work with stronger\nbrainwashing. Please become the foundation for the reorganization of\nthe new organization."
                             ]
                         },
                         {
@@ -3430,14 +3311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>「めんどくせぇ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前をふっ飛ばして全部解決させてやるぜ!!」"
+                                "\\>\\tr<Yellow Signal> How annoying!! I'll just send you flying and solve\neverything myself!!"
                             ]
                         },
                         {
@@ -3454,21 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「そ、そうです!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々にはギャンデッド対策法に基づく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場での即時武力制圧及び爆殺極刑の執行許可がある！！」"
+                                "\\>\\tr<Red Signal> Y-Yes!! We have permission to immediately use force\nand execute lethal measures based on the Gandead Countermeasures\nAct!!"
                             ]
                         },
                         {
@@ -3485,14 +3345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「卑劣なギャンデッドの幹部め！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟なさい」"
+                                "\\>\\tr<Red Signal> You despicable Gandead executive!! Prepare yourself!"
                             ]
                         },
                         {
@@ -3509,14 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「ふむ、仕方がない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少々痛めつけてからじっくり言うことを聞いてもらおうか」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmm, I suppose there's no helping it. Let me inflict a\nlittle pain and then have you listen carefully to what I have to say."
                             ]
                         },
                         {
@@ -3622,14 +3468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデット幹部>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{「せっかくの作戦が～～!!」"
+                                "\\>\\tl<ギャンデト幹部> \\{\\{ Our plan was going so well~!!"
                             ]
                         },
                         {
@@ -3817,7 +3656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{執行完了！！"
+                                "\\{\\{Execution complete!!"
                             ]
                         },
                         {
@@ -4155,7 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の状態では勝ち目がない"
+                                "There is no chance of winning in the current state."
                             ]
                         },
                         {
@@ -4254,7 +4093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の状態では勝ち目がない"
+                                "There is no chance of winning in the current state."
                             ]
                         },
                         {
@@ -4481,7 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精神安定薬を手に入れた！"
+                                "I obtained the mental stabilizer!"
                             ]
                         },
                         {
@@ -4728,7 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修復ツールを手に入れた！"
+                                "I obtained the repair tool!"
                             ]
                         },
                         {
@@ -4872,7 +4711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一方その頃・・・・・"
+                                "Meanwhile, at that time..."
                             ]
                         },
                         {
@@ -5015,21 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ・・・こんな事態なのに捕まってるわけには・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く・・・・合流して・・・博士も助けなくちゃ」"
+                                "\\tr<Red Signal> Damn... I can't afford to be caught in a situation like\nthis... I need to hurry and meet up... I have to save the doctor too."
                             ]
                         },
                         {
@@ -5065,21 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]ブルーとイエローを救出に向かいましょう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人の凌辱の様子はブルーへの通信から確認できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "負け続けるとどんどん進行していきます。"
+                                "\\c[3] Let's go rescue Blue and Yellow. We can confirm the state of\ntheir humiliation through communication with Blue. If we keep losing,\nthe situation will only worsen."
                             ]
                         },
                         {
@@ -5108,14 +4919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]さらに博士の現在の状況は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イエローへの通信で確認可能です。"
+                                "\\c[3] Furthermore, the current situation of the doctor can be\nconfirmed through communication with Yellow."
                             ]
                         },
                         {
@@ -5251,14 +5055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あのー、一体何が起きてるんですかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい加減釈放してくれやせんかね？」"
+                                "Um, what exactly is happening here? Can you please release me\nalready?"
                             ]
                         },
                         {
@@ -5647,21 +5444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先輩!!　無事ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐ助けます!!」"
+                                "\\tr<Red Signal> Senpai!! Are you okay? I'll help you right away!!"
                             ]
                         },
                         {
@@ -5697,7 +5480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルーを救助しました。"
+                                "I rescued Blue."
                             ]
                         },
                         {
@@ -5758,7 +5541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イエローを救助した"
+                                "I rescued Yellow."
                             ]
                         },
                         {
@@ -5839,14 +5622,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シグナルフォース全員救助完了!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "体制を立て直し次第、反撃へ移ります!!"
+                                "All members of Signal Force have been rescued!! Once we regroup, we\nwill move on to counterattack!!"
                             ]
                         },
                         {
@@ -5921,7 +5697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チームを全回復しますか？"
+                                "Will you fully recover the team?"
                             ]
                         },
                         {
@@ -9640,7 +9416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朝まで連発ドリンクを手に入れた！"
+                                "I got a supply of drinks to last until morning!"
                             ]
                         },
                         {
@@ -9887,7 +9663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朝まで連発ドリンクを手に入れた！"
+                                "I got a supply of all-nighter drinks until morning!"
                             ]
                         },
                         {
@@ -10134,7 +9910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アブナイ薬を手に入れた！"
+                                "I obtained a dangerous medicine!"
                             ]
                         },
                         {
@@ -10381,7 +10157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アブナイ薬を手に入れた！"
+                                "I obtained a dangerous medicine!"
                             ]
                         },
                         {

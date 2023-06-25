@@ -2833,14 +2833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お疲れ様であります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　留置場は平常運転であります」"
+                                "Good work. The detention center is operating normally."
                             ]
                         },
                         {
@@ -3529,7 +3522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トレーニングマシーンをお使いしますか。"
+                                "Are you going to use the training machine?"
                             ]
                         },
                         {
@@ -3568,7 +3561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1番目の敵はどうしますか？"
+                                "What are you going to do about the first enemy?"
                             ]
                         },
                         {
@@ -3727,7 +3720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "2番目の敵はどうしますか？"
+                                "What are you going to do about the second enemy?"
                             ]
                         },
                         {
@@ -3886,7 +3879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "3番目の敵はどうしますか？"
+                                "What are you going to do about the third enemy?"
                             ]
                         },
                         {
@@ -4045,7 +4038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "4番目の敵はどうしますか？"
+                                "What are you going to do about the fourth enemy?"
                             ]
                         },
                         {
@@ -4204,7 +4197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5番目の敵はどうしますか？"
+                                "What are you going to do about the fifth enemy?"
                             ]
                         },
                         {
@@ -4381,7 +4374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッドシグナルの状態を選んでください"
+                                "Please select the state of Red Signal."
                             ]
                         },
                         {
@@ -4599,7 +4592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ブルーシグナルの状態を選んでください"
+                                "Please select the state of Blue Signal."
                             ]
                         },
                         {
@@ -4817,7 +4810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イエローシグナルの状態を選んでください"
+                                "Please select the state of Yellow Signal."
                             ]
                         },
                         {
@@ -5035,14 +5028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "確認しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "訓練を開始します"
+                                "Understood. We will begin the training."
                             ]
                         },
                         {
@@ -5297,7 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精神安定薬を手に入れた！"
+                                "I obtained the mental stabilizer medication!"
                             ]
                         },
                         {
@@ -5506,21 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「チクショー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シグナルめ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ず脱獄してやるから見てやがれ」"
+                                "Damn you, Signal. I'll definitely escape and show you!"
                             ]
                         },
                         {
@@ -5678,21 +5650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おらもっとコッチ来いよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "欲求不満なんだ。　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハメまくってやるぜ」"
+                                "Come over here more, I'm frustrated. I'll screw you over."
                             ]
                         },
                         {
@@ -5850,21 +5808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ギチギチ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココハ・・ウスグライ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カイテキ・・・」"
+                                "It's tight... This is... uncomfortable... It's stuffy..."
                             ]
                         },
                         {
@@ -6022,14 +5966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おい、勘弁してくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入れはちょっと立ちションしてただけだってば」"
+                                "Hey, spare me. I just needed to pee standing up for a bit."
                             ]
                         },
                         {
@@ -6106,14 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お疲れ様であります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　留置場は平常運転であります」"
+                                "Good work. The detention center is operating normally."
                             ]
                         },
                         {
@@ -6274,14 +6204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<ガードロボット>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ワンワン」"
+                                "\\>\\tl<ガードロボト> Woof woof"
                             ]
                         },
                         {
@@ -6358,21 +6281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私のことはお気になさらず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　監獄暮らしだがＶＩＰ牢は快適で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　満足だよ、ハハハ」"
+                                "Don't worry about me. Living in prison is comfortable in the VIP\ncell. I'm satisfied, hahaha."
                             ]
                         },
                         {
@@ -6449,21 +6358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こいつは数年前に捕まえた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初のギャンデッド犯罪者です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "謎の能力を使うので厳重に監禁してるんだ。」"
+                                "This is the first Gandead criminal we captured a few years ago. They\npossess a mysterious ability, so we have them under strict\nconfinement."
                             ]
                         },
                         {
@@ -6541,14 +6436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は戦うヒロインを援助する者だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったらうちの商品買ってかないかい？」"
+                                "I am someone who supports fighting heroines. Would you like to buy\nour products?"
                             ]
                         },
                         {

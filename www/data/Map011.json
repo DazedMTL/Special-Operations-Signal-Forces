@@ -6594,7 +6594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最大回復薬を手に入れた！"
+                                "I obtained the maximum recovery potion!"
                             ]
                         },
                         {
@@ -7181,7 +7181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修復ツールを手に入れた！"
+                                "I obtained the repair tool!"
                             ]
                         },
                         {
@@ -7768,7 +7768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修復ツールを手に入れた！"
+                                "I obtained the repair tool!"
                             ]
                         },
                         {

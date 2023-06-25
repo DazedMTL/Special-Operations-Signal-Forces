@@ -2365,14 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は戦うヒロインを援助する者だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったらうちの商品買ってかないかい？」"
+                                "I am someone who supports fighting heroines. Would you like to buy\nour products?"
                             ]
                         },
                         {
@@ -2589,7 +2582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>\\{\\{\\{公務執行!!"
+                                "\\tr<Red Signal>\\{\\{\\{Execution of Official Duties!!"
                             ]
                         },
                         {

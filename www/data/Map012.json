@@ -5537,7 +5537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の状態では勝ち目がない"
+                                "There is no chance of winning in the current state."
                             ]
                         },
                         {
@@ -5636,7 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の状態では勝ち目がない"
+                                "There is no chance of winning in the current state."
                             ]
                         },
                         {
@@ -5744,14 +5744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「んもーしぶといわねー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よくも私のベイビー達を!!」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> You're so persistent! How dare you touch my babies!"
                             ]
                         },
                         {
@@ -5768,14 +5761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>「市民生活を脅かすギャンデッドの幹部め！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水は生命の源よ!!　思い知りなさい!!」"
+                                "\\>\\tr<Blue Signal> You, the executive of Gandead, who threatens the lives\nof citizens!! Water is the source of life!! Learn your lesson!!"
                             ]
                         },
                         {
@@ -5792,21 +5778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>「とっとと退治してお茶の続きが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "したいんだっつーの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下水の水全部抜いてやる気でいくから覚悟しろ!!」"
+                                "\\>\\tr<Yellow Signal> I want to quickly exterminate you so I can continue\ndrinking tea. Prepare yourself, because I'm going to drain all the\nwater from the sewer and go all out!!"
                             ]
                         },
                         {
@@ -5823,14 +5795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「我々にはギャンデッド対策法に基づく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場での即時武力制圧及び爆殺極刑の執行許可がある！！」"
+                                "\\>\\tr<Red Signal> We have the authorization to immediately use force and\nexecute the death penalty by explosion on-site based on the Gandead\nCountermeasures Act!!"
                             ]
                         },
                         {
@@ -5847,14 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「悍ましい怪物を生み出す行為！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "容認できるものではない!!」"
+                                "\\>\\tr<Red Signal> The act of creating such hideous monsters! It is\nunacceptable!"
                             ]
                         },
                         {
@@ -5871,14 +5829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「こうなったらアンタ達を苗床にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今以上にベイビー達を増やしてあげちゃうんだからー」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> If it comes to this, I'll use you all as breeding\ngrounds and increase my babies even more than before!"
                             ]
                         },
                         {
@@ -5976,14 +5927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデット幹部>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{「いやあああああああああん!!」"
+                                "\\>\\tl<ギャンデト幹部> \\{\\{ Noooooo!!"
                             ]
                         },
                         {
@@ -6171,7 +6115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{執行完了！！"
+                                "\\{\\{Execution complete!!"
                             ]
                         },
                         {
@@ -6188,14 +6132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「敵幹部を爆破極刑に処しました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これより帰還します」"
+                                "We have executed the enemy executive with the death penalty by\nexplosion. We will now return."
                             ]
                         },
                         {
@@ -6385,7 +6322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>\\{\\{\\{公務執行!!"
+                                "\\tr<Red Signal>\\{\\{\\{Execution of Official Duties!!"
                             ]
                         },
                         {
@@ -8117,7 +8054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修復ツールを手に入れた！"
+                                "I obtained the repair tool!"
                             ]
                         },
                         {
@@ -8364,7 +8301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復薬を手に入れた！"
+                                "I obtained the recovery potion!"
                             ]
                         },
                         {
@@ -8611,7 +8548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精神安定薬を手に入れた！"
+                                "I obtained the mental stabilizer!"
                             ]
                         },
                         {
@@ -8858,7 +8795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復薬を手に入れた！"
+                                "I obtained the recovery potion!"
                             ]
                         },
                         {
@@ -9105,7 +9042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スピードアップを手に入れた！"
+                                "I've obtained a speed boost!"
                             ]
                         },
                         {
@@ -10202,7 +10139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スピードアップを手に入れた！"
+                                "I've obtained a speed boost!"
                             ]
                         },
                         {
@@ -11979,7 +11916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気合一発ドリンクを手に入れた！"
+                                "I got an energy drink in one shot!"
                             ]
                         },
                         {
@@ -12226,7 +12163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大回復薬を手に入れた！"
+                                "I obtained a large recovery potion!"
                             ]
                         },
                         {
@@ -12473,7 +12410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修復ツールを手に入れた！"
+                                "I obtained the repair tool!"
                             ]
                         },
                         {
@@ -14131,14 +14068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プレイありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体験版ではここまでとなります"
+                                "Thank you for playing. This is the end of the demo version."
                             ]
                         },
                         {
@@ -14390,7 +14320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>「大丈夫ですか？救助致します」"
+                                "\\tr<Red Signal> Are you okay? I will rescue you."
                             ]
                         },
                         {
@@ -14414,14 +14344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ホームレス>「はああああ～～～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがてえ!!恩にきります!!」"
+                                "\\tr<ホームレス> Haaaahhhh~ Thank you so much!! I'm really grateful!!"
                             ]
                         },
                         {
@@ -14464,28 +14387,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\tr<ホームレス>（よく見るとこの姉ちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すげー格好してんなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "乳もあそこも丸見えだぜ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "じっくり見とこう）"
+                                "\\tr<ホームレス> (If you look closely, this girl is dressed really\nprovocatively. Her breasts and everything else are completely\nexposed... Let's take a good look.)"
                             ]
                         },
                         {
@@ -14534,14 +14436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市民を救助した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ＰＰを獲得"
+                                "I rescued the citizens. I obtained PP."
                             ]
                         },
                         {
@@ -14818,28 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ホームレス>「ぶえっくしょい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだあ、下水の中で居眠りしてたら・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だこの化物は!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うおおお～～～い、助けてくれえ～～～」"
+                                "\\tr<ホームレス> Buekkushoi... What the... I was taking a nap in the\nsewer... What is this monster!! Help meeee!"
                             ]
                         },
                         {
@@ -15434,7 +15308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修復ツールを手に入れた！"
+                                "I obtained the repair tool!"
                             ]
                         },
                         {
@@ -15784,14 +15658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漏水で前に進めない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかにスイッチがあるだろうか？"
+                                "I can't move forward due to a water leak. Is there a switch somewhere?"
                             ]
                         },
                         {

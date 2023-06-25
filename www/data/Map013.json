@@ -2842,7 +2842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>\\{\\{\\{公務執行!!"
+                                "\\tr<Red Signal>\\{\\{\\{Execution of Official Duties!!"
                             ]
                         },
                         {
@@ -3348,7 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最大回復薬を手に入れた！"
+                                "I obtained the maximum recovery potion!"
                             ]
                         },
                         {
@@ -4308,14 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強力なバリアが張られている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解除スイッチを探そう"
+                                "Let's search for the switch to deactivate the powerful barrier."
                             ]
                         },
                         {
@@ -5402,7 +5395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードアップを手に入れた！"
+                                "I obtained Guard Up!"
                             ]
                         },
                         {
@@ -5649,7 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朝まで連発ドリンクを手に入れた！"
+                                "I got a supply of all-nighter drinks until morning!"
                             ]
                         },
                         {
@@ -5896,7 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最大回復薬を手に入れた！"
+                                "I obtained the maximum recovery potion!"
                             ]
                         },
                         {
@@ -6143,7 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精神安定薬を手に入れた！"
+                                "I obtained the mental stabilizer!"
                             ]
                         },
                         {
@@ -6390,7 +6383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スピードアップを手に入れた！"
+                                "I've obtained a speed boost!"
                             ]
                         },
                         {
@@ -6518,14 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「おのれ・・・我が基地を!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何という計算外だ」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> You... my base!! What an unexpected calculation."
                             ]
                         },
                         {
@@ -6542,14 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>「知能犯ほど足元を掬われるものよ!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪知恵もここまでのようね!」"
+                                "\\>\\tr<Blue Signal> Those who rely on their intelligence are easily\ntripped up! Your cunning only goes so far!"
                             ]
                         },
                         {
@@ -6566,14 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>「こんな施設ぶっ壊して平和な公園にしてやる!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟しな」"
+                                "\\>\\tr<Yellow Signal> I'm going to destroy this facility and turn it into a\npeaceful park! Be prepared!"
                             ]
                         },
                         {
@@ -6590,14 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「我々にはギャンデッド対策法に基づく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場での即時武力制圧及び爆殺極刑の執行許可がある！！」"
+                                "\\>\\tr<Red Signal> We have authorization to immediately use force and\nexecute the death penalty by explosion based on the Gandead\nCountermeasures Act!!"
                             ]
                         },
                         {
@@ -6614,14 +6579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「ギャンデッドを量産し犯罪を助長させる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は絶対に許しておけない！！」"
+                                "\\>\\tr<Red Signal> You, who mass-produces Gandead and promotes crime, I\ncan never forgive you!!"
                             ]
                         },
                         {
@@ -6638,21 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「むしろ好都合だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シグナルフォースをまとめて相手した場合の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サンプルを取ってくれる」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Rather convenient. Please take a sample of what would\nhappen if we were to face the Signal Force all at once."
                             ]
                         },
                         {
@@ -6750,14 +6694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデット幹部>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{「じ、実験はしっぱ・・・!!」"
+                                "\\>\\tl<ギャンデト幹部> \\{\\{ Th-the experiment must continue...!!"
                             ]
                         },
                         {
@@ -6945,7 +6882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{執行完了！！"
+                                "\\{\\{Execution complete!!"
                             ]
                         },
                         {
@@ -6962,14 +6899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「敵幹部を爆破極刑に処しました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これより帰還します」"
+                                "We have executed the enemy executives with the death penalty by\nexplosion. We will now return."
                             ]
                         },
                         {
@@ -7150,7 +7080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の状態では勝ち目がない"
+                                "There is no chance of winning in the current state."
                             ]
                         },
                         {
@@ -7249,7 +7179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の状態では勝ち目がない"
+                                "There is no chance of winning in the current state."
                             ]
                         },
                         {

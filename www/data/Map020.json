@@ -280,14 +280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「緊急犯罪警報!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "緊急犯罪警報!!」"
+                                "Emergency crime alert!! Emergency crime alert!!"
                             ]
                         },
                         {
@@ -316,28 +309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<白根司令>「大変だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "諸君"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "基地が何者かに乗っ取られた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "留置場に勾留していた犯罪者達が・・・グワーーー」"
+                                "\\tl<白根司令> It's serious. Everyone, the base has been taken over by\nsomeone. The criminals who were detained in the detention center...\nGwaaaahhh!"
                             ]
                         },
                         {
@@ -354,21 +326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「た、大変"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうして？」"
+                                "\\>\\tr<Red Signal> W-What's happening? Why?"
                             ]
                         },
                         {
@@ -385,21 +343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「まさか今回の出撃が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "囮だったとかねえよな？」"
+                                "\\>\\tr<Yellow Signal> I can't believe this mission was a decoy, right?"
                             ]
                         },
                         {
@@ -416,14 +360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「とにかく本部に急いで戻りましょう」"
+                                "\\>\\tr<Blue Signal> Anyway, let's hurry back to headquarters."
                             ]
                         },
                         {
@@ -598,14 +535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なんてひどい」"
+                                "\\>\\tr<Red Signal> How terrible"
                             ]
                         },
                         {
@@ -622,14 +552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<白根司令>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ううう・・・」"
+                                "\\>\\tl<白根司令> Uuu..."
                             ]
                         },
                         {
@@ -775,14 +698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「司令」"
+                                "\\>\\tr<Red Signal> Commander"
                             ]
                         },
                         {
@@ -799,21 +715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<白根司令>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「私は大丈夫だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それよりリッカが・・・」"
+                                "\\>\\tl<白根司令> I'm fine... But more importantly, what about Rikka...?"
                             ]
                         },
                         {
@@ -830,14 +732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうだわ、博士が見当たらない」"
+                                "\\>\\tr<Blue Signal> That's right, I can't find the doctor."
                             ]
                         },
                         {
@@ -854,21 +749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<白根司令>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「脱獄犯達に連れ去られてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早くしないと・・・・」"
+                                "\\>\\tl<白根司令> They've been taken away by the escaped criminals. We need\nto hurry..."
                             ]
                         },
                         {
@@ -885,14 +766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「博士がいなくちゃあスーツの修復も出来なくなっちまう」"
+                                "\\>\\tr<Yellow Signal> If the doctor isn't here, we won't be able to repair\nthe suits."
                             ]
                         },
                         {
@@ -909,14 +783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「急いで探しましょう」"
+                                "\\>\\tr<Blue Signal> Let's hurry and search."
                             ]
                         },
                         {
@@ -957,21 +824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして今日も街の平和は守られた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　戦え　シグナルフォース!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　負けるな　シグナルフォース!!"
+                                "In this way, the peace of the city is protected today. Fight, Signal\nForce!! Don't lose, Signal Force!!"
                             ]
                         },
                         {
@@ -999,7 +852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "数日後・・・・・・・・・・・・・・・"
+                                "A few days later..."
                             ]
                         },
                         {
@@ -1085,7 +938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一方その頃・・・・・・・・・・・・・・"
+                                "Meanwhile, at that time..."
                             ]
                         },
                         {

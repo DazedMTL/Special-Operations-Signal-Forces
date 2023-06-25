@@ -2575,14 +2575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>「フン、ついにここまで来やがったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しょうがーねー、直々に相手してやるぜ。」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmph, you've finally made it this far. Well, I guess\nI'll personally take care of you."
                             ]
                         },
                         {
@@ -2599,14 +2592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「卑劣なギャンデッドの幹部め！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟なさい」"
+                                "\\>\\tr<Red Signal> You despicable Gandead executive!! Prepare yourself!"
                             ]
                         },
                         {
@@ -2623,14 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レッドシグナル>「我々にはギャンデッド対策法に基づく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場での即時武力制圧及び爆殺極刑の執行許可がある！！」"
+                                "\\>\\tr<Red Signal> We have authorization to immediately use force and\nexecute the death penalty by explosion on the scene based on the\nGandead Countermeasures Act!!"
                             ]
                         },
                         {
@@ -2647,14 +2626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷﾞｬﾝﾃﾞｯﾄﾞ幹部>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「上等だぜ、返り討ちにしてやんよ」"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Very well, I'll defeat you and turn the tables."
                             ]
                         },
                         {
@@ -2752,14 +2724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデット幹部>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{「ぎゅわああああああ～～!!」"
+                                "\\>\\tl<ギャンデト幹部> \\{\\{ Gyuaaaa~!!"
                             ]
                         },
                         {
@@ -2947,7 +2912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{執行完了！！"
+                                "\\{\\{Execution complete!!"
                             ]
                         },
                         {
@@ -2964,14 +2929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「敵幹部を爆破極刑に処しました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これより帰還します」"
+                                "We have executed the enemy executive with the extreme punishment of\nexplosion. We will now return."
                             ]
                         },
                         {
@@ -3152,7 +3110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の状態では勝ち目がない"
+                                "There is no chance of winning in the current state."
                             ]
                         },
                         {
@@ -3251,7 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の状態では勝ち目がない"
+                                "There is no chance of winning in the current state."
                             ]
                         },
                         {
@@ -3646,7 +3604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修復ツールを手に入れた！"
+                                "I obtained the repair tool!"
                             ]
                         },
                         {
@@ -4063,7 +4021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修復ツールを手に入れた！"
+                                "I obtained the repair tool!"
                             ]
                         },
                         {
@@ -4310,7 +4268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ライフアップを手に入れた！"
+                                "I obtained a life up!"
                             ]
                         },
                         {
@@ -4727,7 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精神安定薬を手に入れた！"
+                                "I obtained the mental stabilizer medication!"
                             ]
                         },
                         {
@@ -4974,7 +4932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードアップを手に入れた！"
+                                "I obtained Guard Up!"
                             ]
                         },
                         {
@@ -5221,7 +5179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＭＰアップを手に入れた！"
+                                "I obtained an MP boost!"
                             ]
                         },
                         {
@@ -5468,7 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精神安定薬を手に入れた！"
+                                "I obtained the mental stabilizer medication!"
                             ]
                         },
                         {
@@ -7193,14 +7151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は戦うヒロインを援助する者だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったらうちの商品買ってかないかい？」"
+                                "I am someone who supports fighting heroines. Would you like to buy\nour products?"
                             ]
                         },
                         {
@@ -7360,14 +7311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]ザコを蹴散らしてボスまで到達しよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスを倒せばステージクリアです"
+                                "\\c[3] Defeat the small fry and reach the boss. If you defeat the boss,\nthe stage will be cleared."
                             ]
                         },
                         {
@@ -7396,14 +7340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]メニューからブルーとイエローに通信ができます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにかヒントが聴けるかもしれません。"
+                                "\\c[3]You can communicate with Blue and Yellow from the menu. They\nmight be able to give you some hints."
                             ]
                         },
                         {
@@ -7432,14 +7369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]また２人が監禁されている場合"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりに現在の状況（Hシーン）が確認できます"
+                                "\\c[3] If two people are being held captive again, you can instead\nconfirm the current situation (H scene)."
                             ]
                         },
                         {
@@ -7468,28 +7398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]スーツが破壊されると防御力は下がりますが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻撃力は上昇します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また完全に陵辱された状態で勝利すると2倍の経験値が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獲得できます"
+                                "When your suit is destroyed, your defense decreases but your attack\npower increases. Also, if you win while being completely humiliated,\nyou can earn double the experience points."
                             ]
                         },
                         {
@@ -7518,28 +7427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]戦闘が遅く感じる場合は「shift」で高速化出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戻したい特は再度「shift」を押してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またメッセージウィンドウを消したい特は「ctrl」で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "消せます。"
+                                "\\c[3] If the battle feels slow, you can speed it up by pressing\nshift. If you want to return to normal speed, press shift again.\nAlso, if you want to hide the message window, you can do so by\npressing ctrl."
                             ]
                         },
                         {
@@ -7565,7 +7453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>\\{\\{\\{公務執行!!"
+                                "\\tr<Red Signal>\\{\\{\\{Execution of Official Duties!!"
                             ]
                         },
                         {
@@ -7768,14 +7656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ううう・・・しまった・・・先輩たちは・・・」"
+                                "\\tr<Red Signal> Ugh... I messed up... Senpais..."
                             ]
                         },
                         {
@@ -7792,28 +7673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「通信も繋がらない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　・・・一体どこに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く合流しないと・・・」"
+                                "\\tr<Red Signal> I can't even establish communication... Where on\nearth... We need to regroup quickly..."
                             ]
                         },
                         {
@@ -7849,21 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]ブルーとイエローを救出に向かいましょう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現在の凌辱の様子は通信から確認できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "負け続けるとどんどん進行していきます。"
+                                "\\c[3] Let's go rescue Blue and Yellow. We can confirm the current\nstate of humiliation from the communication. If we keep losing, it\nwill continue to progress rapidly."
                             ]
                         },
                         {
@@ -7892,21 +7738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]チーム分離中は圧倒的に不利ですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人ないし二人で戦闘中は逆境状態となり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一定時間全ての数値が回復し続けます。"
+                                "\\c[3] During team separation, it is overwhelmingly disadvantageous,\nbut when fighting alone or with two people, it becomes a state of\nadversity, and all values will continue to recover for a certain\nperiod of time."
                             ]
                         },
                         {
@@ -8109,7 +7941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レッドシグナル>「大丈夫ですか？救助致します」"
+                                "\\tr<Red Signal> Are you okay? I will rescue you."
                             ]
                         },
                         {
@@ -8133,7 +7965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<少女>「はああああ～～～ありがとうございます!!」"
+                                "\\tr<少女> Th-thank you so much!!"
                             ]
                         },
                         {
@@ -8169,14 +8001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市民を救助した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ＰＰを獲得"
+                                "I rescued the citizens. I obtained PP."
                             ]
                         },
                         {
@@ -9303,21 +9128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<少女>「ああ～～～ん!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げ遅れちゃった～～～～!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰か助けて～～～～」"
+                                "\\tr<少女> Ahhhh!! I'm too late to escape!! Someone help me!!"
                             ]
                         },
                         {
@@ -10762,7 +10573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復薬を手に入れた！"
+                                "I obtained the recovery potion!"
                             ]
                         },
                         {
@@ -11009,7 +10820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大回復薬を手に入れた！"
+                                "I obtained a large recovery potion!"
                             ]
                         },
                         {
@@ -11256,7 +11067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精神薬を手に入れた！"
+                                "I obtained the mental medication!"
                             ]
                         },
                         {
@@ -11503,7 +11314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精神薬を手に入れた！"
+                                "I obtained the mental medication!"
                             ]
                         },
                         {
@@ -11750,7 +11561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復薬を手に入れた！"
+                                "I obtained the recovery potion!"
                             ]
                         },
                         {
@@ -11997,7 +11808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大回復薬を手に入れた！"
+                                "I obtained a large recovery potion!"
                             ]
                         },
                         {
@@ -12244,7 +12055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自害薬を手に入れた！"
+                                "I obtained the suicide drug!"
                             ]
                         },
                         {
@@ -12381,21 +12192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さあ、いらっしゃいいらっしゃい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦う女性にうってつけの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイテムを取り揃えているよー」"
+                                "Come on in, come on in! We have a wide selection of items perfect for\nfighting women."
                             ]
                         },
                         {

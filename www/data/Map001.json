@@ -2870,7 +2870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリアおめでとうございます。"
+                                "Congratulations on clearing it."
                             ]
                         },
                         {
@@ -2887,14 +2887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フリーバトルが開放されました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基地の留置場からいつでも遊べます"
+                                "Free Battle has been unlocked. You can play it anytime from the base's\ndetention center."
                             ]
                         },
                         {
@@ -2911,7 +2904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント全開放を行いますか？"
+                                "Do you want to unlock all events?"
                             ]
                         },
                         {

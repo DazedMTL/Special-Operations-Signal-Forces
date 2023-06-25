@@ -2293,7 +2293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ> Alright, rookie. Today I'm going to teach you a new\nmission."
+                                "\\tl<Mika Myogi> Alright, rookie. Today I'm going to teach you a new\nmission."
                             ]
                         },
                         {
@@ -2310,7 +2310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> Huh? What is it? I think I've become quite proficient in\neverything."
+                                "\\tr<Akagi Akane> Huh? What is it? I think I've become quite proficient in\neverything."
                             ]
                         },
                         {
@@ -2327,7 +2327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ> You're being naive... This mission isn't written in the\nmanual, and it's also the most important mission... Its name is..."
+                                "\\tl<Mika Myogi> You're being naive... This mission isn't written in the\nmanual, and it's also the most important mission... Its name is..."
                             ]
                         },
                         {
@@ -2344,7 +2344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> *gulp*"
+                                "*gulp*"
                             ]
                         },
                         {
@@ -2361,7 +2361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> It's time for tea duty at 3 o'clock!"
+                                "\\>\\tl<Mika Myogi> It's time for tea duty at 3 o'clock!"
                             ]
                         },
                         {
@@ -2378,7 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> That's right... It's not written in there..."
+                                "\\>\\tr<Akagi Akane> That's right... It's not written in there..."
                             ]
                         },
                         {
@@ -2395,7 +2395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> It's tough, you know. I only drink milk tea. And Aoi\nprefers green tea, and for Rikka-chan, please prepare hot cocoa."
+                                "\\>\\tl<Mika Myogi> It's tough, you know. I only drink milk tea. And Aoi\nprefers green tea, and for Rikka-chan, please prepare hot cocoa."
                             ]
                         },
                         {
@@ -2412,7 +2412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Alright, alright... What should I present to Commander\nShirane?"
+                                "\\>\\tr<Akagi Akane> Alright, alright... What should I present to Commander\nShirane?"
                             ]
                         },
                         {
@@ -2429,7 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> The commander is a coffee person. They concluded that\nit's bothersome to keep ordering, so they decided to make it\nthemselves. Just leave them alone!"
+                                "The commander is a coffee person. They concluded that it's bothersome\nto keep ordering, so they decided to make it themselves. Just leave\nthem alone!"
                             ]
                         },
                         {
@@ -2446,7 +2446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Commander..."
+                                "\\>\\tr<Akagi Akane> Commander..."
                             ]
                         },
                         {
@@ -2463,7 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Alright, let's boil some water and start the mission\nright away."
+                                "\\>\\tl<Mika Myogi> Alright, let's boil some water and start the mission\nright away."
                             ]
                         },
                         {
@@ -2480,7 +2480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Roger! Roger! ... Huh... The water... It's not coming\nout?"
+                                "\\>\\tr<Akagi Akane> Roger! Roger! ... Huh... The water... It's not coming\nout?"
                             ]
                         },
                         {
@@ -2497,7 +2497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Huh? What's wrong? Is it broken?"
+                                "\\>\\tl<Mika Myogi> Huh? What's wrong? Is it broken?"
                             ]
                         },
                         {
@@ -2604,7 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> This is the appearance of Gandead."
+                                "This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -2655,7 +2655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Oh no, something terrible has happened!!"
+                                "\\>\\tr<Akagi Akane> Oh no, something terrible has happened!!"
                             ]
                         },
                         {
@@ -2689,7 +2689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Ughhhh, why of all places..."
+                                "\\>\\tr<Akagi Akane> Ughhhh, why of all places..."
                             ]
                         },
                         {
@@ -2706,7 +2706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> What the hell, stealing our precious lunch break? This\nis a despicable crime."
+                                "\\>\\tl<Mika Myogi> What the hell, stealing our precious lunch break? This is\na despicable crime."
                             ]
                         },
                         {
@@ -2723,7 +2723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> They're operating in such a disgusting place. My hair\nwill end up smelling..."
+                                "\\>\\tl<Aoi Haruna> They're operating in such a disgusting place. My hair\nwill end up smelling..."
                             ]
                         },
                         {
@@ -2740,7 +2740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> We have identified the location. Multiple Gandead\nreactions have been confirmed in the city's sewer system."
+                                "\\>\\tl<Aoi Haruna> We have identified the location. Multiple Gandead\nreactions have been confirmed in the city's sewer system."
                             ]
                         },
                         {
@@ -2757,7 +2757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令> Signal Force!! Deploy immediately"
+                                "Signal Force!! Deploy immediately."
                             ]
                         },
                         {
@@ -2774,7 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> The location is the manhole in the center of the city...\nWe will deploy in 5 minutes and arrive in 10 minutes."
+                                "\\>\\tl<Aoi Haruna> The location is the manhole in the center of the city...\nWe will deploy in 5 minutes and arrive in 10 minutes."
                             ]
                         },
                         {
@@ -2834,7 +2834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシター> Wassewasse..."
+                                "\\>\\tl<Sunsitaー> Whisper whisper..."
                             ]
                         },
                         {
@@ -2856,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Good, my baby is growing and causing more and more\ntrouble."
+                                "Good, my baby is growing and causing more and more trouble."
                             ]
                         },
                         {
@@ -2873,7 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシタ> Boss, it stinks... It's intense..."
+                                "\\>\\tl<Sunsita> Boss, it stinks... It's intense..."
                             ]
                         },
                         {
@@ -2890,7 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> This damp and sticky environment is just perfect for\nthe baby's growth. If those troublesome guys don't find us, and if you\nslack off, I'll turn you into a breeding ground too!"
+                                "This damp and sticky environment is just perfect for the baby's\ngrowth. If those troublesome guys don't find us, and if you slack off,\nI'll turn you into a breeding ground too!"
                             ]
                         },
                         {
@@ -2907,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシタ> P-Please, have mercy!"
+                                "\\>\\tl<Sunsita> P-Please, have mercy!"
                             ]
                         },
                         {
@@ -3074,7 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル> Yellow Signal, arrived at the scene!!"
+                                "\\tr<Yellow Signal> Yellow Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -3110,7 +3110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The rampage of evil comes to a sudden stop, with the scorching\nlight!!"
+                                "The rampage of evil comes to a sudden stop, with the scorching light!!"
                             ]
                         },
                         {
@@ -3153,7 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル> Threatening the lifeline of the citizens, the water\nsupply, is absolutely unacceptable! Cease the reproduction of those\neerie lifeforms immediately!"
+                                "\\>\\tr<Blue Signal> Threatening the lifeline of the citizens, the water\nsupply, is absolutely unacceptable! Cease the reproduction of those\neerie lifeforms immediately!"
                             ]
                         },
                         {
@@ -3170,7 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル> You dare to steal our precious moments of\nrelaxation?! I will never forgive you!!"
+                                "\\>\\tr<Yellow Signal> You dare to steal our precious moments of relaxation?!\nI will never forgive you!!"
                             ]
                         },
                         {
@@ -3187,7 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レドシグナル> There is a possibility that you are in violation of\nthe crimes of contaminating the water supply with toxic substances and\npolluting the water supply, as well as the law on prevention of damage\ncaused by specified invasive species."
+                                "\\>\\tr<Red Signal> There is a possibility that you are in violation of the\ncrimes of contaminating the water supply with toxic substances and\npolluting the water supply, as well as the law on prevention of damage\ncaused by specified invasive species."
                             ]
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レドシグナル> Submit to punishment quietly!!"
+                                "\\>\\tr<Red Signal> Submit to punishment quietly!!"
                             ]
                         },
                         {
@@ -3308,7 +3308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Hey, Akagi. Looks like you're getting used to going out\non missions."
+                                "\\>\\tl<Mika Myogi> Hey, Akagi. Looks like you're getting used to going out\non missions."
                             ]
                         },
                         {
@@ -3342,7 +3342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> One after another, various modified criminals keep\nappearing... It feels like they're getting stronger and stronger. Is\nthere no way to defeat them more easily?"
+                                "\\>\\tr<Akagi Akane> One after another, various modified criminals keep\nappearing... It feels like they're getting stronger and stronger. Is\nthere no way to defeat them more easily?"
                             ]
                         },
                         {
@@ -3359,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> Honestly... such lazy thinking. You must always confront\ncrime with full force."
+                                "Honestly... such lazy thinking. You must always confront crime with\nfull force."
                             ]
                         },
                         {
@@ -3376,7 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> W-Well, that's true but..."
+                                "\\>\\tr<Akagi Akane> W-Well, that's true but..."
                             ]
                         },
                         {
@@ -3393,7 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> If the enemy is getting stronger, then we should train\neven harder. Especially you, because you have too much excess fat."
+                                "\\>\\tl<Mika Myogi> If the enemy is getting stronger, then we should train\neven harder. Especially you, because you have too much excess fat."
                             ]
                         },
                         {
@@ -3410,7 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> Well, if you want an easier time, should I just modify\nyou instead? If I double your arms, your attacks might also double,\nyou know?"
+                                "\\>\\tl<白根リカ> Well, if you want an easier time, should I just modify you\ninstead? If I double your arms, your attacks might also double, you\nknow?"
                             ]
                         },
                         {
@@ -3427,7 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Oh no~ I'm fine."
+                                "\\>\\tr<Akagi Akane> Oh no~ I'm fine."
                             ]
                         },
                         {
@@ -3444,7 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> Just kidding. Well, at least I want to enhance my\nweapons more."
+                                "\\>\\tl<白根リカ> Just kidding. Well, at least I want to enhance my weapons\nmore."
                             ]
                         },
                         {
@@ -3461,7 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> We are police officers, so excessive armament is\ndifficult."
+                                "We are police officers, so excessive armament is difficult."
                             ]
                         },
                         {
@@ -3478,7 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> The use of firearms is restricted, you know."
+                                "\\>\\tl<Mika Myogi> The use of firearms is restricted, you know."
                             ]
                         },
                         {
@@ -3495,7 +3495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Is that so?"
+                                "\\>\\tr<Akagi Akane> Is that so?"
                             ]
                         },
                         {
@@ -3512,7 +3512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> The weapons of the Signals hardly use gunpowder, right?\nIt was difficult to make them."
+                                "\\>\\tl<白根リカ> The Signals' weapons hardly use gunpowder, right? It was\ndifficult to make them."
                             ]
                         },
                         {
@@ -3529,7 +3529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> But I wonder where Gandead is getting those modification\nsurgeries done? We need to investigate..."
+                                "\\>\\tl<Aoi Haruna> But I wonder where Gandead is getting those modification\nsurgeries done? We need to investigate..."
                             ]
                         },
                         {
@@ -3546,7 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Hahaha, surprisingly, they might have been working hard\nand sweating to build those bodies through training."
+                                "\\>\\tl<Mika Myogi> Hahaha, surprisingly, they might have been working hard\nand sweating to build those bodies through training."
                             ]
                         },
                         {
@@ -3653,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> This is the appearance of Gandead."
+                                "This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -3687,7 +3687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In the mountainous area of K City, S Prefecture, a group of Gandead\nis rampaging at a quarry and has taken the workers hostage."
+                                "In the mountainous area of K City, S Prefecture, a group of Gandead is\nrampaging at a quarry and has taken the workers hostage."
                             ]
                         },
                         {
@@ -3704,7 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Oh no, it's terrible!!"
+                                "\\>\\tr<Akagi Akane> Oh no, it's terrible!!"
                             ]
                         },
                         {
@@ -3738,7 +3738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> They appeared in a quite predictable place. They can\nfreely detonate this place."
+                                "\\>\\tl<Mika Myogi> They appeared in a quite predictable place. They can\nfreely detonate this place."
                             ]
                         },
                         {
@@ -3755,7 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> I'm worried about the hostages. Let's hurry and\nprepare."
+                                "\\>\\tl<Aoi Haruna> I'm worried about the hostages. Let's hurry and prepare."
                             ]
                         },
                         {
@@ -3832,7 +3832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> This is great! The mountains are great, they're\nspacious and the air is clean. Let's make it our Gandead training\ngym!"
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> This is great! The mountains are great, they're spacious\nand the air is clean. Let's make it our Gandead training gym!"
                             ]
                         },
                         {
@@ -3854,7 +3854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシタ> Ussha! Ossha! Muki mukii!"
+                                "\\>\\tl<Sunsita> Ussha! Ossha! Muki mukii!"
                             ]
                         },
                         {
@@ -4151,7 +4151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レドシグナル> Red Signal, arrived at the scene!!"
+                                "\\tr<Red Signal> Red Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -4168,7 +4168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル> Forcing workers into forced labor to build a base is\ndespicable. I will take revenge on behalf of all civil engineering\nprofessionals nationwide."
+                                "\\>\\tr<Blue Signal> Forcing workers into forced labor to build a base is\ndespicable. I will take revenge on behalf of all civil engineering\nprofessionals nationwide."
                             ]
                         },
                         {
@@ -4185,7 +4185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル> Muscles acquired through evil deeds will only lead to\nself-destruction. It's karma. I will make you face the consequences!"
+                                "\\>\\tr<Yellow Signal> Muscles acquired through evil deeds will only lead to\nself-destruction. It's karma. I will make you face the consequences!"
                             ]
                         },
                         {
@@ -4202,7 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レドシグナル> There is a possibility that you are in violation of\nillegal occupation, abduction and confinement, as well as labor law\nviolations."
+                                "\\>\\tr<Red Signal> There is a possibility that you are in violation of\nillegal occupation, abduction and confinement, as well as labor law\nviolations."
                             ]
                         },
                         {
@@ -4219,7 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レドシグナル> Submit to punishment quietly!!"
+                                "\\>\\tr<Red Signal> Submit to punishment quietly!!"
                             ]
                         },
                         {
@@ -4340,7 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> What's wrong, Doctor?"
+                                "\\tr<Akagi Akane> What's wrong, Doctor?"
                             ]
                         },
                         {
@@ -4357,7 +4357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リカ> Lately, due to the consecutive battles, the erosion rate\nof the suits has been accumulating. If this continues, there's a\npossibility that the control system could be taken over during combat,\nwhich would be the worst-case scenario."
+                                "\\tl<白根リカ> Lately, due to the consecutive battles, the erosion rate of\nthe suits has been accumulating. If this continues, there's a\npossibility that the control system could be taken over during combat,\nwhich would be the worst-case scenario."
                             ]
                         },
                         {
@@ -4374,7 +4374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> But... even though we're wearing the suits, it's us who\nare controlling them, right?"
+                                "\\tr<Akagi Akane> But... even though we're wearing the suits, it's us who are\ncontrolling them, right?"
                             ]
                         },
                         {
@@ -4391,7 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リカ> Please don't forget that it is thanks to the SIGNAL suits\nthat we are able to generate superhuman power through body\nenhancement, muscle strengthening, and movement support."
+                                "Please don't forget that it is thanks to the SIGNAL suits that we are\nable to generate superhuman power through body enhancement, muscle\nstrengthening, and movement support."
                             ]
                         },
                         {
@@ -4408,7 +4408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ> Even just the weight alone is quite something. The\nmovement support is not something to be underestimated."
+                                "\\tl<Mika Myogi> Even just the weight alone is quite something. The movement\nsupport is not something to be underestimated."
                             ]
                         },
                         {
@@ -4425,7 +4425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リカ> Yellow Signal is particularly equipped with heavy weapons,\nso the benefits of suit enhancement are greater than other suits. But\nit also requires a body that can withstand it."
+                                "\\tl<白根リカ> Yellow Signal is equipped with heavy weapons, so the\nadvantages of suit enhancement are greater compared to other suits.\nHowever, it also requires a body that can endure it."
                             ]
                         },
                         {
@@ -4442,7 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<榛名アオイ> We need to improve the suits and train our bodies. A elite\nunit requires effort."
+                                "\\tl<Aoi Haruna> We need to improve the suits and train our bodies. An elite\nunit requires effort."
                             ]
                         },
                         {
@@ -4459,7 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> Ugh... I'm completely exhausted..."
+                                "\\tr<Akagi Akane> Ugh... I'm completely exhausted..."
                             ]
                         },
                         {
@@ -4476,7 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リカ> Ideally, it would be great if we could create suits that\nnot only elite units but even someone like my brother, Aoi Haruna,\ncould fully utilize their power."
+                                "Ideally, it would be great if we could create suits that not only\nelite units but even someone like my brother, Aoi Haruna, could fully\nutilize their power."
                             ]
                         },
                         {
@@ -4493,7 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ> Until then, we'll give it our all and put our bodies on\nthe line."
+                                "\\tl<Mika Myogi> Until then, we'll give it our all and put our bodies on the\nline."
                             ]
                         },
                         {
@@ -4600,7 +4600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> This is the appearance of a Gandead."
+                                "This is the appearance of a Gandead."
                             ]
                         },
                         {
@@ -4617,7 +4617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is a transmission from an anonymous informant. They claim to\nhave identified the location of the Gandead modification surgery\nfacility."
+                                "This is a transmission from an anonymous informant. They claim to have\nidentified the location of the Gandead modification surgery facility."
                             ]
                         },
                         {
@@ -4651,7 +4651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Finally, the modification base has been identified. If\nwe strike here, we can significantly reduce their fighting power."
+                                "\\>\\tl<Mika Myogi> Finally, the modification base has been identified. If we\nstrike here, we can significantly reduce their fighting power."
                             ]
                         },
                         {
@@ -4668,7 +4668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令> If we strike here, we won't be able to create any more\npowerful Gandead monsters. Alright, let's attack all at once."
+                                "If we strike here, we won't be able to create any more powerful\nGandead monsters. Alright, let's attack all at once."
                             ]
                         },
                         {
@@ -4685,7 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> They will also be strengthening their defenses. Please\ngo with full preparation."
+                                "\\>\\tl<白根リカ> They will also be strengthening their defenses. Please go\nwith full preparation."
                             ]
                         },
                         {
@@ -4702,7 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令> Signal Force!! Mobilize immediately."
+                                "Signal Force!! Mobilize immediately."
                             ]
                         },
                         {
@@ -4762,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<サンシター> Ouch... Please be more gentle..."
+                                "\\>\\tl<Sunsitaー> Ouch... Please be more gentle..."
                             ]
                         },
                         {
@@ -4784,7 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmm, recently the injuries of the Signal Force have\nbeen severe. It seems that we need a new modification method around\nhere. If only we could obtain the combat data of the Signals, it would\nbe helpful..."
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmm, recently the injuries of the Signal Force have been\nsevere. It seems that we need a new modification method around here.\nIf only we could obtain the combat data of the Signals, it would be\nhelpful..."
                             ]
                         },
                         {
@@ -4951,7 +4951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル> Yellow Signal, arrived at the scene!"
+                                "\\tr<Yellow Signal> Yellow Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -5013,7 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レドシグナル> Red Signal, arrived at the scene!"
+                                "\\tr<Red Signal> Red Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -5030,7 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<ブルーシグナル> Finally, we've located the source of evil! We'll\neradicate the seeds of crime right here!"
+                                "\\>\\tr<Blue Signal> Finally, we've located the source of evil! We'll\neradicate the seeds of crime right here!"
                             ]
                         },
                         {
@@ -5047,7 +5047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<イエローシグナル> This is the perfect time to strike!!"
+                                "This is the perfect time to strike!!"
                             ]
                         },
                         {
@@ -5064,7 +5064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レドシグナル> There is a possibility that you have violated the laws\nregarding illegal construction, medical laws, pharmaceutical laws, and\ncommitted the crime of treason against the nation."
+                                "\\>\\tr<Red Signal> There is a possibility that you have violated the laws\nregarding illegal construction, medical laws, pharmaceutical laws, and\ncommitted the crime of treason against the nation."
                             ]
                         },
                         {
@@ -5081,7 +5081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<レドシグナル> Submit to punishment quietly!!"
+                                "\\>\\tr<Red Signal> Submit to punishment quietly!!"
                             ]
                         },
                         {
@@ -5435,7 +5435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> I am Akane Akachi, a candidate for the Mobile Unit. Nice\nto meet you."
+                                "\\tr<Akagi Akane> Nice to meet you, I am Akane Akachi, a candidate for the\nMobile Unit."
                             ]
                         },
                         {
@@ -5452,7 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> You're no longer a candidate, so please introduce yourself\nto the seniors."
+                                "\\tl<白根司令> Since you are no longer a candidate, please introduce\nyourself to the senior members."
                             ]
                         },
                         {
@@ -5552,7 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<榛名アオイ> I'm Aoi Haruna, a member of the Blue Signal team. Nice to\nmeet you. Feel free to ask me anything if you have any questions."
+                                "I'm Aoi Haruna, a member of the Blue Signal team. Nice to meet you.\nFeel free to ask me anything if you have any questions."
                             ]
                         },
                         {
@@ -5569,7 +5569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> (...Wow, she's beautiful)"
+                                "\\tr<Akagi Akane> (...Wow, she's beautiful)"
                             ]
                         },
                         {
@@ -5586,7 +5586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Um, I have a question... Are the SIGNAL suits sturdy but\na little stuffy? I'm worried about sweating..."
+                                "\\>\\tr<Akagi Akane> Um, I have a question... Are the SIGNAL suits sturdy but\na little stuffy? I'm worried about sweating..."
                             ]
                         },
                         {
@@ -5603,7 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> Hmm, I wonder? My suit has openings on the stomach and\nback, so it doesn't get too stuffy."
+                                "\\>\\tl<Aoi Haruna> Hmm, I wonder? My suit has openings on the stomach and\nback, so it doesn't get too stuffy."
                             ]
                         },
                         {
@@ -5620,7 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Are the suits different for each person?"
+                                "Are the suits different for each person?"
                             ]
                         },
                         {
@@ -5637,7 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> The SIGNAL suits are tuned up after each mission to\nmatch each individual's abilities. I think Akachi-san's suit will\ngradually be optimized as well."
+                                "\\>\\tl<Aoi Haruna> The SIGNAL suits are tuned up after each mission to match\neach individual's abilities. I think Akachi-san's suit will gradually\nbe optimized as well."
                             ]
                         },
                         {
@@ -5654,7 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> As for the suits, it would be best to ask the doctor,\nbut unfortunately he is not here today."
+                                "As for the suits, it would be best to ask the doctor, but\nunfortunately he is not here today."
                             ]
                         },
                         {
@@ -5671,7 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> I see, understood."
+                                "\\>\\tr<Akagi Akane> I see, understood."
                             ]
                         },
                         {
@@ -5799,7 +5799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ> I'm Mika Myogi, the Yellow Signal. Oh, you're quite a\npetite rookie, aren't you?"
+                                "I'm Mika Myogi, the Yellow Signal. Oh, you're quite a petite rookie,\naren't you?"
                             ]
                         },
                         {
@@ -5816,7 +5816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> N-No, that's not true. I'm already a full-fledged member\ntoo."
+                                "\\>\\tr<Akagi Akane> N-No, that's not true. I'm already a full-fledged member\ntoo."
                             ]
                         },
                         {
@@ -5833,7 +5833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> That's right, there aren't many trainees who can rise up\nto this level. You're more reliable than those ordinary male members\nin terms of numbers."
+                                "\\>\\tl<Mika Myogi> That's right, there aren't many trainees who can rise up\nto this level. You're more reliable than those ordinary male members\nin terms of numbers."
                             ]
                         },
                         {
@@ -5850,7 +5850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Th-Thank you very much. Myogi-senpai seems really\nstrong."
+                                "\\>\\tr<Akagi Akane> Th-Thank you very much. Myogi-senpai seems really strong."
                             ]
                         },
                         {
@@ -5867,7 +5867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> As a woman, I became a Ranger. I've never lost an arm\nwrestling match, not even to male members."
+                                "\\>\\tl<Mika Myogi> As a woman, I became a Ranger. I've never lost an arm\nwrestling match, not even to male members."
                             ]
                         },
                         {
@@ -5884,7 +5884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Wow... amazing muscles..."
+                                "\\>\\tr<Akagi Akane> Wow... amazing muscles..."
                             ]
                         },
                         {
@@ -5901,7 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Without a suit, I can't swing my weapon around like\nthis."
+                                "\\>\\tl<Mika Myogi> Without a suit, I can't swing my weapon around like this."
                             ]
                         },
                         {
@@ -5918,7 +5918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> I don't want Akachi-san to take Mika as a reference too\nmuch. She always causes so much destruction around her that we never\nhave enough incident reports to cover it all."
+                                "\\>\\tl<Aoi Haruna> I don't want Akachi-san to take Mika as a reference too\nmuch. She always causes so much destruction around her that we never\nhave enough incident reports to cover it all."
                             ]
                         },
                         {
@@ -5935,7 +5935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> That was a promise not to say it!!"
+                                "That was a promise not to say it!!"
                             ]
                         },
                         {
@@ -6066,7 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> This is the appearance of a Gandead."
+                                "This is the appearance of a Gandead."
                             ]
                         },
                         {
@@ -6159,7 +6159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> U-Understood!! Um... the suit... um..."
+                                "\\tr<Akagi Akane> U-Understood!! Um... the suit... um..."
                             ]
                         },
                         {
@@ -6176,7 +6176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ> Hey, leave it behind, rookie."
+                                "\\tl<Mika Myogi> Hey, leave it behind, rookie."
                             ]
                         },
                         {
@@ -6236,7 +6236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<サンシタ> Shit!! I understand!!"
+                                "\\tl<Sunsita> Shit!! I understand!!"
                             ]
                         },
                         {
@@ -6406,7 +6406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル> Yellow Signal, arrived at the scene!"
+                                "Yellow Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -6502,7 +6502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<レドシグナル> Red Signal, arrived at the scene!!"
+                                "\\tr<Red Signal> Red Signal, arrived at the scene!!"
                             ]
                         },
                         {
@@ -6553,7 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ブルーシグナル> Keep your mouth shut..."
+                                "\\tr<Blue Signal> Keep your mouth shut..."
                             ]
                         },
                         {
@@ -6570,7 +6570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<イエローシグナル> You're the ones who will be destroyed, you know!"
+                                "\\tr<Yellow Signal> You're the ones who will be destroyed, you know!"
                             ]
                         },
                         {
@@ -6604,7 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<サンシタ> Shit!! I've learned some mentally exhausting sexual\nharassment techniques over the past few weeks!!"
+                                "\\tl<Sunsita> Shit!! I've learned some mentally exhausting sexual\nharassment techniques over the past few weeks!!"
                             ]
                         },
                         {
@@ -6621,7 +6621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<サンシタ> I can sexually harass you anytime!!"
+                                "\\tl<Sunsita> I can sexually harass you anytime!!"
                             ]
                         },
                         {
@@ -6638,7 +6638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Now, let's do lots of naughty things and strip you\nwhile we're at it."
+                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Now, let's do lots of naughty things and strip you while\nwe're at it."
                             ]
                         },
                         {
@@ -6876,7 +6876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> Good job on your first battle, you did well."
+                                "\\>\\tl<Aoi Haruna> Good job on your first battle, you did well."
                             ]
                         },
                         {
@@ -6893,7 +6893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> It's because of the support from my seniors. But, I\nwonder what a Gandead is..."
+                                "\\>\\tr<Akagi Akane> It's because of the support from my seniors. But, I\nwonder what a Gandead is..."
                             ]
                         },
                         {
@@ -6910,7 +6910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> Yes... They are said to be an unidentified group of\nmodified human criminals..."
+                                "\\>\\tl<Aoi Haruna> Yes... They are said to be an unidentified group of\nmodified human criminals..."
                             ]
                         },
                         {
@@ -6927,7 +6927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> Do you know about the incident that happened in northern\nAkagi?"
+                                "\\>\\tl<Aoi Haruna> Do you know about the incident that happened in northern\nAkagi?"
                             ]
                         },
                         {
@@ -6944,7 +6944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Um... Is that the one where they were trying to dig a\nhot spring and underground gas started spewing out, and many people\nwho were exposed to it turned into creatures...?"
+                                "\\>\\tr<Akagi Akane> Um... Is that the one where they were trying to dig a hot\nspring and underground gas started spewing out, and many people who\nwere exposed to it turned into creatures...?"
                             ]
                         },
                         {
@@ -6961,7 +6961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> Yes, the rise of the Gandead is after the Kusatsu-Impact\nincident. There might be some connection."
+                                "\\>\\tl<Aoi Haruna> Yes, the rise of the Gandead is after the Kusatsu-Impact\nincident. There might be some connection."
                             ]
                         },
                         {
@@ -6978,7 +6978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Could it be that they are also victims of the incident?"
+                                "\\>\\tr<Akagi Akane> Could it be that they are also victims of the incident?"
                             ]
                         },
                         {
@@ -6995,7 +6995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> Even so, we can't just forgive those who engage in\ncrime."
+                                "\\>\\tl<Aoi Haruna> Even so, we can't just forgive those who engage in crime."
                             ]
                         },
                         {
@@ -7033,7 +7033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> Senpai, we didn't have snack time earlier, right? Where\ndid you go?"
+                                "\\tr<Akagi Akane> Senpai, we didn't have snack time earlier, right? Where did\nyou go?"
                             ]
                         },
                         {
@@ -7050,7 +7050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ> Ah, I was attending the regular meeting of each\ndepartment. There were things I needed to do, like reporting on our\nactivities."
+                                "\\tl<Aoi Haruna> Ah, I was attending the regular meeting of each department.\nThere were things I needed to do, like reporting on our activities."
                             ]
                         },
                         {
@@ -7067,7 +7067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> As expected of Senpai Aoi, you were skilled even in such\ndifficult tasks."
+                                "\\tr<Akagi Akane> As expected of Senpai Aoi, you were skilled even in such\ndifficult tasks."
                             ]
                         },
                         {
@@ -7084,7 +7084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ> Well, SIGNAL was created as a department for combating\nGandead crimes, so we still need to thoroughly promote awareness of\nour activities."
+                                "Well, SIGNAL was created as a department for combating Gandead crimes,\nso we still need to thoroughly promote awareness of our activities."
                             ]
                         },
                         {
@@ -7101,7 +7101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ> There are still departments that continue to request the\ntransfer of investigative authority. But there is no other department\nbesides us that has a reliable means of stopping the Gandead. Dealing\nwith stubborn people is tough."
+                                "\\tl<Aoi Haruna> There are still departments that continue to request the\ntransfer of investigative authority. But there is no other department\nbesides us that has a reliable means of stopping the Gandead. Dealing\nwith stubborn people is tough."
                             ]
                         },
                         {
@@ -7118,7 +7118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> Oh, oh, thank you for your hard work. You must be really\ntired."
+                                "\\tr<Akagi Akane> Oh, oh, thank you for your hard work. You must be really\ntired."
                             ]
                         },
                         {
@@ -7156,7 +7156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> Senpai, what is that thing at the back of the detention\ncenter?"
+                                "\\tr<Akagi Akane> Senpai, what is that thing at the back of the detention\ncenter?"
                             ]
                         },
                         {
@@ -7173,7 +7173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ> The VIP room? It's the room where the most important\nsuspect is being detained, right? That person is the first Gandead\nsuspect we ever caught."
+                                "\\tl<Aoi Haruna> The VIP room? It's the room where the most important\nsuspect is being detained, right? That person is the first Gandead\nsuspect we ever caught."
                             ]
                         },
                         {
@@ -7190,7 +7190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ> We are monitoring them as a special treatment as\nindispensable suspects for various future crime countermeasures."
+                                "We are monitoring them as a special treatment as indispensable\nsuspects for various future crime countermeasures."
                             ]
                         },
                         {
@@ -7207,7 +7207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> It seems unfair, but... Did you seniors also catch that\nperson?"
+                                "\\tr<Akagi Akane> It seems unfair, but... Did you seniors also catch that\nperson?"
                             ]
                         },
                         {
@@ -7241,7 +7241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<榛名アオイ> Since it was a criminal from the time when the\norganization was not yet fully established, there is no record of who\ncaught them or how. Gandead is full of mysteries, isn't it?"
+                                "\\tl<Aoi Haruna> Since it was a criminal from the time when the organization\nwas not yet fully established, there is no record of who caught them\nor how. Gandead is full of mysteries, isn't it?"
                             ]
                         },
                         {
@@ -7346,7 +7346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Hey, rookie. You did pretty well for your first battle."
+                                "\\>\\tl<Mika Myogi> Hey, rookie. You did pretty well for your first battle."
                             ]
                         },
                         {
@@ -7363,7 +7363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> It was really tough. Have you always been fighting\nagainst that?"
+                                "\\>\\tr<Akagi Akane> It was really tough. Have you always been fighting\nagainst that?"
                             ]
                         },
                         {
@@ -7380,7 +7380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Oh, I'm already used to it. After a good night's sleep,\nany wounds will heal in no time."
+                                "\\>\\tl<Mika Myogi> Oh, I'm already used to it. After a good night's sleep,\nany wounds will heal in no time."
                             ]
                         },
                         {
@@ -7397,7 +7397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Wow~ You're amazing, aren't you?"
+                                "\\>\\tr<Akagi Akane> Wow~ You're amazing, aren't you?"
                             ]
                         },
                         {
@@ -7414,7 +7414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Well, it's thanks to the natural healing amplification\nshower in the base. Most wounds heal with that."
+                                "\\>\\tl<Mika Myogi> Well, it's thanks to the natural healing amplification\nshower in the base. Most wounds heal with that."
                             ]
                         },
                         {
@@ -7431,7 +7431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Wow, that's cheating!!"
+                                "\\>\\tr<Akagi Akane> Wow, that's cheating!!"
                             ]
                         },
                         {
@@ -7448,7 +7448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Make sure you thoroughly wash yourself too. Open up your\nlegs and your asshole, and wash deep inside."
+                                "\\>\\tl<Mika Myogi> Make sure you thoroughly wash yourself too. Open up your\nlegs and your buttocks, and wash deep inside."
                             ]
                         },
                         {
@@ -7465,7 +7465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> I-I'll refrain from doing that."
+                                "\\>\\tr<Akagi Akane> I-I'll refrain from doing that."
                             ]
                         },
                         {
@@ -7503,7 +7503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ> What's wrong? Akane, you seem quite down."
+                                "\\tl<Mika Myogi> What's wrong? Akane, you seem quite down."
                             ]
                         },
                         {
@@ -7520,7 +7520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> But, senpai, the work of SIGNAL is always so demanding.\nLet's increase the number of members more~"
+                                "\\tr<Akagi Akane> But, senpai, the work of SIGNAL is always so demanding.\nLet's increase the number of members more~"
                             ]
                         },
                         {
@@ -7537,7 +7537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ> Well, that's true, but without any candidates..."
+                                "Well, that's true, but without any candidates..."
                             ]
                         },
                         {
@@ -7554,7 +7554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ> There are more weak underlings, but hardly any of them can\npass the recruitment exam and become official members."
+                                "There are more weak underlings, but hardly any of them can pass the\nrecruitment exam and become official members."
                             ]
                         },
                         {
@@ -7571,7 +7571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> Ehehe~ Is that so? I guess I really am excellent."
+                                "\\tr<Akagi Akane> Ehehe~ Is that so? I guess I really am excellent."
                             ]
                         },
                         {
@@ -7588,7 +7588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ> No, it seems that ultimately it depends on the suitability\nfor the suit."
+                                "\\tl<Mika Myogi> No, it seems that ultimately it depends on the suitability\nfor the suit."
                             ]
                         },
                         {
@@ -7626,7 +7626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> Oops, I forgot to patrol the holding cell. I have to go."
+                                "\\tr<Akagi Akane> Oops, I forgot to patrol the holding cell. I have to go."
                             ]
                         },
                         {
@@ -7643,7 +7643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ> It's fine once in a while. With the security dog robots,\nit's almost impossible for anyone to escape."
+                                "It's fine once in a while. With the security dog robots, it's almost\nimpossible for anyone to escape."
                             ]
                         },
                         {
@@ -7660,7 +7660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ> That is also one of Rikka-chan's inventions. With that,\nour work has become much easier."
+                                "\\tl<Mika Myogi> That is also one of Rikka-chan's inventions. With that, our\nwork has become much easier."
                             ]
                         },
                         {
@@ -7677,7 +7677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> That's amazing!"
+                                "That's amazing!"
                             ]
                         },
                         {
@@ -7694,7 +7694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<妙義山ミカ> It's a shame that I can't go around hitting suspects while\nrelieving stress during patrols anymore..."
+                                "\\tl<Mika Myogi> It's a shame that I can't go around hitting suspects while\nrelieving stress during patrols anymore..."
                             ]
                         },
                         {
@@ -7711,7 +7711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<赤城アカネ> Is that... a problematic behavior?"
+                                "\\tr<Akagi Akane> Is that... a problematic behavior?"
                             ]
                         },
                         {
@@ -8639,7 +8639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> Hmmm, this is the one... with a truly ordinary\nappearance."
+                                "\\>\\tl<白根リカ> Hmmm, this is the one... with a truly ordinary appearance."
                             ]
                         },
                         {
@@ -8656,7 +8656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Hey hey, young lady, you can't enter here because this\nis an important facility. If you're on a social studies field trip,\nit's over there."
+                                "\\>\\tr<Akagi Akane> Hey hey, young lady, you can't enter here because this is\nan important facility. If you're on a social studies field trip, it's\nover there."
                             ]
                         },
                         {
@@ -8673,7 +8673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> You insolent person!!"
+                                "You insolent person!!"
                             ]
                         },
                         {
@@ -8699,7 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Ouch..."
+                                "\\>\\tr<Akagi Akane> Ouch..."
                             ]
                         },
                         {
@@ -8716,7 +8716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<榛名アオイ> Oh, Doctor. Were you here?"
+                                "\\>\\tl<Aoi Haruna> Oh, Doctor. Were you here?"
                             ]
                         },
                         {
@@ -8733,7 +8733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Huh? Doctor"
+                                "\\>\\tr<Akagi Akane> Huh? Doctor"
                             ]
                         },
                         {
@@ -8750,7 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> Indeed, I am the developer of the Signal Suit and a\nsuper genius high school student with an IQ of 280, Miss Rikka\nShirane."
+                                "\\>\\tl<白根リカ> Indeed, I am the developer of the Signal Suit and a super\ngenius high school student with an IQ of 280, Miss Rikka Shirane."
                             ]
                         },
                         {
@@ -8767,7 +8767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<妙義山ミカ> Don't bully the newbies too much, Rikka-chan."
+                                "\\>\\tl<Mika Myogi> Don't bully the newbies too much, Rikka-chan."
                             ]
                         },
                         {
@@ -8784,7 +8784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Eeeeh~ This is the doctor?"
+                                "\\>\\tr<Akagi Akane> Eeeeh~ This is the doctor?"
                             ]
                         },
                         {
@@ -8827,7 +8827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Gyaahhhhh!!"
+                                "\\>\\tr<Akagi Akane> Gyaahhhhh!!"
                             ]
                         },
                         {
@@ -8868,7 +8868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Huh? Ah... Shirane... The commander's... sister!! So\nyou're the one who made the suits?"
+                                "\\>\\tr<Akagi Akane> Huh? Ah... Shirane... The commander's... sister!! So\nyou're the one who made the suits?"
                             ]
                         },
                         {
@@ -8902,7 +8902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> My brother's promotion to commander... it's just a\nbonus."
+                                "\\>\\tl<白根リカ> My brother's promotion to commander... it's just a bonus."
                             ]
                         },
                         {
@@ -8919,7 +8919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Hyoe~"
+                                "\\>\\tr<Akagi Akane> Hyoe~"
                             ]
                         },
                         {
@@ -8960,7 +8960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Uuu... I understand that very well..."
+                                "\\>\\tr<Akagi Akane> Uuu... I understand that very well..."
                             ]
                         },
                         {
@@ -8977,7 +8977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> Anyway, since you're wearing my suit like my own child,\ndo your best too."
+                                "\\>\\tl<白根リカ> Anyway, since you're wearing my suit like my own child, do\nyour best too."
                             ]
                         },
                         {
@@ -8994,7 +8994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Ah, then could you please improve the breathability of\nthe suit right away? It's already getting stuffy..."
+                                "\\>\\tr<Akagi Akane> Ah, then could you please improve the breathability of\nthe suit right away? It's already getting stuffy..."
                             ]
                         },
                         {
@@ -9028,7 +9028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<赤城アカネ> Tough!!"
+                                "Tough!!"
                             ]
                         },
                         {
@@ -9453,7 +9453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<榛名アオイ> From now on, we need to reinforce the detention facility\neven more."
+                                "\\tl<Aoi Haruna> From now on, we need to reinforce the detention facility\neven more."
                             ]
                         },
                         {
@@ -9487,7 +9487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ> Please repair the suits quickly, Rikka-chan."
+                                "\\tl<Mika Myogi> Please repair the suits quickly, Rikka-chan."
                             ]
                         },
                         {
@@ -9504,7 +9504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> Wait a minute, the doctor was just rescued. Let's give him\na little more rest."
+                                "\\tr<Akagi Akane> Wait a minute, the doctor was just rescued. Let's give him\na little more rest."
                             ]
                         },
                         {
@@ -9538,7 +9538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> S-Scary... As expected of the doctor."
+                                "\\tr<Akagi Akane> S-Scary... As expected of the doctor."
                             ]
                         },
                         {
@@ -9645,7 +9645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> This is the appearance of Gandead."
+                                "This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -9662,7 +9662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<妙義山ミカ> Please come in right away."
+                                "Please come in right away."
                             ]
                         },
                         {
@@ -9679,7 +9679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<榛名アオイ> There's no time to take a break."
+                                "There's no time to take a break."
                             ]
                         },
                         {
@@ -9696,7 +9696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<赤城アカネ> Now, let's get to work, let's get to work!"
+                                "\\tr<Akagi Akane> Now, let's get to work, let's get to work!"
                             ]
                         },
                         {

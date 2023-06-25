@@ -1,0 +1,1242 @@
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 1,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 1,
+    "width": 1,
+    "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "EV001",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                3
+                            ]
+                        },
+                        {
+                            "code": 322,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "0sentai",
+                                0,
+                                "Actor1",
+                                0,
+                                "着衣_0001"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                21,
+                                21,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 314,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                21
+                            ]
+                        },
+                        {
+                            "code": 129,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 129,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                8,
+                                0,
+                                5,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                22,
+                                22,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                23,
+                                23,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "name": "アラーム",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    255,
+                                    0,
+                                    0,
+                                    170
+                                ],
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    255,
+                                    0,
+                                    0,
+                                    170
+                                ],
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    255,
+                                    0,
+                                    0,
+                                    170
+                                ],
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「緊急犯罪警報!!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "緊急犯罪警報!!」"
+                            ]
+                        },
+                        {
+                            "code": 241,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "name": "危険信号5秒前",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\tl<白根司令>「大変だ。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "諸君"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "基地が何者かに乗っ取られた"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "留置場に勾留していた犯罪者達が・・・グワーーー」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tr<レッドシグナル>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「た、大変"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "どうして？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tr<イエローシグナル>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「まさか今回の出撃が"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "囮だったとかねえよな？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tr<ブルーシグナル>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「とにかく本部に急いで戻りましょう」"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [
+                                23
+                            ]
+                        },
+                        {
+                            "code": 123,
+                            "indent": 1,
+                            "parameters": [
+                                "A",
+                                0
+                            ]
+                        },
+                        {
+                            "code": 322,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "0sentai",
+                                4,
+                                "Actor1",
+                                0,
+                                "着衣_0001"
+                            ]
+                        },
+                        {
+                            "code": 314,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                24,
+                                10,
+                                16,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 1,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 40,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 40,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "KST アウト"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 1,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tr<レッドシグナル>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「なんてひどい」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tl<白根司令>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「ううう・・・」"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 1,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": true,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tr<レッドシグナル>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「司令」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tl<白根司令>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「私は大丈夫だ・・・"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "それよりリッカが・・・」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tr<ブルーシグナル>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「そうだわ、博士が見当たらない」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tl<白根司令>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「脱獄犯達に連れ去られてしまった。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "早くしないと・・・・」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tr<イエローシグナル>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「博士がいなくちゃあスーツの修復も出来なくなっちまう」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\>\\tr<ブルーシグナル>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「急いで探しましょう」"
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "KST アウト"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 1,
+                            "parameters": [
+                                "おわり"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "こうして今日も街の平和は守られた"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "　　　　戦え　シグナルフォース!!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "　　　　負けるな　シグナルフォース!!"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                22,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "数日後・・・・・・・・・・・・・・・"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                24,
+                                24,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                22,
+                                22,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                4,
+                                11,
+                                7,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [
+                                26
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                23,
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "一方その頃・・・・・・・・・・・・・・"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                25,
+                                25,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                23,
+                                23,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                6,
+                                7,
+                                10,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [
+                                27
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 40,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 40,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                5,
+                                10,
+                                16,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 214,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": [
+                                "おわり"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 0,
+            "y": 0
+        }
+    ]
+}

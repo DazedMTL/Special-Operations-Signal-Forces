@@ -1,5 +1,7 @@
-/*
-/*/
-!/js/
-!/data/
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
 !.gitignore

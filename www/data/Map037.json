@@ -1,0 +1,1884 @@
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "volume": 90,
+        "name": "",
+        "pitch": 100,
+        "pan": 0
+    },
+    "bgs": {
+        "volume": 90,
+        "name": "",
+        "pitch": 100,
+        "pan": 0
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 1,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 1,
+    "width": 1,
+    "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "EV001",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "variableValue": 0,
+                        "switch2Valid": false,
+                        "selfSwitchCh": "A",
+                        "variableId": 1,
+                        "itemValid": false,
+                        "variableValid": false,
+                        "itemId": 1,
+                        "selfSwitchValid": false,
+                        "actorId": 1,
+                        "switch2Id": 1,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "actorValid": false
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "",
+                        "pattern": 0,
+                        "characterIndex": 0,
+                        "direction": 2
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "■CG05_01"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "触手に敗北を喫したレッドは、間もなく体の自由を奪われた。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "四方から伸びてくるその触手は、鎖のようにレッドの力を封じる。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「なによこれ！こんなの聞いてない・・・離しなさいよ！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "すぐに離さないと、公務執行妨害で連行するからね！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「んふふ、それは無理なお願いよー？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "このベイビーちゃんの力は強大なんだから、逃げるなんて無理無理♪"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "大人しく苗床になっちゃいなさい」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「苗床・・・？そ、そんなの嫌に決まってるでしょ！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "えっと、こういうときのマニュアルがあったはず。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "確かまず、状況を冷静に分析して・・・きゃあっ！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "マニュアルに沿った脱出を結構しようとしたレッドだが、"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "触手が体に食い込むように締め付けられると、頭の中が真っ白になる。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「アンタたちの作ったチンケなマニュアルで逃げだそうとしても無理無理っ。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "この子は私の意のままに操ることができるんだから。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ほら、可愛いベイビーちゃん？コイツの胸を刺激してあげなさい」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「いやっ、やめ——んんぅっ！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "触手はギャンデッド幹部に従い、レッドの胸部に伸びた。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "美しい稜線を這うように触手が移動すると、それだけでレッドはプルプルと震える。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「あらあら、どうしたのかしらレッド？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "私の可愛いベイビーちゃんに愛撫されて、感じちゃってるわけー？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「ち、違う・・・！こんなことで、私が感じるわけ・・・んっ、んんぅっ・・・！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「んふふ、体は正直ってわけね？それじゃあもっと素直にしてあげる。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "さあ、可愛い私のベイビーちゃん？もっとおっぱいをたくさん愛撫してあげなさい！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ギャンデッド幹部の命令通り、触手はうねうねと動き出す。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "レッドの豊満な膨らみに巻き付いたかと思うと、蠕動運動を繰り替えし揉みしだく。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "それはレッドにとって初めての感触であったが、同時に快楽をもたらしていた。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んあっ・・・ひゃっ、んんぅっ・・・！な、なにこれ・・・？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ウネウネ動いて気持ち悪いのに・・・んああっ・・・！体、どんどん熱くなる・・・っ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "レッドの反応に好感触を得たのか、触手の動きはさらに大胆になった。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "触手の先端で乳輪をなぞると、まるで舌先で舐められているかのような刺激を受ける。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>（なによ・・・こんなのまるで、焦らしてるみたいじゃない！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "こんなので感じてるなんてアイツにバレたら・・・）"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "しかしレッドの我慢もむなしく、乳首は刺激に対して従順にぷっくりと勃起する。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ビンビンにいやらしく堅くなったそれに、触手がゆっくりと触れた。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "——と同時に、レッドの体が淫靡にしなる。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「ひゃっ、ああっ、んんぅっ・・・！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「随分と良い声で鳴くじゃない。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "どう？気持ち良いでしょ？敵に辱められる気分はどうかしら？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「はぁ・・・はぁ・・・こ、こんなの全然気持ち良く・・・んんっ・・・ない・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "全然感じてなんか・・・いないから・・・あっ、んああっ・・・」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「あら、素直じゃないのね。それともまだ安い正義感を振りかざしてるわけ？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "快楽に墜ちればアンタも楽になれるのよ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「私は、正義の味方よ・・・はぁ、はぁ・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "今に痛い目を見せてやるから、覚悟しなさい・・・あっ、んんっ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「ふふっ・・・んふふふふふっ。あー怖い怖いっ。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "まだ無駄口を叩く余裕はあるみたいね？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "だったらそのおしゃべりなお口、閉じてもらおうかしら」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "■CG05_02"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んぅっ！？んんんんぅっ〜〜っ！？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "突如口の中にねじ込まれた触手に、レッドはパニック状態に陥る。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "こうして暴れてしまう程に感じてしまえば、敵の思うつぼだと理性では分かっていた。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "しかし体が反応してしまい、どうにも抑えることができない。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んぐっ！？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ん・・・んじゅっ・・・じゅるっ・・・ぢゅぶっ・・・じゅるじゅぶっ・・・！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "次いで、口内で抽送が開始されるとその度に、レッドは哀れに体を痙攣させた。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "まるで秘部への刺激を受けているかのようなその姿に、ギャンデッド幹部は笑う。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「んふふふふふふふふっ！とっても良い反応じゃない、レッド？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "さっきまで正義感に溢れる言葉を吐いていた人と、同一人物だとは思えな〜い。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "だけど今の姿の方が滑稽でアンタにお似合いよ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "投げかけられる罵詈雑言に、レッドは悔しさから涙をにじませる。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "しかしどれだけ悔しさを募らせようとも、この状況から逃げ出すことはできない。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「あらあら、悔しいのかしら？だったらさっきみたいに叫びなさいよ。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "私を醜く糾弾してみなさい？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「絶対・・・んっ、んんぅっ・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "許さない・・・あっ、んあっ、んいぃぃっ・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "この屈辱・・・あっ、んああっ・・・忘れない・・・んんぅっ、んあっあっああっ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「え？何かしら？喘ぎ声で、何言ってるのか聞こえな〜い！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "んふふふっ、醜く鳴きなさい！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "私の可愛いベイビーちゃん？もっと可愛がっておやり！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "命令に従い、触手はさらに強く乳首を刺激する。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "両方の乳首を一気に圧迫されると、レッドの快感は跳ね上がり、体を大きく乱す。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んひぃぃいっっ！？んぃっ！んんぅ〜〜〜〜っ！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「快感に溺れるSIGNAL・・・んふふっ、素晴らしい光景ね！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "どう？そろそろ認めても良いんじゃない？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ベイビーちゃんの愛撫は気持ち良いでしょ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「こ、こんなの・・・んっ、んんぅっ・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "全然良くない・・・あっ、ああっ・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "気持ち良くとも、なんとも・・・んあっ、ああっ、んんぅっ・・・！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「往生際が悪いわね・・・まあ良いわ。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "むしろ興味が出てきたもの。一体いつまでその正義が保つのか・・・んふふっ。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ベイビーちゃん？今度はそいつの体の中も犯してあげちゃって♪」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "■CG05_03"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んぶううぅうぅぅっ！？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "口内を蹂躙していた触手は喉奥に入り込み、胃、そして腸へと進む。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "一気に体内を貫かれたレッドは、ショックで思考が停止する。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "しかし触手が暴れ出すと、苦悶と同時にレッドの体は反応してしまう。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んっ、んんぅっ・・・！んあっ、あっ、んあっ、んあんんぅっ・・・！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「あら、SIGNALは変態揃いなのね。触手に体内を犯されているのに感じるなんて・・・。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "このまま肛門を貫かれたら、どんな反応を見せてくれるのかしら、楽しみね」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "肛門——！？その言葉に、レッドの思考は蘇る。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "体内を犯されるのは気持ち悪さがあるが、同時に耐えられない快感が生じていた。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "もし本当に肛門まで貫かれるようなことがあれば、自我を失ってしまうかもしれない。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>（お尻の穴までは、絶対にダメ・・・でも、どうしよう。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "気持ち良すぎて、そんなことどうでもよくなっちゃう・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "・・・ううん、むしろ私・・・）"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "自分の考えを否定したいレッドであるが、反応する様子は確信をもたらす。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "レッドはこの先、肛門まで触手に貫かれることを期待してしまっていた。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "性的探究心が今、更なる快楽を欲している。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>（ああ、うんこ漏れそう・・・だけどこれって、触手が来てるってこと・・・？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "お尻の穴まで、その寸前まで・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "・・・欲しい・・・！気持ち良いの欲しいよぉ・・・！）"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "一瞬快楽にすべてを忘れ去ってしまいそうになるレッド。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "しかし寸前のところで、自分が何者であるのか、そして自分の目的を思い出す。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>（・・・私、何考えてるの？SIGNALの私が屈したら、この世界はどうなるの？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ダメ・・・絶対に負けちゃダメ・・・！）"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "理性で自分を律するレッドだが、体はもはや言う事を聞いてくれない。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "触手がうごめく度に体は揺れ、秘部からはじっとりと愛液が漏れ出している。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "レッドの様子を察したのか、触手はさらに内部に侵入し、やがて肛門に達した。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "■CG05_04"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ズブブッ！その後すぐに、触手は肛門を貫通した。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "同時に、レッドはその衝撃で失禁してしまう。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んああああっ・・・！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "さらに全身を淫らに震わせながら、レッドはとうとう達してしまう。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ビクビクと何度も痙攣を繰り返すレッドに、ギャンデッド幹部は高笑いを見せた。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「んははははははは〜っ！あらあら、お漏らししちゃったの〜？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "SIGNALのくせに漏らすなんて情けないったらありゃしない。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "そんなにお尻が気持ち良かったのかしら？この淫乱！んふふふふっ」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "それはレッドにとって、屈辱の罵倒である。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "しかし残念なことに、レッドはその言葉に言い返すことができなかった。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "快感が強すぎるレッドには、反抗する気力すら残っていない。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>（気持ち良い・・・なじられるの、気持ち良い・・・！）"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "むしろ罵倒の言葉ですら、レッドを快感に導く材料と化していた。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "醜く屈辱的な言葉を浴びさせられる程にレッドの体は反応してしまい、"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "絶頂の余韻は長らく続いていく。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>（こんな情けない姿、先輩たちには見せられない・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "でも、気持ち良い・・・気持ち良いのもっと欲しい・・・！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "このままずっと、永遠に犯し続けられたい・・・！）"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「んふふ、まだ物足りないメスって顔してるじゃない。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "分かってるわ、お尻だけじゃまだ足りないんでしょ？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "だったらおまんこも犯して欲しい？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「ち、違う・・・っ！犯して欲しくなんて・・・あっ、ああっ、んぅっ・・・！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「やっぱり、体は正直みたいね？ほら、ベイビーちゃん？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "リクエスト通りにおまんこも犯しておやりなさい！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ヌメヌメと、臀部を這うようにして秘部へと向かう触手。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "これ以上はダメだと理解しているレッドだが、期待感からか一切の抵抗を見せない。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "■CG05_05"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んんんぅうぅうっ！んっ、んっ、んんんんぅ〜〜〜！！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "膣に挿入されると同時に、レッドは激しい絶頂に達した。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "しかしそれだけでは当然終わることはない。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "直後、膣内に子種が注ぎ込まれると、そのあまりの勢いにレッドの口から逆流する。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「んぶっ！？ごぼっ、んぶぅぅっ！！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「あははははっ、はしたない声を出しながら精液噴き出して、滑稽ね！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "あらあら、母乳まで垂らして・・・私のベイビーちゃんに服従した証かしら？」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ギャンデッド幹部の問いに、レッドは答えることができない。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "理性が完全に吹き飛んだレッドは、ただ犯されるだけの人形に成り下がった。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<ギャンデッド幹部>「もしかしてもう終わり？手応えがないわねぇ・・・まあ良いわ。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "これで大人しく苗床にしてあげられるんだから。ほら、ベイビーちゃん？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "気の済むまで種付けして良いわよ〜！」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "新しい玩具をもらった子犬のように、触手は繰り返しレッドを犯し始める。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\tr<レッド>「・・・んぅっ！んっ、んんっ、んあっ・・・んはぁ・・・！」"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 0,
+            "y": 0
+        }
+    ]
+}

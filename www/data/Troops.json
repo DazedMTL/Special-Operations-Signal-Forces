@@ -1,0 +1,4296 @@
+[
+    null,
+    {
+        "id": 1,
+        "members": [
+            {
+                "enemyId": 3,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "共通",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 10,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": true,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            9
+                        ]
+                    },
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "レッドボイスH2",
+                                "volume": 90,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "脱衣カット1-25",
+                            0,
+                            0,
+                            -600,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            2
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            33
+                        ]
+                    },
+                    {
+                        "code": 311,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            1,
+                            1,
+                            0,
+                            1000,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            1
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 10,
+                    "actorId": 2,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 2,
+                    "switchValid": true,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            9
+                        ]
+                    },
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "ブルーH2",
+                                "volume": 90,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "脱衣カット2-25",
+                            0,
+                            0,
+                            -600,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            2
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            34
+                        ]
+                    },
+                    {
+                        "code": 311,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            1,
+                            0,
+                            1000,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            2
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 10,
+                    "actorId": 3,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 3,
+                    "switchValid": true,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            9
+                        ]
+                    },
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "イエローボイスH2",
+                                "volume": 90,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "脱衣カット3-25",
+                            0,
+                            0,
+                            -600,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            2
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            35
+                        ]
+                    },
+                    {
+                        "code": 311,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            3,
+                            1,
+                            0,
+                            1000,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            3,
+                            0,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            3
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            1,
+                            21
+                        ]
+                    },
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            1,
+                            21
+                        ]
+                    },
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            1,
+                            21
+                        ]
+                    },
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            1,
+                            22
+                        ]
+                    },
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            1,
+                            22
+                        ]
+                    },
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            1,
+                            22
+                        ]
+                    },
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            3,
+                            0,
+                            1,
+                            23
+                        ]
+                    },
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            3,
+                            0,
+                            1,
+                            23
+                        ]
+                    },
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            3,
+                            0,
+                            1,
+                            23
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 121,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            4,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            1,
+                            6,
+                            28
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            1,
+                            6,
+                            29
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            2,
+                            6,
+                            28
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            2,
+                            6,
+                            29
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            3,
+                            6,
+                            28
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            3,
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            3,
+                            6,
+                            29
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            3,
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "members": [],
+        "name": "デバッグ用",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 121,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            4,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            8,
+                            8,
+                            0,
+                            0,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 102,
+                        "indent": 0,
+                        "parameters": [
+                            [
+                                "即エロアニメチェック",
+                                "いいえ",
+                                "syokuysyu"
+                            ],
+                            1,
+                            0,
+                            2,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            "即エロアニメチェック"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            23
+                        ]
+                    },
+                    {
+                        "code": 312,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            0,
+                            1,
+                            0,
+                            999
+                        ]
+                    },
+                    {
+                        "code": 333,
+                        "indent": 1,
+                        "parameters": [
+                            -1,
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            "いいえ"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            2,
+                            "syokuysyu"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            26
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 404,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 402,
+                "y": 292,
+                "hidden": false
+            }
+        ],
+        "name": "チュートリアル",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 1,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「固有スキルは強力だが精神力を消費する"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ＳＩＧＮＡＬスーツは頑丈だが仕様者の精神力が弱まると"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "脆くなるので注意したまえ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "敵もその弱点を狡猾についてくる」"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 2,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 339,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            100,
+                            -2
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 2,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「おっと精神を揺さぶるセクハラ攻撃が来たぞ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "精神力が0を下回ると装甲が"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "脱げてしまうので気をつけ給え」"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 3,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「装甲がない状態でセクハラ攻撃を食らうと"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "押し倒されて完全に抵抗できなくなってしまう"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "一人の状態では絶望的だな」"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「そのために我々はチームで戦うのだ。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "仲間が押し倒されたら補助技能の「救助」"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "で助けなさい"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 4,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 326,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            100
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ＴＰが満タンになったら一発逆転のチャンスだ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "強力なＴＰスキルで一気に敵を殲滅したまえ」"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 5,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「よし、訓練は終了だ。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "おめでとう"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "晴れて正式隊員として君を迎え入れよう」"
+                        ]
+                    },
+                    {
+                        "code": 340,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 408,
+                "y": 298,
+                "hidden": false
+            }
+        ],
+        "name": "サンドバッグ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 102,
+                        "indent": 0,
+                        "parameters": [
+                            [
+                                "半裸",
+                                "全裸",
+                                "拘束",
+                                "全裸取り",
+                                "半裸取り",
+                                "事後"
+                            ],
+                            1,
+                            0,
+                            2,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            "半裸"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            22
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            "全裸"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            23
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            2,
+                            "拘束"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            24
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "全裸取り"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            1,
+                            1,
+                            23
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            4,
+                            "半裸取り"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            1,
+                            1,
+                            22
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            5,
+                            "事後"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            25
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 404,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            22
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 102,
+                        "indent": 0,
+                        "parameters": [
+                            [
+                                "かいぞう",
+                                "いいえ"
+                            ],
+                            1,
+                            0,
+                            2,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            "かいぞう"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            28
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 402,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            "いいえ"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 404,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 170,
+                "y": 217,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 495,
+                "y": 220,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 654,
+                "y": 220,
+                "hidden": false
+            }
+        ],
+        "name": "てきとう, オーク, ミノタウロス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "members": [
+            {
+                "enemyId": 1,
+                "x": 195,
+                "y": 154,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 399,
+                "y": 175,
+                "hidden": false
+            },
+            {
+                "enemyId": 1,
+                "x": 615,
+                "y": 241,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 78,
+                "y": 256,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 285,
+                "y": 178,
+                "hidden": false
+            }
+        ],
+        "name": "こうもり*2, てきとう*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "members": [
+            {
+                "enemyId": 3,
+                "x": 177,
+                "y": 210,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 714,
+                "y": 226,
+                "hidden": false
+            },
+            {
+                "enemyId": 7,
+                "x": 408,
+                "y": 112,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 405,
+                "y": 298,
+                "hidden": false
+            }
+        ],
+        "name": "1面ザコ2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "members": [
+            {
+                "enemyId": 3,
+                "x": 162,
+                "y": 201,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 387,
+                "y": 294,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 666,
+                "y": 178,
+                "hidden": false
+            }
+        ],
+        "name": "1面ザコ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 480,
+                "y": 169,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 510,
+                "y": 285,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 276,
+                "y": 232,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 816,
+                "y": 220,
+                "hidden": false
+            },
+            {
+                "enemyId": 7,
+                "x": 102,
+                "y": 244,
+                "hidden": false
+            }
+        ],
+        "name": "1面ザコ強い",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 57,
+                "y": 298,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 273,
+                "y": 297,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 648,
+                "y": 291,
+                "hidden": false
+            },
+            {
+                "enemyId": 20,
+                "x": 459,
+                "y": 256,
+                "hidden": false
+            },
+            {
+                "enemyId": 10,
+                "x": 816,
+                "y": 280,
+                "hidden": false
+            }
+        ],
+        "name": "1面ボス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "members": [
+            {
+                "enemyId": 3,
+                "x": 681,
+                "y": 259,
+                "hidden": false
+            },
+            {
+                "enemyId": 7,
+                "x": 528,
+                "y": 265,
+                "hidden": false
+            },
+            {
+                "enemyId": 11,
+                "x": 384,
+                "y": 175,
+                "hidden": false
+            },
+            {
+                "enemyId": 11,
+                "x": 816,
+                "y": 178,
+                "hidden": false
+            }
+        ],
+        "name": "2面ザコ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 381,
+                "y": 307,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 816,
+                "y": 301,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 615,
+                "y": 217,
+                "hidden": false
+            }
+        ],
+        "name": "2面ザコ2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "members": [
+            {
+                "enemyId": 11,
+                "x": 356,
+                "y": 265,
+                "hidden": false
+            },
+            {
+                "enemyId": 11,
+                "x": 816,
+                "y": 259,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 604,
+                "y": 184,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 423,
+                "y": 118,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 765,
+                "y": 103,
+                "hidden": false
+            }
+        ],
+        "name": "2面ザコ3最強",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "members": [
+            {
+                "enemyId": 12,
+                "x": 612,
+                "y": 232,
+                "hidden": false
+            }
+        ],
+        "name": "2面ザコ4最弱",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "members": [
+            {
+                "enemyId": 12,
+                "x": 338,
+                "y": 124,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 222,
+                "y": 360,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 816,
+                "y": 148,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 816,
+                "y": 337,
+                "hidden": false
+            },
+            {
+                "enemyId": 21,
+                "x": 489,
+                "y": 349,
+                "hidden": false
+            }
+        ],
+        "name": "2面ボス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 98,
+                "y": 142,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 742,
+                "y": 145,
+                "hidden": false
+            },
+            {
+                "enemyId": 8,
+                "x": 447,
+                "y": 229,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 282,
+                "y": 280,
+                "hidden": false
+            },
+            {
+                "enemyId": 3,
+                "x": 591,
+                "y": 274,
+                "hidden": false
+            }
+        ],
+        "name": "3面ザコ1",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 441,
+                "y": 288,
+                "hidden": false
+            }
+        ],
+        "name": "3面ザコ2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 246,
+                "y": 256,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 816,
+                "y": 286,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 492,
+                "y": 286,
+                "hidden": false
+            }
+        ],
+        "name": "3面ザコ3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 93,
+                "y": 270,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 459,
+                "y": 181,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 816,
+                "y": 292,
+                "hidden": false
+            },
+            {
+                "enemyId": 9,
+                "x": 420,
+                "y": 345,
+                "hidden": false
+            }
+        ],
+        "name": "3面ザコ4",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 414,
+                "y": 271,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 51,
+                "y": 225,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 816,
+                "y": 273,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 261,
+                "y": 390,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 639,
+                "y": 393,
+                "hidden": false
+            }
+        ],
+        "name": "3面ボス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "members": [
+            {
+                "enemyId": 5,
+                "x": 207,
+                "y": 241,
+                "hidden": false
+            },
+            {
+                "enemyId": 5,
+                "x": 816,
+                "y": 157,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 633,
+                "y": 271,
+                "hidden": false
+            },
+            {
+                "enemyId": 8,
+                "x": 423,
+                "y": 217,
+                "hidden": false
+            }
+        ],
+        "name": "4面ザコ1",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "members": [
+            {
+                "enemyId": 18,
+                "x": 174,
+                "y": 295,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 492,
+                "y": 204,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 816,
+                "y": 301,
+                "hidden": false
+            },
+            {
+                "enemyId": 9,
+                "x": 504,
+                "y": 382,
+                "hidden": false
+            }
+        ],
+        "name": "4面ザコ2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "members": [
+            {
+                "enemyId": 12,
+                "x": 816,
+                "y": 283,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 165,
+                "y": 268,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 441,
+                "y": 300,
+                "hidden": false
+            }
+        ],
+        "name": "4面ザコ3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "members": [
+            {
+                "enemyId": 25,
+                "x": 411,
+                "y": 193,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 114,
+                "y": 273,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 792,
+                "y": 267,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 582,
+                "y": 342,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 234,
+                "y": 336,
+                "hidden": false
+            }
+        ],
+        "name": "4面ボス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "members": [
+            {
+                "enemyId": 9,
+                "x": 669,
+                "y": 271,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 218,
+                "y": 313,
+                "hidden": false
+            }
+        ],
+        "name": "4ザコ4",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "members": [
+            {
+                "enemyId": 24,
+                "x": 126,
+                "y": 156,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 816,
+                "y": 171,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 270,
+                "y": 288,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 627,
+                "y": 274,
+                "hidden": false
+            },
+            {
+                "enemyId": 9,
+                "x": 417,
+                "y": 250,
+                "hidden": false
+            }
+        ],
+        "name": "5面ザコ1",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "members": [
+            {
+                "enemyId": 14,
+                "x": 197,
+                "y": 250,
+                "hidden": false
+            },
+            {
+                "enemyId": 14,
+                "x": 638,
+                "y": 247,
+                "hidden": false
+            },
+            {
+                "enemyId": 5,
+                "x": 390,
+                "y": 283,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 96,
+                "y": 169,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 444,
+                "y": 175,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 816,
+                "y": 234,
+                "hidden": false
+            }
+        ],
+        "name": "5面ザコ2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "members": [
+            {
+                "enemyId": 14,
+                "x": 116,
+                "y": 154,
+                "hidden": false
+            },
+            {
+                "enemyId": 14,
+                "x": 737,
+                "y": 145,
+                "hidden": false
+            },
+            {
+                "enemyId": 14,
+                "x": 396,
+                "y": 262,
+                "hidden": false
+            },
+            {
+                "enemyId": 15,
+                "x": 423,
+                "y": 151,
+                "hidden": false
+            }
+        ],
+        "name": "5面ザコ3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "members": [
+            {
+                "enemyId": 23,
+                "x": 414,
+                "y": 244,
+                "hidden": false
+            },
+            {
+                "enemyId": 15,
+                "x": 150,
+                "y": 268,
+                "hidden": false
+            },
+            {
+                "enemyId": 15,
+                "x": 645,
+                "y": 262,
+                "hidden": false
+            },
+            {
+                "enemyId": 20,
+                "x": 144,
+                "y": 211,
+                "hidden": false
+            },
+            {
+                "enemyId": 20,
+                "x": 777,
+                "y": 205,
+                "hidden": false
+            }
+        ],
+        "name": "5面ボス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 303,
+                "y": 130,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 645,
+                "y": 82,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 111,
+                "y": 270,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 483,
+                "y": 285,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 816,
+                "y": 237,
+                "hidden": false
+            }
+        ],
+        "name": "サンドバッグ*5",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            31,
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            5
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            31,
+                            0,
+                            2,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            31,
+                            0,
+                            3,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            16
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            31,
+                            0,
+                            4,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            18
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            31,
+                            0,
+                            5,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 108,
+                        "indent": 0,
+                        "parameters": [
+                            "2"
+                        ]
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            32,
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            1,
+                            5
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            32,
+                            0,
+                            2,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            1,
+                            12
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            32,
+                            0,
+                            3,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            1,
+                            16
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            32,
+                            0,
+                            4,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            1,
+                            18
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            32,
+                            0,
+                            5,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            1,
+                            14
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 108,
+                        "indent": 0,
+                        "parameters": [
+                            "3"
+                        ]
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            33,
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            2,
+                            5
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            33,
+                            0,
+                            2,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            2,
+                            12
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            33,
+                            0,
+                            3,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            2,
+                            16
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            33,
+                            0,
+                            4,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            2,
+                            18
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            33,
+                            0,
+                            5,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            2,
+                            14
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 108,
+                        "indent": 0,
+                        "parameters": [
+                            "4"
+                        ]
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            34,
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            3,
+                            5
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            34,
+                            0,
+                            2,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            34,
+                            0,
+                            3,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            34,
+                            0,
+                            4,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            3,
+                            18
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            34,
+                            0,
+                            5,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 108,
+                        "indent": 0,
+                        "parameters": [
+                            "5"
+                        ]
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            35,
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            4,
+                            5
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            35,
+                            0,
+                            2,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            4,
+                            12
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            35,
+                            0,
+                            3,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            4,
+                            16
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            35,
+                            0,
+                            4,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            4,
+                            18
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 111,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            35,
+                            0,
+                            5,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 336,
+                        "indent": 1,
+                        "parameters": [
+                            4,
+                            14
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": []
+                    },
+                    {
+                        "code": 412,
+                        "indent": 0,
+                        "parameters": []
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    }
+]

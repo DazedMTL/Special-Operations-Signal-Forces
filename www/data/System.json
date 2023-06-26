@@ -608,7 +608,7 @@
             "escapeStart": "%1 has escaped!",
             "evasion": "%1 dodged the attack!",
             "expNext": "Until the next %1",
-            "expTotal": "The current %1 is",
+            "expTotal": "Current %1",
             "file": "File",
             "levelUp": "%1 has risen to %2 %3!",
             "loadMessage": "Which file would you like to load?",

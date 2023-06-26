@@ -6,7 +6,7 @@
 
 # Unpacking Boxed Game
 1. Use https://f95zone.to/threads/enigma-vb-unpacker-v0-61.10201/ to decrypt the exe.
-2. Rename %DEFAULTFOLDER% t something without the %.
+2. Rename %DEFAULTFOLDER% to something without the %.
 
 # How To Contribute
 TLDR 3 steps.

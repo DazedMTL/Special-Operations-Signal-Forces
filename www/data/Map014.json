@@ -3530,8 +3530,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3569,11 +3569,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "人型",
-                                    "触手",
-                                    "オーク",
-                                    "マシン",
-                                    "獣型"
+                                    "Humanoid",
+                                    "Tentacles",
+                                    "Orc",
+                                    "Machine",
+                                    "Beast Form"
                                 ],
                                 -1,
                                 0,
@@ -3728,11 +3728,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "人型",
-                                    "触手",
-                                    "オーク",
-                                    "マシン",
-                                    "獣型"
+                                    "Humanoid",
+                                    "Tentacles",
+                                    "Orc",
+                                    "Machine",
+                                    "Beast Form"
                                 ],
                                 -1,
                                 0,
@@ -3887,11 +3887,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "人型",
-                                    "触手",
-                                    "オーク",
-                                    "マシン",
-                                    "獣型"
+                                    "Humanoid",
+                                    "Tentacles",
+                                    "Orc",
+                                    "Machine",
+                                    "Beast Form"
                                 ],
                                 -1,
                                 0,
@@ -4046,11 +4046,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "人型",
-                                    "触手",
-                                    "オーク",
-                                    "マシン",
-                                    "獣型"
+                                    "Humanoid",
+                                    "Tentacles",
+                                    "Orc",
+                                    "Machine",
+                                    "Beast Form"
                                 ],
                                 -1,
                                 0,
@@ -4205,11 +4205,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "人型",
-                                    "触手",
-                                    "オーク",
-                                    "マシン",
-                                    "獣型"
+                                    "Humanoid",
+                                    "Tentacles",
+                                    "Orc",
+                                    "Machine",
+                                    "Beast Form"
                                 ],
                                 -1,
                                 0,
@@ -4382,11 +4382,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常",
-                                    "事後",
-                                    "触手",
-                                    "ボテ腹",
-                                    "改造",
+                                    "Normal",
+                                    "Aftermath",
+                                    "Tentacles",
+                                    "Potbelly",
+                                    "Modification",
                                     "ＳＭ"
                                 ],
                                 1,
@@ -4600,11 +4600,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常",
-                                    "事後",
-                                    "触手",
-                                    "ボテ腹",
-                                    "改造",
+                                    "Normal",
+                                    "Aftermath",
+                                    "Tentacles",
+                                    "Potbelly",
+                                    "Modification",
                                     "ＳＭ"
                                 ],
                                 1,
@@ -4818,11 +4818,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常",
-                                    "事後",
-                                    "触手",
-                                    "ボテ腹",
-                                    "改造",
+                                    "Normal",
+                                    "Aftermath",
+                                    "Tentacles",
+                                    "Potbelly",
+                                    "Modification",
                                     "ＳＭ"
                                 ],
                                 1,

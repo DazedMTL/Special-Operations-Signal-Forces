@@ -2,6 +2,7 @@
 1. Click Code
 2. Click Download ZIP
 3. Place Data and Js in www. Replace All.
+4. Extract `Picture.zip` into www/img/pictures
 
 # How To Contribute
 TLDR 3 steps.

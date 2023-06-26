@@ -2344,7 +2344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*gulp*"
+                                "\\tr<Akagi Akane> *gulp*"
                             ]
                         },
                         {
@@ -2429,7 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The commander is a coffee person. They concluded that it's bothersome\nto keep ordering, so they decided to make it themselves. Just leave\nthem alone!"
+                                "\\>\\tl<Mika Myogi> The commander is a coffee person. They concluded that\nit's bothersome to keep ordering, so they decided to make it\nthemselves. Just leave them alone!"
                             ]
                         },
                         {
@@ -2604,7 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the appearance of Gandead."
+                                "\\tl<Shirane Commander> This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -2672,7 +2672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令> It seems that someone is engaging in vigorous activity in\nthe sewer... It's definitely them."
+                                "\\>\\tl<Shirane Commander> It seems that someone is engaging in vigorous activity in\nthe sewer... It's definitely them."
                             ]
                         },
                         {
@@ -2757,7 +2757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Signal Force!! Deploy immediately."
+                                "\\>\\tl<Shirane Commander> Signal Force!! Deploy immediately"
                             ]
                         },
                         {
@@ -2834,7 +2834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<Sunsitaー> Whisper whisper..."
+                                "\\>\\tl<Sunsita> Wassewasse..."
                             ]
                         },
                         {
@@ -2856,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good, my baby is growing and causing more and more trouble."
+                                "\\tl<Gundead Executive> Good, my baby is growing and causing more and more\ntrouble."
                             ]
                         },
                         {
@@ -2873,7 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<Sunsita> Boss, it stinks... It's intense..."
+                                "\\>\\tlSunsita Boss, it stinks... It's intense..."
                             ]
                         },
                         {
@@ -2890,7 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This damp and sticky environment is just perfect for the baby's\ngrowth. If those troublesome guys don't find us, and if you slack off,\nI'll turn you into a breeding ground too!"
+                                "\\tl<Gundead Executive> This damp and sticky environment is just perfect for the\nbaby's growth. If those troublesome guys don't find us, and if you\nslack off, I'll turn you into a breeding ground too!"
                             ]
                         },
                         {
@@ -2907,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<Sunsita> P-Please, have mercy!"
+                                "\\>\\tlSunsita P-Please, have mercy!"
                             ]
                         },
                         {
@@ -3221,7 +3221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> How cheeky. I'll turn you all into breeding grounds."
+                                "\\tl<Gundead Executive> How cheeky. I'll turn you all into breeding grounds."
                             ]
                         },
                         {
@@ -3359,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Honestly... such lazy thinking. You must always confront crime with\nfull force."
+                                "\\>\\tl<Aoi Haruna> Honestly... such lazy thinking. You must always confront\ncrime with full force."
                             ]
                         },
                         {
@@ -3461,7 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We are police officers, so excessive armament is difficult."
+                                "\\>\\tl<Aoi Haruna> We are police officers, so excessive armament is\ndifficult."
                             ]
                         },
                         {
@@ -3512,7 +3512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根リカ> The Signals' weapons hardly use gunpowder, right? It was\ndifficult to make them."
+                                "\\>\\tl<白根リカ> The weapons of the Signals hardly use gunpowder, right? It\nwas difficult to make them."
                             ]
                         },
                         {
@@ -3653,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the appearance of Gandead."
+                                "\\tl<Shirane Commander> This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -3721,7 +3721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令> It's unforgivable to involve civilians. Please deploy\nimmediately."
+                                "\\>\\tl<Shirane Commander> It's unforgivable to involve civilians. Please deploy\nimmediately."
                             ]
                         },
                         {
@@ -3772,7 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令> Signal Force!! Deploy immediately."
+                                "\\>\\tl<Shirane Commander> Signal Force!! Deploy immediately."
                             ]
                         },
                         {
@@ -3832,7 +3832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> This is great! The mountains are great, they're spacious\nand the air is clean. Let's make it our Gandead training gym!"
+                                "\\tl<Gundead Executive> This is great! The mountains are great, they're spacious\nand the air is clean. Let's make it our Gandead training gym!"
                             ]
                         },
                         {
@@ -3854,7 +3854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<Sunsita> Ussha! Ossha! Muki mukii!"
+                                "\\>\\tlSunsita Ussha! Ossha! Muki mukii!"
                             ]
                         },
                         {
@@ -3888,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Now let's train to our heart's content. Muscles never\nbetray us!!"
+                                "\\tl<Gundead Executive> Now let's train to our heart's content. Muscles never\nbetray us!!"
                             ]
                         },
                         {
@@ -3922,7 +3922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> What did you say? You guys will work until you die for\nthe construction of the Gandead base?!"
+                                "\\tl<Gundead Executive> What did you say? You guys will work until you die for\nthe construction of the Gandead base?!"
                             ]
                         },
                         {
@@ -4236,7 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Anyone who steals our precious workout time will not be\nforgiven. It's punishment time with the impregnation stretch!"
+                                "\\tl<Gundead Executive> Anyone who steals our precious workout time will not be\nforgiven. It's punishment time with the impregnation stretch!"
                             ]
                         },
                         {
@@ -4391,7 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please don't forget that it is thanks to the SIGNAL suits that we are\nable to generate superhuman power through body enhancement, muscle\nstrengthening, and movement support."
+                                "\\tl<白根リカ> Please don't forget that it is thanks to the SIGNAL suits\nthat we are able to generate superhuman power through body\nenhancement, muscle strengthening, and movement support."
                             ]
                         },
                         {
@@ -4425,7 +4425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根リカ> Yellow Signal is equipped with heavy weapons, so the\nadvantages of suit enhancement are greater compared to other suits.\nHowever, it also requires a body that can endure it."
+                                "\\tl<白根リカ> Yellow Signal is particularly equipped with heavy weapons,\nso the benefits of suit enhancement are greater than other suits. But\nit also requires a body that can withstand it."
                             ]
                         },
                         {
@@ -4442,7 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<Aoi Haruna> We need to improve the suits and train our bodies. An elite\nunit requires effort."
+                                "\\tl<Aoi Haruna> We need to improve the suits and train our bodies. A elite\nunit requires effort."
                             ]
                         },
                         {
@@ -4476,7 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ideally, it would be great if we could create suits that not only\nelite units but even someone like my brother, Aoi Haruna, could fully\nutilize their power."
+                                "\\tl<白根リカ> Ideally, it would be great if we could create suits that not\nonly elite units but even someone like my brother, Aoi Haruna, could\nfully utilize their power."
                             ]
                         },
                         {
@@ -4600,7 +4600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the appearance of a Gandead."
+                                "\\tl<Shirane Commander> This is the appearance of a Gandead."
                             ]
                         },
                         {
@@ -4668,7 +4668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If we strike here, we won't be able to create any more powerful\nGandead monsters. Alright, let's attack all at once."
+                                "\\>\\tl<Shirane Commander> If we strike here, we won't be able to create any more\npowerful Gandead monsters. Alright, let's attack all at once."
                             ]
                         },
                         {
@@ -4702,7 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Signal Force!! Mobilize immediately."
+                                "\\>\\tl<Shirane Commander> Signal Force!! Mobilize immediately."
                             ]
                         },
                         {
@@ -4762,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<Sunsitaー> Ouch... Please be more gentle..."
+                                "\\>\\tl<Sunsita> Ouch... Please be more gentle..."
                             ]
                         },
                         {
@@ -4784,7 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmm, recently the injuries of the Signal Force have been\nsevere. It seems that we need a new modification method around here.\nIf only we could obtain the combat data of the Signals, it would be\nhelpful..."
+                                "\\tl<Gundead Executive> Hmm, recently the injuries of the Signal Force have been\nsevere. It seems that we need a new modification method around here.\nIf only we could obtain the combat data of the Signals, it would be\nhelpful..."
                             ]
                         },
                         {
@@ -5047,7 +5047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the perfect time to strike!!"
+                                "\\>\\tr<Yellow Signal> This is the perfect time to strike!!"
                             ]
                         },
                         {
@@ -5098,7 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> It seems a troublesome rat has snuck in. Anyone who\ninterferes with my experiment will become an experimental subject."
+                                "\\tl<Gundead Executive> It seems a troublesome rat has snuck in. Anyone who\ninterferes with my experiment will become an experimental subject."
                             ]
                         },
                         {
@@ -5435,7 +5435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<Akagi Akane> Nice to meet you, I am Akane Akachi, a candidate for the\nMobile Unit."
+                                "\\tr<Akagi Akane> I am Akane Akachi, a candidate for the Mobile Unit. Nice to\nmeet you."
                             ]
                         },
                         {
@@ -5452,7 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> Since you are no longer a candidate, please introduce\nyourself to the senior members."
+                                "\\tl<Shirane Commander> You're no longer a candidate, so please introduce yourself\nto the seniors."
                             ]
                         },
                         {
@@ -5552,7 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm Aoi Haruna, a member of the Blue Signal team. Nice to meet you.\nFeel free to ask me anything if you have any questions."
+                                "\\tl<Aoi Haruna> I'm Aoi Haruna, a member of the Blue Signal team. Nice to\nmeet you. Feel free to ask me anything if you have any questions."
                             ]
                         },
                         {
@@ -5620,7 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are the suits different for each person?"
+                                "\\>\\tr<Akagi Akane> Are the suits different for each person?"
                             ]
                         },
                         {
@@ -5654,7 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As for the suits, it would be best to ask the doctor, but\nunfortunately he is not here today."
+                                "\\>\\tl<Aoi Haruna> As for the suits, it would be best to ask the doctor, but\nunfortunately he is not here today."
                             ]
                         },
                         {
@@ -5799,7 +5799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm Mika Myogi, the Yellow Signal. Oh, you're quite a petite rookie,\naren't you?"
+                                "\\tl<Mika Myogi> I'm Mika Myogi, the Yellow Signal. Oh, you're quite a\npetite rookie, aren't you?"
                             ]
                         },
                         {
@@ -5935,7 +5935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That was a promise not to say it!!"
+                                "\\>\\tl<Mika Myogi> That was a promise not to say it!!"
                             ]
                         },
                         {
@@ -5966,7 +5966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> Hahaha, it seems like you've already settled in quickly."
+                                "\\tl<Shirane Commander> Hahaha, it seems like you've already settled in quickly."
                             ]
                         },
                         {
@@ -6066,7 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the appearance of a Gandead."
+                                "\\tl<Shirane Commander> This is the appearance of a Gandead."
                             ]
                         },
                         {
@@ -6083,7 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<白根司令> Sorry for the suddenness, Akane-kun. It's your first\nmission, so get ready to put on your gear."
+                                "\\tl<Shirane Commander> Sorry for the suddenness, Akane-kun. It's your first\nmission, so get ready to put on your gear."
                             ]
                         },
                         {
@@ -6219,7 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Gyahahaha~ Now, let's destroy, destroy~ Let the people\nknow the terror of the Gandead~"
+                                "\\tl<Gundead Executive> Gyahahaha~ Now, let's destroy, destroy~ Let the people\nknow the terror of the Gandead~"
                             ]
                         },
                         {
@@ -6236,7 +6236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<Sunsita> Shit!! I understand!!"
+                                "\\tlSunsita Shit!! I understand!!"
                             ]
                         },
                         {
@@ -6284,7 +6284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> What is it..."
+                                "\\tl<Gundead Executive> What is it..."
                             ]
                         },
                         {
@@ -6406,7 +6406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yellow Signal, arrived at the scene!"
+                                "\\tr<Yellow Signal> Yellow Signal, arrived at the scene!"
                             ]
                         },
                         {
@@ -6430,7 +6430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Welcome, Signal girls. Oh...? Aren't you one person too\nmany?"
+                                "\\tl<Gundead Executive> Welcome, Signal girls. Oh...? Aren't you one person too\nmany?"
                             ]
                         },
                         {
@@ -6519,7 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmm, so we have a new member? They seem quite\nunreliable."
+                                "\\tl<Gundead Executive> Hmm, so we have a new member? They seem quite\nunreliable."
                             ]
                         },
                         {
@@ -6587,7 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Is that so? The countermeasures for that suit have\nalready been taken care of. If we exhaust your mental strength, it\nwill be easier to destroy you... And so..."
+                                "\\tl<Gundead Executive> Is that so? The countermeasures for that suit have\nalready been taken care of. If we exhaust your mental strength, it\nwill be easier to destroy you... And so..."
                             ]
                         },
                         {
@@ -6604,7 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<Sunsita> Shit!! I've learned some mentally exhausting sexual\nharassment techniques over the past few weeks!!"
+                                "\\tlSunsita Shit!! I've learned some mentally exhausting sexual\nharassment techniques over the past few weeks!!"
                             ]
                         },
                         {
@@ -6621,7 +6621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<Sunsita> I can sexually harass you anytime!!"
+                                "\\tlSunsita I can sexually harass you anytime!!"
                             ]
                         },
                         {
@@ -6638,7 +6638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Now, let's do lots of naughty things and strip you while\nwe're at it."
+                                "\\tl<Gundead Executive> Now, let's do lots of naughty things and strip you while\nwe're at it."
                             ]
                         },
                         {
@@ -7084,7 +7084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, SIGNAL was created as a department for combating Gandead crimes,\nso we still need to thoroughly promote awareness of our activities."
+                                "\\tl<Aoi Haruna> Well, SIGNAL was created as a department for combating\nGandead crimes, so we still need to thoroughly promote awareness of\nour activities."
                             ]
                         },
                         {
@@ -7190,7 +7190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We are monitoring them as a special treatment as indispensable\nsuspects for various future crime countermeasures."
+                                "\\tl<Aoi Haruna> We are monitoring them as a special treatment as\nindispensable suspects for various future crime countermeasures."
                             ]
                         },
                         {
@@ -7448,7 +7448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<Mika Myogi> Make sure you thoroughly wash yourself too. Open up your\nlegs and your buttocks, and wash deep inside."
+                                "\\>\\tl<Mika Myogi> Make sure you thoroughly wash yourself too. Open up your\nlegs and your asshole, and wash deep inside."
                             ]
                         },
                         {
@@ -7537,7 +7537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, that's true, but without any candidates..."
+                                "\\tl<Mika Myogi> Well, that's true, but without any candidates..."
                             ]
                         },
                         {
@@ -7554,7 +7554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There are more weak underlings, but hardly any of them can pass the\nrecruitment exam and become official members."
+                                "\\tl<Mika Myogi> There are more weak underlings, but hardly any of them can\npass the recruitment exam and become official members."
                             ]
                         },
                         {
@@ -7643,7 +7643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's fine once in a while. With the security dog robots, it's almost\nimpossible for anyone to escape."
+                                "\\tl<Mika Myogi> It's fine once in a while. With the security dog robots,\nit's almost impossible for anyone to escape."
                             ]
                         },
                         {
@@ -7677,7 +7677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's amazing!"
+                                "\\tr<Akagi Akane> That's amazing!"
                             ]
                         },
                         {
@@ -8673,7 +8673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You insolent person!!"
+                                "\\>\\tl<白根リカ> You insolent person!!"
                             ]
                         },
                         {
@@ -8851,7 +8851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令> Sorry, Akagi-kun, my sister..."
+                                "\\>\\tl<Shirane Commander> Sorry, Akagi-kun, my sister..."
                             ]
                         },
                         {
@@ -8943,7 +8943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tl<白根司令> Ahem... My sister is indeed a genius, but she can be a\nhandful for me as well."
+                                "\\>\\tl<Shirane Commander> Ahem... My sister is indeed a genius, but she can be a\nhandful for me as well."
                             ]
                         },
                         {
@@ -9028,7 +9028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tough!!"
+                                "\\>\\tr<Akagi Akane> Tough!!"
                             ]
                         },
                         {
@@ -9645,7 +9645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the appearance of Gandead."
+                                "\\tl<Shirane Commander> This is the appearance of Gandead."
                             ]
                         },
                         {
@@ -9662,7 +9662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please come in right away."
+                                "\\tl<Mika Myogi> Please come in right away."
                             ]
                         },
                         {
@@ -9679,7 +9679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's no time to take a break."
+                                "\\tl<Aoi Haruna> There's no time to take a break."
                             ]
                         },
                         {

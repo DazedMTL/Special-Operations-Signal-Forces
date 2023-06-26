@@ -5642,7 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I got a supply of all-nighter drinks until morning!"
+                                "I got a supply of energy drinks until morning!"
                             ]
                         },
                         {
@@ -6136,7 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the mental stabilizer!"
+                                "I obtained the mental stabilizer medication!"
                             ]
                         },
                         {
@@ -6511,7 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> You... my base!! What an unexpected calculation."
+                                "\\tl<Gundead Executive> You... attacking my base!! What an unexpected move."
                             ]
                         },
                         {
@@ -6528,7 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Blue Signal> Those who rely on their intelligence are easily\ntripped up! Your cunning only goes so far!"
+                                "\\>\\tr<Blue Signal> Those who rely on their intelligence are easily tripped\nup! Your cunning only goes so far!"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Yellow Signal> I'm going to destroy this facility and turn it into a\npeaceful park! Be prepared!"
+                                "\\>\\tr<Yellow Signal> I'll destroy this facility and turn it into a peaceful\npark! Prepare yourself!"
                             ]
                         },
                         {
@@ -6562,7 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> We have authorization to immediately use force and\nexecute the death penalty by explosion based on the Gandead\nCountermeasures Act!!"
+                                "\\>\\tr<Red Signal> We have authorization to immediately suppress and\nexecute with extreme force based on the Gandead Countermeasures Act!!"
                             ]
                         },
                         {
@@ -6579,7 +6579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> You, who mass-produces Gandead and promotes crime, I\ncan never forgive you!!"
+                                "\\>\\tr<Red Signal> You, who mass-produces Gandead and promotes crime, I\nabsolutely cannot forgive you!!"
                             ]
                         },
                         {
@@ -6596,7 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Rather convenient. Please take a sample of what would\nhappen if we were to face the Signal Force all at once."
+                                "\\tl<Gundead Executive> Actually, this is quite convenient. It will give us an\nopportunity to gather samples by engaging the Signal Force all at\nonce."
                             ]
                         },
                         {
@@ -6694,7 +6694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデト幹部> \\{\\{ Th-the experiment must continue...!!"
+                                "\\>\\tl<Gandead Executive> \\{\\{ W-We can't abandon the experiment...!!"
                             ]
                         },
                         {
@@ -6882,7 +6882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{Execution complete!!"
+                                "\\{\\{ Execution complete!!"
                             ]
                         },
                         {
@@ -6899,7 +6899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We have executed the enemy executives with the death penalty by\nexplosion. We will now return."
+                                "We have executed the enemy commanders with extreme force and will now\nreturn."
                             ]
                         },
                         {

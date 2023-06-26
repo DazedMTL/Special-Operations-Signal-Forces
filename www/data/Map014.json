@@ -4374,7 +4374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the state of Red Signal."
+                                "Please select Red Signal's condition."
                             ]
                         },
                         {
@@ -4592,7 +4592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the state of Blue Signal."
+                                "Please select Blue Signal's condition."
                             ]
                         },
                         {
@@ -4810,7 +4810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the state of Yellow Signal."
+                                "Please select Yellow Signal's condition."
                             ]
                         },
                         {
@@ -5028,7 +5028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Understood. We will begin the training."
+                                "Confirmed. We will begin the training."
                             ]
                         },
                         {
@@ -5492,7 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Damn you, Signal. I'll definitely escape and show you!"
+                                "Damn it, Signal. I'll definitely escape and show you!"
                             ]
                         },
                         {
@@ -5808,7 +5808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's tight... This is... uncomfortable... It's stuffy..."
+                                "Gitchi gitchi... This is... too close... Dangerous..."
                             ]
                         },
                         {
@@ -5966,7 +5966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, spare me. I just needed to pee standing up for a bit."
+                                "Hey, give me a break. I was just taking a quick pee."
                             ]
                         },
                         {
@@ -6281,7 +6281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't worry about me. Living in prison is comfortable in the VIP\ncell. I'm satisfied, hahaha."
+                                "Don't worry about me. Living in prison is fine, especially in the VIP\ncell. I'm satisfied, hahaha."
                             ]
                         },
                         {
@@ -6358,7 +6358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the first Gandead criminal we captured a few years ago. They\npossess a mysterious ability, so we have them under strict\nconfinement."
+                                "This is the first Gandead criminal we captured a few years ago. We\nhave him securely confined because he possesses a mysterious ability."
                             ]
                         },
                         {
@@ -6436,7 +6436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I am someone who supports fighting heroines. Would you like to buy\nour products?"
+                                "I am someone who supports fighting heroines. Would you like to buy our\nproducts?"
                             ]
                         },
                         {

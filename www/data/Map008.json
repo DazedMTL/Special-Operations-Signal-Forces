@@ -3124,7 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> Doctor, are you alright? I came to help."
+                                "\\>\\tr<Red Signal> Doctor, are you alright? I've come to help."
                             ]
                         },
                         {
@@ -3141,7 +3141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Blue Signal> I can't believe there's this much space in the\ndetention center... What could it possibly be for...?"
+                                "\\>\\tr<Blue Signal> I can't believe there's such a space in the detention\ncenter... What could it possibly be for...?"
                             ]
                         },
                         {
@@ -3158,7 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hey, I've been waiting. It seems like it took you quite\na while."
+                                "\\tl<Gundead Executive> Hey, I've been waiting. It seems like it took you quite\na while."
                             ]
                         },
                         {
@@ -3192,7 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Blue Signal> Is this... the work of just you...?"
+                                "\\>\\tr<Blue Signal> Is this... the work of only you...?"
                             ]
                         },
                         {
@@ -3209,7 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hahaha!! That's right. My ability is hypnotic\ninduction. I've been waiting for a long time, gathering the pent-up\nfrustrations of humans and causing internal collapse."
+                                "\\tl<Gundead Executive> Hahaha!! That's right. My ability is hypnotic induction.\nI've been waiting for a long time, gathering the pent-up frustrations\nof humans and causing internal collapse."
                             ]
                         },
                         {
@@ -3226,7 +3226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> This base is truly wonderful. From now on, let's make\neffective use of it as a facility for Gandead. Staff members, please\ncontinue to work hard."
+                                "\\tl<Gundead Executive> This base is truly magnificent. From now on, let's make\neffective use of it as a facility for Gandead. Staff members, please\ncontinue to work hard."
                             ]
                         },
                         {
@@ -3243,7 +3243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> Don't joke around!! There isn't a single person in\nthis base who would obediently work for Gandead."
+                                "\\>\\tr<Red Signal> Don't be ridiculous!! There isn't a single person in\nthis base who would obediently work for Gandead."
                             ]
                         },
                         {
@@ -3260,7 +3260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Is that so? Do you think I was able to move this far\nwithout any collaborators on the inside?"
+                                "\\tl<Gundead Executive> Is that so? Do you think I was able to move this far\nwithout any collaborators on the inside?"
                             ]
                         },
                         {
@@ -3277,7 +3277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Blue Signal> No... could it be...?!"
+                                "\\>\\tr<Blue Signal> No... it can't be...!!"
                             ]
                         },
                         {
@@ -3294,7 +3294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Well, it's already something that doesn't concern you\nanymore. The staff who resist will be made to work with stronger\nbrainwashing. Please become the foundation for the reorganization of\nthe new organization."
+                                "\\tl<Gundead Executive> Well, it's already irrelevant to you. Let's have the\ndisobedient staff work under stronger brainwashing. They have become\nthe foundation for the reorganization of the new organization."
                             ]
                         },
                         {
@@ -3311,7 +3311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Yellow Signal> How annoying!! I'll just send you flying and solve\neverything myself!!"
+                                "\\>\\tr<Yellow Signal> How annoying! I'll just send you flying and solve\neverything myself!"
                             ]
                         },
                         {
@@ -3328,7 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> Y-Yes!! We have permission to immediately use force\nand execute lethal measures based on the Gandead Countermeasures\nAct!!"
+                                "\\>\\tr<Red Signal> Y-Yes!! We have authorization for immediate use of force\nand execution by explosive killing based on the Gandead\nCountermeasures Act!!"
                             ]
                         },
                         {
@@ -3362,7 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmm, I suppose there's no helping it. Let me inflict a\nlittle pain and then have you listen carefully to what I have to say."
+                                "\\tl<Gundead Executive> Hmm, I suppose there's no helping it. Let me inflict a\nlittle pain on you first, and then I'll make you listen carefully."
                             ]
                         },
                         {
@@ -3468,7 +3468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデト幹部> \\{\\{ Our plan was going so well~!!"
+                                "\\>\\tl<Gandead Executive> \\{\\{ What a waste of a strategy~!!"
                             ]
                         },
                         {
@@ -4320,7 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the mental stabilizer!"
+                                "I obtained the mental stabilizer medication!"
                             ]
                         },
                         {
@@ -4854,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<Red Signal> Damn... I can't afford to be caught in a situation like\nthis... I need to hurry and meet up... I have to save the doctor too."
+                                "\\tr<Red Signal> Damn... I can't afford to be caught in a situation like\nthis... I need to hurry... and rendezvous... I have to save the doctor\ntoo."
                             ]
                         },
                         {
@@ -5055,7 +5055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Um, what exactly is happening here? Can you please release me\nalready?"
+                                "Um, what on earth is happening here? Can you please release me\nalready?"
                             ]
                         },
                         {
@@ -5697,7 +5697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Will you fully recover the team?"
+                                "Do you want to fully recover the team?"
                             ]
                         },
                         {
@@ -9416,7 +9416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I got a supply of drinks to last until morning!"
+                                "I got a supply of energy drinks until morning!"
                             ]
                         },
                         {
@@ -9663,7 +9663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I got a supply of all-nighter drinks until morning!"
+                                "I got a supply of energy drinks until morning!"
                             ]
                         },
                         {

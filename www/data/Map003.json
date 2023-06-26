@@ -2575,7 +2575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Hmph, you've finally made it this far. Well, I guess\nI'll personally take care of you."
+                                "\\tl<Gundead Executive> Hmph, so you've finally made it this far. Well, I guess\nI'll personally take care of you."
                             ]
                         },
                         {
@@ -2609,7 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> We have authorization to immediately use force and\nexecute the death penalty by explosion on the scene based on the\nGandead Countermeasures Act!!"
+                                "\\>\\tr<Red Signal> We have the authority to immediately suppress and\nexecute with lethal force on-site based on the Gandead Countermeasures\nAct!!"
                             ]
                         },
                         {
@@ -2626,7 +2626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Very well, I'll defeat you and turn the tables."
+                                "\\tl<Gundead Executive> Very well, I'll make sure to defeat you thoroughly."
                             ]
                         },
                         {
@@ -2724,7 +2724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデト幹部> \\{\\{ Gyuaaaa~!!"
+                                "\\>\\tl<Gandead Executive> \\{\\{ Gyuaaaaaaaahhhhhhh!!"
                             ]
                         },
                         {
@@ -2929,7 +2929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We have executed the enemy executive with the extreme punishment of\nexplosion. We will now return."
+                                "I have executed the enemy executive with extreme punishment. I will\nnow return."
                             ]
                         },
                         {
@@ -5426,7 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the mental stabilizer medication!"
+                                "I obtained the mental stabilizer!"
                             ]
                         },
                         {
@@ -7151,7 +7151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I am someone who supports fighting heroines. Would you like to buy\nour products?"
+                                "I am someone who supports fighting heroines. Would you like to buy our\nproducts?"
                             ]
                         },
                         {
@@ -7311,7 +7311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3] Defeat the small fry and reach the boss. If you defeat the boss,\nthe stage will be cleared."
+                                "\\c[3]Defeat the small fry and reach the boss. Clear the stage by\ndefeating the boss."
                             ]
                         },
                         {
@@ -7340,7 +7340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]You can communicate with Blue and Yellow from the menu. They\nmight be able to give you some hints."
+                                "\\c[3]You can communicate with Blue and Yellow from the menu. You might\nbe able to hear some hints."
                             ]
                         },
                         {
@@ -7369,7 +7369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3] If two people are being held captive again, you can instead\nconfirm the current situation (H scene)."
+                                "\\c[3]If two people are being held captive again, you can instead\nconfirm the current situation (H scene)."
                             ]
                         },
                         {
@@ -7398,7 +7398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When your suit is destroyed, your defense decreases but your attack\npower increases. Also, if you win while being completely humiliated,\nyou can earn double the experience points."
+                                "\\c[3]When your suit is destroyed, your defense decreases but your\nattack power increases. Additionally, if you win while being\ncompletely humiliated, you can acquire double the experience points."
                             ]
                         },
                         {
@@ -7427,7 +7427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3] If the battle feels slow, you can speed it up by pressing\nshift. If you want to return to normal speed, press shift again.\nAlso, if you want to hide the message window, you can do so by\npressing ctrl."
+                                "\\c[3]If the battle feels slow, you can speed it up by pressing shift.\nIf you want to revert, press shift again. Also, if you want to hide\nthe message window, you can do so by pressing ctrl."
                             ]
                         },
                         {
@@ -7656,7 +7656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<Red Signal> Ugh... I messed up... Senpais..."
+                                "\\tr<Red Signal> Ugh... I messed up... What about my senpais..."
                             ]
                         },
                         {
@@ -7673,7 +7673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<Red Signal> I can't even establish communication... Where on\nearth... We need to regroup quickly..."
+                                "\\tr<Red Signal> I can't even establish communication... Where on earth...\nWe need to regroup quickly..."
                             ]
                         },
                         {
@@ -7709,7 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3] Let's go rescue Blue and Yellow. We can confirm the current\nstate of humiliation from the communication. If we keep losing, it\nwill continue to progress rapidly."
+                                "\\c[3] Let's go rescue Blue and Yellow. We can confirm the current\nstate of humiliation through communication. If we keep losing, it will\nprogress rapidly."
                             ]
                         },
                         {
@@ -7738,7 +7738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3] During team separation, it is overwhelmingly disadvantageous,\nbut when fighting alone or with two people, it becomes a state of\nadversity, and all values will continue to recover for a certain\nperiod of time."
+                                "\\c[3] During team separation, it is overwhelmingly disadvantageous,\nbut when fighting alone or with two people, it becomes a situation of\nadversity, and all values will continue to recover for a certain\nperiod of time."
                             ]
                         },
                         {
@@ -7965,7 +7965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<少女> Th-thank you so much!!"
+                                "\\tr<少女> Th-th-thank you so much!!"
                             ]
                         },
                         {
@@ -9128,7 +9128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<少女> Ahhhh!! I'm too late to escape!! Someone help me!!"
+                                "\\tr<少女> Ahhhh!! I'm too late to escape!! Someone help meeeeee!"
                             ]
                         },
                         {
@@ -11067,7 +11067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the mental medication!"
+                                "I obtained the mental medicine!"
                             ]
                         },
                         {
@@ -11314,7 +11314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the mental medication!"
+                                "I obtained the mental medicine!"
                             ]
                         },
                         {
@@ -12055,7 +12055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the suicide drug!"
+                                "I obtained the poison!"
                             ]
                         },
                         {
@@ -12192,7 +12192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come on in, come on in! We have a wide selection of items perfect for\nfighting women."
+                                "Welcome, welcome! We have a wide selection of items perfect for\nfighting women."
                             ]
                         },
                         {

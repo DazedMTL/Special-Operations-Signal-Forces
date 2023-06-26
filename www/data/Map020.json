@@ -280,7 +280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Emergency crime alert!! Emergency crime alert!!"
+                                "Emergency Crime Alert!! Emergency Crime Alert!!"
                             ]
                         },
                         {
@@ -309,7 +309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tl<白根司令> It's serious. Everyone, the base has been taken over by\nsomeone. The criminals who were detained in the detention center...\nGwaaaahhh!"
+                                "\\tl<Shirane Commander> It's a disaster. Everyone, the base has been taken over by\nsomeone. The criminals we had detained in the holding cells...\nGwaaaah!"
                             ]
                         },
                         {
@@ -326,7 +326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<Red Signal> W-What's happening? Why?"
+                                "\\>\\tr<Red Signal> W-What's wrong? Why?"
                             ]
                         },
                         {
@@ -343,7 +343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<Yellow Signal> I can't believe this mission was a decoy, right?"
+                                "\\>\\tr<Yellow Signal> I can't believe this mission was just a decoy, right?"
                             ]
                         },
                         {
@@ -535,7 +535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<Red Signal> How terrible"
+                                "\\>\\tr<Red Signal> How terrible."
                             ]
                         },
                         {
@@ -552,7 +552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<白根司令> Uuu..."
+                                "\\>\\tl<Shirane Commander> Uuu..."
                             ]
                         },
                         {
@@ -698,7 +698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tr<Red Signal> Commander"
+                                "\\>\\tr<Red Signal> Commander."
                             ]
                         },
                         {
@@ -715,7 +715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<白根司令> I'm fine... But more importantly, what about Rikka...?"
+                                "\\>\\tl<Shirane Commander> I'm fine... But more importantly, what about Rikka...?"
                             ]
                         },
                         {
@@ -749,7 +749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<白根司令> They've been taken away by the escaped criminals. We need\nto hurry..."
+                                "\\>\\tl<Shirane Commander> They've been taken away by the escaped criminals. We need\nto hurry..."
                             ]
                         },
                         {
@@ -824,7 +824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In this way, the peace of the city is protected today. Fight, Signal\nForce!! Don't lose, Signal Force!!"
+                                "Thus, today the peace of the city was protected. Fight, Signal Force!!\nDon't lose, Signal Force!!"
                             ]
                         },
                         {

@@ -3804,7 +3804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> How dare you, the Four Heavenly Kings of the Orcs!! If\nthat's the case, I'll personally take care of you!"
+                                "\\tl<Gundead Executive> How dare you face the Four Heavenly Kings of the Orcs!\nIf that's the case, I'll personally take care of you!"
                             ]
                         },
                         {
@@ -3821,7 +3821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Blue Signal> They were just opponents with nothing special, just\nmuscle-bound dolls!! They can resent their brute strength all they\nwant!!"
+                                "\\>\\tr<Blue Signal> They were just a weak opponent relying on their\nmuscles! They can resent their brute strength all they want!"
                             ]
                         },
                         {
@@ -3855,7 +3855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> We have permission to immediately use force and\nexecute the death penalty by explosion on-site based on the Gandead\nCountermeasures Act!!"
+                                "\\>\\tr<Red Signal> We have the authority to immediately suppress and\nexecute with extreme force on the spot based on the Gandead\nCountermeasures Act!!"
                             ]
                         },
                         {
@@ -3872,7 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> The act of trying to force anything through with\nviolence! It's no longer acceptable!"
+                                "\\>\\tr<Red Signal> The act of trying to force everything through with brute\nstrength! It's no longer acceptable!"
                             ]
                         },
                         {
@@ -3889,7 +3889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> Your lines are lame. I can't remember them anymore.\nLet's go."
+                                "\\tl<Gundead Executive> Your lines are lame. I won't remember them anymore.\nLet's go."
                             ]
                         },
                         {
@@ -3987,7 +3987,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデト幹部> \\{\\{ Hmph, how dare you!!"
+                                "\\>\\tl<Gandead Executive> \\{\\{ Hmph, how dare youuuuuu~!!"
                             ]
                         },
                         {
@@ -4192,7 +4192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I have executed the enemy executive with the explosive death penalty.\nI will now return."
+                                "I have executed the enemy commander with the extreme punishment of\nexplosion. I will now return."
                             ]
                         },
                         {
@@ -4888,7 +4888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, I won't let you pass here!!"
+                                "Hehehe, you won't get through here!!"
                             ]
                         },
                         {
@@ -4913,7 +4913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to use dynamite?"
+                                "Use dynamite?"
                             ]
                         },
                         {
@@ -5742,7 +5742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the mental stabilizer!"
+                                "I obtained the mental stabilizer medication!"
                             ]
                         },
                         {
@@ -6977,7 +6977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I got an energy drink in one shot!"
+                                "I got a power-up drink!"
                             ]
                         },
                         {
@@ -8239,7 +8239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, I won't let you pass here!!"
+                                "Hehehe, you won't get through here!!"
                             ]
                         },
                         {
@@ -8264,7 +8264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to use dynamite?"
+                                "Use dynamite?"
                             ]
                         },
                         {
@@ -10087,7 +10087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, one of the Four Oak Generals has arrived. Here comes the\nmuscular Oak!!"
+                                "Hehehe, here comes one of the Four Oak Generals, the muscular Oak!!"
                             ]
                         },
                         {
@@ -10161,7 +10161,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{ Ugyaaaahhh!!"
+                                "\\{\\{ Ugyaaaaaaaah!!"
                             ]
                         },
                         {
@@ -11709,7 +11709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the mental stabilizer!"
+                                "I obtained the mental stabilizer medication!"
                             ]
                         },
                         {
@@ -12764,7 +12764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, one of the Four Oak Kings, Slim and Muscular Oak!!"
+                                "Hehehe, one of the Four Heavenly Kings of Orcs, the Slim and Muscular\nOrc!!"
                             ]
                         },
                         {
@@ -12789,7 +12789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to use dynamite?"
+                                "Use dynamite?"
                             ]
                         },
                         {
@@ -12838,7 +12838,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{ Ugyaaaahhh!!"
+                                "\\{\\{ Ugyaaaaaaaah!!"
                             ]
                         },
                         {
@@ -13439,7 +13439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<作業員> Hiihii... H-Help meeee!"
+                                "\\tr<作業員> Hiihii... P-Please help meeee!"
                             ]
                         },
                         {
@@ -13482,7 +13482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> What's going on..."
+                                "\\tr<Red> Mumble mumble..."
                             ]
                         },
                         {
@@ -13516,7 +13516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> Gomooo..."
+                                "\\tr<Red> Gomooo..."
                             ]
                         },
                         {
@@ -13550,7 +13550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<Red Signal> I'm Signal. I came to rescue you. Everything is okay\nnow."
+                                "\\tr<Red Signal> I'm a signal. I came to rescue you. You're safe now."
                             ]
                         },
                         {
@@ -13579,7 +13579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I rescued the citizens. I obtained PP."
+                                "I rescued the civilians. I obtained PP."
                             ]
                         },
                         {
@@ -13764,7 +13764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<作業員> Hiihii... H-Help meeee!"
+                                "\\tr<作業員> Hiihii... P-Please help meeee!"
                             ]
                         },
                         {
@@ -13807,7 +13807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> What's going on..."
+                                "\\tr<Red> Mumble mumble..."
                             ]
                         },
                         {
@@ -13841,7 +13841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> Gomooo..."
+                                "\\tr<Red> Gomooo..."
                             ]
                         },
                         {
@@ -13875,7 +13875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<Red Signal> I'm Signal. I came to rescue you. Everything is okay\nnow."
+                                "\\tr<Red Signal> I'm a signal. I came to rescue you. You're safe now."
                             ]
                         },
                         {
@@ -13904,7 +13904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I rescued the citizens. I obtained PP."
+                                "I rescued the civilians. I obtained PP."
                             ]
                         },
                         {
@@ -14089,7 +14089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<作業員> Hiihii... H-Help meeee!"
+                                "\\tr<作業員> Hiihii... P-Please help meeee!"
                             ]
                         },
                         {
@@ -14132,7 +14132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> What's going on..."
+                                "\\tr<Red> Mumble mumble..."
                             ]
                         },
                         {
@@ -14166,7 +14166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> Gomooo..."
+                                "\\tr<Red> Gomooo..."
                             ]
                         },
                         {
@@ -14200,7 +14200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<Red Signal> I'm Signal. I came to rescue you. Everything is okay\nnow."
+                                "\\tr<Red Signal> I'm a signal. I came to rescue you. You're safe now."
                             ]
                         },
                         {
@@ -14229,7 +14229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I rescued the citizens. I obtained PP."
+                                "I rescued the civilians. I obtained PP."
                             ]
                         },
                         {
@@ -14414,7 +14414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<作業員> Hiihii... H-Help meeee!"
+                                "\\tr<作業員> Hiihii... P-Please help meeee!"
                             ]
                         },
                         {
@@ -14457,7 +14457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> What's going on..."
+                                "\\tr<Red> Mumble mumble..."
                             ]
                         },
                         {
@@ -14491,7 +14491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> Gomooo..."
+                                "\\tr<Red> Gomooo..."
                             ]
                         },
                         {
@@ -14525,7 +14525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<Red Signal> I'm Signal. I came to rescue you. Everything is okay\nnow."
+                                "\\tr<Red Signal> I'm a signal. I came to rescue you. You're safe now."
                             ]
                         },
                         {
@@ -14554,7 +14554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I rescued the citizens. I obtained PP."
+                                "I rescued the civilians. I obtained PP."
                             ]
                         },
                         {
@@ -14739,7 +14739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<作業員> Hiihii... H-Help meeee!"
+                                "\\tr<作業員> Hiihii... P-Please help meeee!"
                             ]
                         },
                         {
@@ -14782,7 +14782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> What's going on..."
+                                "\\tr<Red> Mumble mumble..."
                             ]
                         },
                         {
@@ -14816,7 +14816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> Gomooo..."
+                                "\\tr<Red> Gomooo..."
                             ]
                         },
                         {
@@ -14850,7 +14850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<Red Signal> I'm Signal. I came to rescue you. Everything is okay\nnow."
+                                "\\tr<Red Signal> I'm a signal. I came to rescue you. You're safe now."
                             ]
                         },
                         {
@@ -14879,7 +14879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I rescued the citizens. I obtained PP."
+                                "I rescued the civilians. I obtained PP."
                             ]
                         },
                         {
@@ -15064,7 +15064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<作業員> Hiihii... H-Help meeee!"
+                                "\\tr<作業員> Hiihii... P-Please help meeee!"
                             ]
                         },
                         {
@@ -15107,7 +15107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> What's going on..."
+                                "\\tr<Red> Mumble mumble..."
                             ]
                         },
                         {
@@ -15141,7 +15141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> Gomooo..."
+                                "\\tr<Red> Gomooo..."
                             ]
                         },
                         {
@@ -15175,7 +15175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<Red Signal> I'm Signal. I came to rescue you. Everything is okay\nnow."
+                                "\\tr<Red Signal> I'm a signal. I came to rescue you. Everything is alright\nnow."
                             ]
                         },
                         {
@@ -15389,7 +15389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<作業員> Hiihii... H-Help meeee!"
+                                "\\tr<作業員> Hiihii... P-Please help meeee!"
                             ]
                         },
                         {
@@ -15432,7 +15432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> What's going on..."
+                                "\\tr<Red> Mumble mumble..."
                             ]
                         },
                         {
@@ -15466,7 +15466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<レド> Gomooo..."
+                                "\\tr<Red> Gomooo..."
                             ]
                         },
                         {
@@ -15500,7 +15500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\tr<Red Signal> I'm Signal. I came to rescue you. Everything is okay\nnow."
+                                "\\tr<Red Signal> I'm a signal. I came to rescue you. You're safe now."
                             ]
                         },
                         {
@@ -15529,7 +15529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I rescued the citizens. I obtained PP."
+                                "I rescued the civilians. I obtained PP."
                             ]
                         },
                         {
@@ -15714,7 +15714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I am someone who supports fighting heroines. Would you like to buy\nour products?"
+                                "I am someone who supports fighting heroines. Would you like to buy our\nproducts?"
                             ]
                         },
                         {
@@ -15862,7 +15862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, I won't let you pass here!!"
+                                "Hehehe, you won't get through here!!"
                             ]
                         },
                         {
@@ -15887,7 +15887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to use dynamite?"
+                                "Use dynamite?"
                             ]
                         },
                         {
@@ -17035,7 +17035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<Red Signal>\\ Did the worker forget to put it away? Let's blow away\nthis troublesome Gandead with this."
+                                "\\tr<Red Signal>\\ Did the workers forget to put it away? Let's use this to\nblow away the troublesome Gandead."
                             ]
                         },
                         {
@@ -17674,7 +17674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, one of the Four Oak Generals, the shining muscular Oak, has\narrived!!"
+                                "Hehehe, one of the Four Oak Generals, the shining black muscular Oak,\nhas arrived!!"
                             ]
                         },
                         {
@@ -17748,7 +17748,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{ Ugyaaaahhh!!"
+                                "\\{\\{ Ugyaaaaaaaah!!"
                             ]
                         },
                         {

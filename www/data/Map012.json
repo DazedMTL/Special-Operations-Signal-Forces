@@ -5744,7 +5744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> You're so persistent! How dare you touch my babies!"
+                                "\\tl<Gundead Executive> You're so persistent! How dare you touch my babies!"
                             ]
                         },
                         {
@@ -5761,7 +5761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Blue Signal> You, the executive of Gandead, who threatens the lives\nof citizens!! Water is the source of life!! Learn your lesson!!"
+                                "\\>\\tr<Blue Signal> You, the executive of the Gandead that threatens\ncivilian life! Water is the source of life! Learn your lesson!"
                             ]
                         },
                         {
@@ -5778,7 +5778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Yellow Signal> I want to quickly exterminate you so I can continue\ndrinking tea. Prepare yourself, because I'm going to drain all the\nwater from the sewer and go all out!!"
+                                "\\>\\tr<Yellow Signal> I want to quickly exterminate you so I can continue my\ntea. I'm going to drain all the water from the sewer, so be prepared!"
                             ]
                         },
                         {
@@ -5795,7 +5795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\tr<Red Signal> We have the authorization to immediately use force and\nexecute the death penalty by explosion on-site based on the Gandead\nCountermeasures Act!!"
+                                "\\>\\tr<Red Signal> We have authorization to immediately use lethal force\nand execute the death penalty on the spot based on the Gandead\nCountermeasures Act!"
                             ]
                         },
                         {
@@ -5829,7 +5829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tl<ｷｬﾝﾃｯﾄ幹部> If it comes to this, I'll use you all as breeding\ngrounds and increase my babies even more than before!"
+                                "\\tl<Gundead Executive> In that case, I'll use you as a breeding ground and\nincrease my babies even more than before!"
                             ]
                         },
                         {
@@ -5927,7 +5927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\tl<ギャンデト幹部> \\{\\{ Noooooo!!"
+                                "\\>\\tl<Gandead Executive> \\{\\{ Nooooooo!!!"
                             ]
                         },
                         {
@@ -6132,7 +6132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We have executed the enemy executive with the death penalty by\nexplosion. We will now return."
+                                "We have executed the enemy executive with the extreme punishment of\nexplosion. We will now return."
                             ]
                         },
                         {
@@ -8548,7 +8548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the mental stabilizer!"
+                                "I obtained the mental stabilizer medication!"
                             ]
                         },
                         {
@@ -11916,7 +11916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I got an energy drink in one shot!"
+                                "I got a power-up drink!"
                             ]
                         },
                         {
@@ -14344,7 +14344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ホームレス> Haaaahhhh~ Thank you so much!! I'm really grateful!!"
+                                "\\tr<ホームレス> Haaaaa~ Thank you so much!! I'm really grateful!!"
                             ]
                         },
                         {
@@ -14387,7 +14387,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\tr<ホームレス> (If you look closely, this girl is dressed really\nprovocatively. Her breasts and everything else are completely\nexposed... Let's take a good look.)"
+                                "\\tr<ホームレス> (Now that I look closely, this girl is dressed really\nprovocatively. Her breasts and everything else are completely\nexposed... Let's take a good look.)"
                             ]
                         },
                         {
@@ -14713,7 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\tr<ホームレス> Buekkushoi... What the... I was taking a nap in the\nsewer... What is this monster!! Help meeee!"
+                                "\\tr<ホームレス> Ugh... What the... I was taking a nap in the sewer and...\nWhat is this monster!! Help meeee!!"
                             ]
                         },
                         {

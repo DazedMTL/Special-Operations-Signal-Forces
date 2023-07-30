@@ -31573,7 +31573,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員A> Hey, over here! Everyone, come here!!"
+                    "\\tr<Security A> Hey, over here! Everyone, come here!!"
                 ]
             },
             {
@@ -31612,7 +31612,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員B> Wha... What is this...!? Are you all okay? What happened!?"
+                    "\\tr<Security B> Wha... What is this...!? Are you all okay? What happened!?"
                 ]
             },
             {
@@ -31697,7 +31697,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員C> This is bad...! Contact the commander immediately! But what\non earth is this? It doesn't seem to be made of metal..."
+                    "\\tr<Security C> This is bad...! Contact the commander immediately! But what\non earth is this? It doesn't seem to be made of metal..."
                 ]
             },
             {
@@ -31748,7 +31748,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員A> However, this position must be uncomfortable. I'll help you\nout right away."
+                    "\\tr<Security A> However, this position must be uncomfortable. I'll help you\nout right away."
                 ]
             },
             {
@@ -31833,7 +31833,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員B> We can't just stand here and watch them in that state!"
+                    "\\tr<Security B> We can't just stand here and watch them in that state!"
                 ]
             },
             {
@@ -31912,7 +31912,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員A> W-What is this...? How did this happen...?"
+                    "\\tr<Security A> W-What is this...? How did this happen...?"
                 ]
             },
             {
@@ -32292,7 +32292,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員A> Being forcefully made to eat feces... Ah, what a terrible\nthing..."
+                    "\\tr<Security A> Being forcefully made to eat feces... Ah, what a terrible\nthing..."
                 ]
             },
             {
@@ -32479,7 +32479,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員A> H-However, we can't just leave you like this...! If only\nthere was a way to help you..."
+                    "\\tr<Security A> H-However, we can't just leave you like this...! If only\nthere was a way to help you..."
                 ]
             },
             {
@@ -32660,7 +32660,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\tr<警備員B> Um, are you okay...? Um... can you hear me? What's wrong?\nPlease respond... please answer me!!"
+                    "\\tr<Security B> Um, are you okay...? Um... can you hear me? What's wrong?\nPlease respond... please answer me!!"
                 ]
             },
             {
